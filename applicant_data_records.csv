@@ -1,0 +1,1201 @@
+Applicant_Name,Gender,District,State,Pincode,Ownership,GovtId_Type,ID_Number,Category,Load_Applied,Date_Of_Application,Date_of_Approval,Modified_Date,Reviewer_Id,Reviewer_Name,Reviewer_Comment
+Amit Kumar,Male,New Delhi,Delhi,652527,Leased,Driving License,1.94E+11,Industrial,1.68,15-05-2024,23-05-2024,01-06-2024,1013,Sunita,Approved
+Priya Patel,Female,Nagpur,Maharashtra,682830,Leased,Driving License,8.22E+11,Industrial,7.52,12-04-2024,22-04-2024,01-05-2024,1064,Sunita,Approved
+Anita Singh,Female,New Delhi,Delhi,643885,Rented,Driving License,7.14E+11,Commercial,9.3,12-02-2024,23-02-2024,29-02-2024,1066,Anjali,Need Documents
+Pooja Mehta,Female,Thiruvananthapuram,Kerala,646063,Rented,PAN,3.79E+11,Industrial,8.45,30-04-2023,29-05-2023,01-06-2023,1050,Mahesh,Pending
+Neha Mehta,Female,Thiruvananthapuram,Kerala,641327,Leased,Driving License,6.40E+11,Commercial,9.17,06-07-2023,11-07-2023,19-07-2023,1068,Mahesh,Pending
+Kavya Sharma,Female,Nagpur,Maharashtra,675594,Rented,Driving License,1.37E+11,Industrial,4.44,02-02-2024,07-02-2024,14-02-2024,1062,Sunita,Approved
+Lakshmi Singh,Female,New Delhi,Delhi,617233,Rented,Voter ID,1.79E+11,Domestic,7.93,27-01-2024,01-02-2024,05-02-2024,1037,Sunita,Need Documents
+Suresh Patel,Male,Salem,Tamil Nadu,609250,Rented,PAN,3.14E+11,Commercial,4.66,01-09-2023,30-09-2023,01-10-2023,1093,Mahesh,Pending
+Suresh Sharma,Male,Chennai,Tamil Nadu,692415,Rented,Aadhaar,6.02E+11,Commercial,9.82,05-02-2023,24-02-2023,26-02-2023,1073,Sunita,Need Documents
+Suresh Mehta,Male,Nagpur,Maharashtra,645970,Rented,PAN,5.45E+11,Industrial,8.15,11-04-2024,28-04-2024,06-05-2024,1055,Anjali,Need Documents
+Divya Singh,Female,Mangaluru,Karnataka,663598,Owned,Driving License,3.49E+11,Industrial,1.58,27-08-2023,18-09-2023,28-09-2023,1021,Sunita,Approved
+Anita Iyer,Female,Mumbai,Maharashtra,622926,Rented,Driving License,9.52E+11,Domestic,4.24,02-03-2023,24-03-2023,24-03-2023,1048,Mahesh,Pending
+Vijay Sharma,Male,Thiruvananthapuram,Kerala,635122,Owned,Driving License,7.46E+11,Commercial,9.19,28-12-2023,04-01-2024,09-01-2024,1008,Sunita,Need Documents
+Meena Iyer,Female,Salem,Tamil Nadu,616306,Leased,Aadhaar,6.82E+11,Domestic,5.13,23-02-2024,14-03-2024,23-03-2024,1002,Anjali,Approved
+Meena Singh,Female,Salem,Tamil Nadu,640800,Leased,PAN,4.85E+11,Industrial,8.95,29-08-2023,05-09-2023,14-09-2023,1005,Anjali,Pending
+Amit Patel,Male,Salem,Tamil Nadu,627075,Rented,Voter ID,5.15E+11,Commercial,6.12,17-12-2023,28-12-2023,28-12-2023,1058,Sunita,Pending
+Manoj Patel,Male,New Delhi,Delhi,698101,Leased,Driving License,1.52E+11,Commercial,1.58,23-03-2024,01-04-2024,05-04-2024,1005,Ramesh,Approved
+Lakshmi Das,Female,Nagpur,Maharashtra,623002,Owned,Driving License,7.92E+11,Domestic,7.43,22-01-2023,17-02-2023,22-02-2023,1091,Ramesh,Approved
+Vijay Iyer,Male,Chennai,Tamil Nadu,685185,Leased,Voter ID,5.68E+11,Commercial,9.55,11-01-2023,08-02-2023,16-02-2023,1020,Sunita,Pending
+Karthik Mehta,Male,Mumbai,Maharashtra,604126,Owned,Driving License,5.19E+11,Industrial,3.45,21-01-2023,31-01-2023,05-02-2023,1018,Sunita,Pending
+Neha Reddy,Female,New Delhi,Delhi,672576,Leased,Driving License,7.04E+11,Commercial,1.28,08-07-2023,13-07-2023,17-07-2023,1045,Mahesh,Pending
+Priya Iyer,Female,Thiruvananthapuram,Kerala,634912,Owned,PAN,4.83E+11,Industrial,2.98,16-11-2023,08-12-2023,09-12-2023,1069,Mahesh,Need Documents
+Lakshmi Patel,Female,Bengaluru,Karnataka,658933,Owned,Aadhaar,2.39E+11,Industrial,3.3,01-04-2024,08-04-2024,12-04-2024,1022,Mahesh,Pending
+Neha Mehta,Female,New Delhi,Delhi,674251,Owned,Voter ID,5.06E+11,Commercial,9.61,02-02-2024,24-02-2024,27-02-2024,1001,Ramesh,Pending
+Ravi Das,Male,Pune,Maharashtra,623058,Rented,Voter ID,8.76E+11,Domestic,6.76,23-06-2023,22-07-2023,27-07-2023,1084,Ramesh,Approved
+Suresh Das,Male,Mysuru,Karnataka,683270,Rented,Driving License,2.17E+11,Commercial,3.33,12-10-2023,08-11-2023,11-11-2023,1099,Anjali,Approved
+Arun Patel,Male,Bengaluru,Karnataka,683799,Owned,Driving License,8.15E+11,Domestic,4.49,23-01-2023,16-02-2023,26-02-2023,1069,Ramesh,Pending
+Priya Iyer,Female,Pune,Maharashtra,672607,Leased,Driving License,6.30E+11,Commercial,4.07,17-03-2023,14-04-2023,19-04-2023,1068,Mahesh,Pending
+Manoj Kumar,Male,Coimbatore,Tamil Nadu,610290,Leased,Aadhaar,3.15E+11,Industrial,7.55,17-01-2024,22-01-2024,22-01-2024,1079,Ramesh,Approved
+Ravi Iyer,Male,New Delhi,Delhi,682472,Leased,PAN,3.46E+11,Industrial,1.57,27-04-2024,06-05-2024,14-05-2024,1049,Mahesh,Approved
+Lakshmi Iyer,Female,Pune,Maharashtra,697011,Owned,PAN,5.33E+11,Domestic,6.9,19-01-2023,25-01-2023,27-01-2023,1091,Ramesh,Pending
+Pooja Sharma,Female,Mysuru,Karnataka,633962,Owned,PAN,9.69E+11,Commercial,5.13,14-09-2023,23-09-2023,03-10-2023,1071,Anjali,Pending
+Arun Singh,Male,Nagpur,Maharashtra,695444,Leased,PAN,4.63E+11,Commercial,8.83,03-02-2023,15-02-2023,23-02-2023,1045,Anjali,Pending
+Lakshmi Kumar,Female,Mysuru,Karnataka,641469,Rented,PAN,2.36E+11,Commercial,2.55,22-03-2023,30-03-2023,01-04-2023,1042,Mahesh,Pending
+Amit Reddy,Male,Mysuru,Karnataka,663925,Leased,PAN,8.32E+11,Domestic,1.21,28-04-2023,19-05-2023,27-05-2023,1008,Sunita,Need Documents
+Neha Patel,Female,Thiruvananthapuram,Kerala,600615,Rented,Aadhaar,9.71E+11,Industrial,1.5,02-12-2023,27-12-2023,02-01-2024,1002,Mahesh,Approved
+Suresh Kumar,Male,New Delhi,Delhi,625975,Owned,Voter ID,2.89E+11,Industrial,0.5,07-10-2023,01-11-2023,03-11-2023,1052,Sunita,Pending
+Lakshmi Singh,Female,Kozhikode,Kerala,657978,Leased,Driving License,2.57E+11,Commercial,5.35,12-08-2023,28-08-2023,05-09-2023,1052,Ramesh,Approved
+Priya Reddy,Female,Thiruvananthapuram,Kerala,656315,Owned,Driving License,2.27E+11,Domestic,4.98,18-03-2023,17-04-2023,17-04-2023,1049,Ramesh,Pending
+Neha Patel,Female,Chennai,Tamil Nadu,699582,Owned,Driving License,2.17E+11,Domestic,9.65,24-04-2023,03-05-2023,13-05-2023,1078,Anjali,Approved
+Divya Iyer,Female,Mangaluru,Karnataka,659117,Rented,Driving License,3.70E+11,Domestic,3.36,12-07-2023,26-07-2023,26-07-2023,1060,Ramesh,Need Documents
+Neha Das,Female,New Delhi,Delhi,610347,Rented,PAN,6.73E+11,Industrial,2.52,29-03-2023,06-04-2023,14-04-2023,1050,Ramesh,Approved
+Ravi Singh,Male,Pune,Maharashtra,646879,Leased,Driving License,7.71E+11,Domestic,0.52,29-04-2024,17-05-2024,17-05-2024,1059,Ramesh,Pending
+Pooja Sharma,Female,New Delhi,Delhi,620792,Owned,Aadhaar,2.62E+11,Commercial,6.54,20-08-2023,25-08-2023,31-08-2023,1077,Mahesh,Need Documents
+Divya Mehta,Female,Madurai,Tamil Nadu,667052,Owned,Voter ID,7.71E+11,Domestic,0.75,05-09-2023,29-09-2023,29-09-2023,1060,Sunita,Approved
+Meena Reddy,Female,Mysuru,Karnataka,601343,Owned,Driving License,6.74E+11,Domestic,5.01,24-01-2024,31-01-2024,09-02-2024,1002,Ramesh,Pending
+Vijay Iyer,Male,New Delhi,Delhi,677607,Owned,PAN,5.59E+11,Industrial,4.93,12-02-2024,24-02-2024,03-03-2024,1078,Sunita,Need Documents
+Vijay Das,Male,Pune,Maharashtra,680168,Leased,Aadhaar,8.13E+11,Industrial,5.41,17-03-2023,06-04-2023,15-04-2023,1051,Anjali,Pending
+Rahul Sharma,Male,Thiruvananthapuram,Kerala,667124,Rented,Aadhaar,3.04E+11,Industrial,6.69,04-12-2023,03-01-2024,10-01-2024,1003,Anjali,Approved
+Anita Iyer,Female,Mangaluru,Karnataka,642635,Leased,Voter ID,3.83E+11,Domestic,3.78,08-05-2023,13-05-2023,18-05-2023,1050,Anjali,Pending
+Suresh Sharma,Male,Kochi,Kerala,619637,Rented,PAN,7.52E+11,Industrial,7.57,01-09-2023,07-09-2023,14-09-2023,1075,Anjali,Pending
+Neha Mehta,Female,Pune,Maharashtra,695262,Owned,Aadhaar,4.45E+11,Domestic,4.49,01-01-2024,07-01-2024,11-01-2024,1016,Sunita,Need Documents
+Suresh Das,Male,Kozhikode,Kerala,643186,Rented,Voter ID,9.12E+11,Industrial,4.52,27-06-2023,19-07-2023,28-07-2023,1085,Ramesh,Need Documents
+Priya Reddy,Female,Mysuru,Karnataka,645252,Owned,Aadhaar,8.74E+11,Domestic,6.04,15-02-2024,24-02-2024,01-03-2024,1036,Sunita,Pending
+Pooja Sharma,Female,Nagpur,Maharashtra,667294,Leased,Driving License,2.54E+11,Commercial,6.92,30-05-2023,06-06-2023,09-06-2023,1035,Mahesh,Pending
+Lakshmi Das,Female,Bengaluru,Karnataka,658862,Rented,Aadhaar,4.97E+11,Industrial,8.86,05-07-2023,22-07-2023,31-07-2023,1046,Anjali,Approved
+Suresh Reddy,Male,Thiruvananthapuram,Kerala,638114,Rented,Voter ID,2.87E+11,Industrial,9.62,10-04-2024,08-05-2024,11-05-2024,1006,Ramesh,Pending
+Rahul Singh,Male,Coimbatore,Tamil Nadu,674614,Rented,PAN,1.50E+11,Commercial,4.89,08-05-2023,26-05-2023,01-06-2023,1045,Anjali,Need Documents
+Vijay Kumar,Male,New Delhi,Delhi,613382,Leased,Driving License,4.25E+11,Domestic,2.78,28-02-2023,28-03-2023,05-04-2023,1056,Sunita,Need Documents
+Divya Mehta,Female,Nagpur,Maharashtra,612914,Owned,PAN,9.68E+11,Domestic,2.05,31-07-2023,15-08-2023,16-08-2023,1034,Ramesh,Approved
+Neha Singh,Female,Kochi,Kerala,620505,Owned,Driving License,2.37E+11,Industrial,6.52,13-09-2023,18-09-2023,18-09-2023,1093,Anjali,Need Documents
+Rahul Sharma,Male,Bengaluru,Karnataka,653981,Rented,Voter ID,7.27E+11,Domestic,7.73,08-03-2023,29-03-2023,30-03-2023,1023,Sunita,Approved
+Neha Reddy,Female,Chennai,Tamil Nadu,685673,Rented,Voter ID,3.99E+11,Industrial,0.97,13-05-2023,28-05-2023,28-05-2023,1024,Ramesh,Approved
+Divya Sharma,Female,Thiruvananthapuram,Kerala,689380,Leased,PAN,8.03E+11,Domestic,3.68,10-07-2023,25-07-2023,30-07-2023,1098,Ramesh,Pending
+Arun Das,Male,Bengaluru,Karnataka,628714,Leased,Aadhaar,4.24E+11,Commercial,6.67,22-03-2023,21-04-2023,26-04-2023,1033,Mahesh,Need Documents
+Lakshmi Patel,Female,New Delhi,Delhi,673758,Rented,PAN,7.07E+11,Industrial,8.89,17-01-2024,22-01-2024,23-01-2024,1075,Anjali,Approved
+Ravi Patel,Male,Thiruvananthapuram,Kerala,614066,Owned,Voter ID,1.23E+11,Domestic,2.33,23-11-2023,18-12-2023,26-12-2023,1081,Ramesh,Need Documents
+Amit Reddy,Male,Chennai,Tamil Nadu,614564,Owned,Driving License,7.45E+11,Domestic,2.84,19-04-2023,03-05-2023,04-05-2023,1010,Mahesh,Pending
+Meena Singh,Female,Thiruvananthapuram,Kerala,610116,Rented,PAN,6.85E+11,Industrial,1.19,17-02-2023,14-03-2023,19-03-2023,1055,Anjali,Approved
+Vijay Singh,Male,Thiruvananthapuram,Kerala,676282,Rented,Aadhaar,3.00E+11,Commercial,7.03,09-03-2024,30-03-2024,08-04-2024,1063,Ramesh,Approved
+Manoj Reddy,Male,Kochi,Kerala,651899,Rented,Aadhaar,6.14E+11,Industrial,1.15,09-05-2023,16-05-2023,16-05-2023,1063,Mahesh,Need Documents
+Ravi Iyer,Male,Coimbatore,Tamil Nadu,610425,Leased,Driving License,4.62E+11,Commercial,0.98,26-10-2023,18-11-2023,22-11-2023,1065,Sunita,Approved
+Vijay Sharma,Male,Pune,Maharashtra,671392,Owned,PAN,2.19E+11,Commercial,0.64,04-07-2023,10-07-2023,17-07-2023,1089,Anjali,Need Documents
+Manoj Sharma,Male,New Delhi,Delhi,660572,Owned,Voter ID,9.45E+11,Domestic,9,07-03-2023,14-03-2023,20-03-2023,1049,Sunita,Need Documents
+Amit Kumar,Male,Bengaluru,Karnataka,657696,Owned,Aadhaar,4.96E+11,Commercial,4.02,14-12-2023,01-01-2024,01-01-2024,1084,Mahesh,Need Documents
+Suresh Reddy,Male,Thiruvananthapuram,Kerala,632890,Leased,Aadhaar,8.10E+11,Domestic,7.71,18-01-2024,24-01-2024,27-01-2024,1097,Sunita,Pending
+Ravi Sharma,Male,Mangaluru,Karnataka,612885,Leased,Driving License,8.02E+11,Domestic,3.98,25-12-2023,03-01-2024,13-01-2024,1055,Mahesh,Need Documents
+Lakshmi Iyer,Female,Salem,Tamil Nadu,628212,Rented,Driving License,9.03E+11,Commercial,3.84,23-03-2023,16-04-2023,22-04-2023,1058,Sunita,Approved
+Suresh Iyer,Male,Kochi,Kerala,617984,Leased,PAN,2.25E+11,Commercial,4.16,04-08-2023,15-08-2023,16-08-2023,1072,Ramesh,Pending
+Pooja Patel,Female,Mumbai,Maharashtra,699843,Leased,Voter ID,3.54E+11,Domestic,5.38,06-12-2023,16-12-2023,24-12-2023,1064,Ramesh,Need Documents
+Lakshmi Patel,Female,Pune,Maharashtra,670224,Leased,PAN,7.85E+11,Industrial,9.46,09-03-2024,05-04-2024,12-04-2024,1055,Sunita,Pending
+Arun Kumar,Male,Nagpur,Maharashtra,616837,Leased,Aadhaar,4.77E+11,Domestic,6.39,15-01-2024,14-02-2024,24-02-2024,1033,Anjali,Approved
+Ravi Singh,Male,Salem,Tamil Nadu,602613,Leased,Driving License,9.71E+11,Domestic,9.26,16-01-2023,23-01-2023,29-01-2023,1080,Mahesh,Pending
+Anita Reddy,Female,New Delhi,Delhi,653991,Leased,PAN,6.95E+11,Commercial,7.1,29-05-2023,13-06-2023,18-06-2023,1012,Ramesh,Approved
+Manoj Singh,Male,Mumbai,Maharashtra,699522,Owned,Driving License,6.83E+11,Domestic,8.29,23-01-2023,14-02-2023,19-02-2023,1048,Mahesh,Approved
+Pooja Iyer,Female,Kochi,Kerala,668697,Owned,Voter ID,9.60E+11,Domestic,6.08,11-03-2023,28-03-2023,02-04-2023,1080,Anjali,Need Documents
+Amit Iyer,Male,Mumbai,Maharashtra,687173,Owned,Voter ID,9.11E+11,Industrial,8.04,09-01-2023,02-02-2023,04-02-2023,1088,Anjali,Pending
+Suresh Sharma,Male,Pune,Maharashtra,615480,Rented,Driving License,3.13E+11,Industrial,1.42,15-04-2023,27-04-2023,04-05-2023,1071,Anjali,Need Documents
+Amit Kumar,Male,New Delhi,Delhi,693883,Rented,Driving License,4.99E+11,Industrial,8.03,26-07-2023,10-08-2023,11-08-2023,1083,Ramesh,Pending
+Ravi Iyer,Male,Mysuru,Karnataka,610929,Rented,Driving License,8.44E+11,Industrial,7.01,26-09-2023,09-10-2023,10-10-2023,1034,Ramesh,Pending
+Meena Iyer,Female,Madurai,Tamil Nadu,688579,Leased,Voter ID,1.20E+11,Industrial,9.41,17-03-2024,26-03-2024,02-04-2024,1053,Anjali,Approved
+Rahul Iyer,Male,Pune,Maharashtra,674877,Owned,PAN,5.16E+11,Domestic,5.52,05-07-2023,18-07-2023,27-07-2023,1053,Sunita,Need Documents
+Anita Kumar,Female,Kozhikode,Kerala,672776,Rented,PAN,7.41E+11,Domestic,7.14,21-05-2023,02-06-2023,05-06-2023,1061,Anjali,Approved
+Rahul Singh,Male,Salem,Tamil Nadu,688340,Rented,Driving License,7.61E+11,Commercial,3.89,03-08-2023,29-08-2023,29-08-2023,1093,Sunita,Need Documents
+Neha Sharma,Female,New Delhi,Delhi,689245,Owned,Driving License,7.65E+11,Domestic,6.16,03-11-2023,14-11-2023,14-11-2023,1092,Sunita,Need Documents
+Karthik Patel,Male,Nagpur,Maharashtra,669352,Leased,Driving License,5.67E+11,Domestic,4.74,29-09-2023,15-10-2023,22-10-2023,1088,Anjali,Approved
+Pooja Patel,Female,Nagpur,Maharashtra,625998,Leased,Aadhaar,9.98E+11,Domestic,2.34,07-11-2023,13-11-2023,13-11-2023,1003,Ramesh,Need Documents
+Suresh Reddy,Male,Bengaluru,Karnataka,695561,Rented,PAN,4.43E+11,Industrial,2.6,06-05-2023,01-06-2023,03-06-2023,1050,Mahesh,Approved
+Kavya Singh,Female,Mumbai,Maharashtra,656459,Rented,Voter ID,9.06E+11,Industrial,4.95,15-05-2023,11-06-2023,11-06-2023,1073,Mahesh,Pending
+Pooja Patel,Female,Pune,Maharashtra,601910,Owned,Aadhaar,8.93E+11,Industrial,7.29,17-02-2024,03-03-2024,13-03-2024,1075,Ramesh,Need Documents
+Arun Reddy,Male,Nagpur,Maharashtra,678115,Rented,Voter ID,8.06E+11,Domestic,9.03,10-02-2024,20-02-2024,23-02-2024,1047,Ramesh,Pending
+Anita Das,Female,Mangaluru,Karnataka,659288,Rented,Voter ID,6.03E+11,Industrial,0.51,24-07-2023,02-08-2023,10-08-2023,1080,Mahesh,Need Documents
+Manoj Mehta,Male,Nagpur,Maharashtra,679403,Leased,Driving License,5.88E+11,Industrial,8.06,29-08-2023,07-09-2023,10-09-2023,1005,Anjali,Pending
+Amit Reddy,Male,Bengaluru,Karnataka,693951,Leased,Voter ID,7.06E+11,Industrial,7.45,29-11-2023,14-12-2023,20-12-2023,1068,Sunita,Pending
+Suresh Patel,Male,New Delhi,Delhi,673252,Rented,PAN,6.97E+11,Domestic,8.08,07-12-2023,25-12-2023,30-12-2023,1074,Anjali,Need Documents
+Divya Singh,Female,New Delhi,Delhi,611254,Rented,Voter ID,1.43E+11,Domestic,7.88,01-08-2023,06-08-2023,12-08-2023,1080,Mahesh,Need Documents
+Ravi Das,Male,Kochi,Kerala,641242,Owned,PAN,3.45E+11,Industrial,5.46,03-06-2023,16-06-2023,26-06-2023,1040,Sunita,Need Documents
+Pooja Sharma,Female,Kozhikode,Kerala,648429,Leased,Aadhaar,9.06E+11,Industrial,6.6,14-05-2024,08-06-2024,13-06-2024,1071,Ramesh,Approved
+Lakshmi Das,Female,Mangaluru,Karnataka,649723,Leased,Voter ID,2.19E+11,Commercial,4.91,13-01-2024,22-01-2024,01-02-2024,1001,Anjali,Need Documents
+Vijay Singh,Male,Pune,Maharashtra,661666,Owned,Aadhaar,7.65E+11,Domestic,8.02,06-06-2023,14-06-2023,20-06-2023,1034,Anjali,Need Documents
+Meena Iyer,Female,New Delhi,Delhi,645932,Rented,Voter ID,3.54E+11,Commercial,4.01,07-02-2023,16-02-2023,18-02-2023,1052,Anjali,Need Documents
+Amit Mehta,Male,Madurai,Tamil Nadu,605009,Owned,Driving License,5.95E+11,Domestic,2.7,20-02-2023,02-03-2023,08-03-2023,1088,Sunita,Need Documents
+Suresh Reddy,Male,Chennai,Tamil Nadu,675260,Leased,Aadhaar,9.40E+11,Industrial,9.32,29-04-2023,07-05-2023,12-05-2023,1091,Sunita,Need Documents
+Arun Patel,Male,Kozhikode,Kerala,654520,Owned,Driving License,4.59E+11,Commercial,1.39,10-04-2023,02-05-2023,02-05-2023,1082,Sunita,Need Documents
+Rahul Reddy,Male,Kochi,Kerala,622593,Owned,Voter ID,6.30E+11,Industrial,3.62,06-07-2023,27-07-2023,03-08-2023,1098,Sunita,Need Documents
+Anita Mehta,Female,Mangaluru,Karnataka,620367,Leased,Aadhaar,4.45E+11,Domestic,0.71,09-03-2023,08-04-2023,09-04-2023,1032,Anjali,Approved
+Priya Mehta,Female,Chennai,Tamil Nadu,622654,Rented,Voter ID,5.05E+11,Industrial,7.15,14-09-2023,23-09-2023,27-09-2023,1091,Mahesh,Approved
+Karthik Iyer,Male,Mangaluru,Karnataka,635394,Leased,Driving License,5.54E+11,Commercial,8.99,06-08-2023,02-09-2023,10-09-2023,1045,Sunita,Need Documents
+Rahul Sharma,Male,New Delhi,Delhi,640046,Rented,Voter ID,3.74E+11,Industrial,1.73,02-02-2023,27-02-2023,28-02-2023,1100,Sunita,Approved
+Ravi Mehta,Male,Thiruvananthapuram,Kerala,673302,Leased,Aadhaar,4.43E+11,Industrial,6.91,05-03-2024,31-03-2024,04-04-2024,1090,Mahesh,Approved
+Amit Mehta,Male,Thiruvananthapuram,Kerala,687383,Leased,Aadhaar,6.47E+11,Industrial,4.59,27-09-2023,19-10-2023,28-10-2023,1055,Ramesh,Need Documents
+Rahul Singh,Male,Mysuru,Karnataka,623309,Owned,Driving License,1.26E+11,Domestic,0.89,04-01-2023,11-01-2023,20-01-2023,1095,Mahesh,Pending
+Amit Reddy,Male,New Delhi,Delhi,611064,Rented,Voter ID,6.95E+11,Domestic,1.52,09-08-2023,23-08-2023,24-08-2023,1008,Anjali,Need Documents
+Amit Patel,Male,Pune,Maharashtra,644682,Owned,Aadhaar,7.78E+11,Commercial,5.87,30-01-2024,28-02-2024,06-03-2024,1093,Sunita,Approved
+Ravi Das,Male,Nagpur,Maharashtra,689561,Rented,Driving License,4.87E+11,Commercial,6.28,23-03-2023,17-04-2023,24-04-2023,1096,Ramesh,Approved
+Suresh Kumar,Male,Mumbai,Maharashtra,644562,Rented,Aadhaar,1.35E+11,Industrial,6.69,26-07-2023,13-08-2023,23-08-2023,1067,Mahesh,Approved
+Ravi Iyer,Male,Mysuru,Karnataka,619187,Leased,Aadhaar,7.67E+11,Domestic,1.77,21-06-2023,11-07-2023,17-07-2023,1007,Sunita,Need Documents
+Suresh Patel,Male,New Delhi,Delhi,694801,Owned,PAN,7.20E+11,Domestic,4.16,11-12-2023,28-12-2023,07-01-2024,1013,Mahesh,Pending
+Kavya Sharma,Female,New Delhi,Delhi,616054,Rented,Driving License,7.56E+11,Industrial,4.21,28-02-2023,20-03-2023,26-03-2023,1060,Sunita,Need Documents
+Neha Kumar,Female,New Delhi,Delhi,666656,Leased,PAN,3.55E+11,Commercial,0.67,09-03-2024,14-03-2024,20-03-2024,1017,Sunita,Pending
+Pooja Sharma,Female,Coimbatore,Tamil Nadu,696036,Owned,Voter ID,6.95E+11,Domestic,3.23,03-04-2023,03-05-2023,03-05-2023,1024,Sunita,Need Documents
+Suresh Reddy,Male,Coimbatore,Tamil Nadu,608544,Rented,PAN,1.72E+11,Commercial,9.92,13-06-2023,11-07-2023,18-07-2023,1016,Sunita,Approved
+Suresh Reddy,Male,Mangaluru,Karnataka,621790,Leased,Driving License,2.86E+11,Industrial,7.57,19-03-2023,12-04-2023,22-04-2023,1041,Anjali,Need Documents
+Pooja Sharma,Female,New Delhi,Delhi,663486,Rented,Driving License,7.77E+11,Industrial,8.03,26-12-2023,14-01-2024,24-01-2024,1078,Mahesh,Pending
+Divya Singh,Female,Mysuru,Karnataka,698470,Owned,Voter ID,6.35E+11,Industrial,0.83,05-05-2024,13-05-2024,15-05-2024,1045,Mahesh,Need Documents
+Pooja Patel,Female,New Delhi,Delhi,670117,Leased,Voter ID,9.02E+11,Commercial,8.27,07-05-2024,22-05-2024,25-05-2024,1010,Ramesh,Need Documents
+Neha Singh,Female,Nagpur,Maharashtra,644395,Rented,Aadhaar,7.51E+11,Industrial,1.11,08-07-2023,27-07-2023,05-08-2023,1077,Mahesh,Need Documents
+Vijay Mehta,Male,Bengaluru,Karnataka,609262,Rented,PAN,8.10E+11,Industrial,4.84,18-12-2023,27-12-2023,04-01-2024,1089,Sunita,Need Documents
+Priya Sharma,Female,Kozhikode,Kerala,643489,Rented,Voter ID,8.94E+11,Industrial,5.59,27-02-2023,26-03-2023,31-03-2023,1081,Sunita,Pending
+Anita Iyer,Female,Kochi,Kerala,620511,Owned,PAN,3.13E+11,Industrial,8.86,17-07-2023,28-07-2023,01-08-2023,1092,Mahesh,Need Documents
+Anita Sharma,Female,Mysuru,Karnataka,667586,Leased,PAN,3.07E+11,Commercial,6.48,21-04-2024,16-05-2024,20-05-2024,1091,Mahesh,Pending
+Ravi Mehta,Male,Kozhikode,Kerala,691067,Rented,Voter ID,5.81E+11,Commercial,4.61,14-02-2024,15-03-2024,17-03-2024,1092,Mahesh,Need Documents
+Amit Patel,Male,Chennai,Tamil Nadu,631550,Leased,Voter ID,4.84E+11,Domestic,7.42,19-11-2023,01-12-2023,08-12-2023,1017,Ramesh,Pending
+Vijay Mehta,Male,New Delhi,Delhi,611495,Rented,Driving License,1.84E+11,Commercial,4.31,17-11-2023,12-12-2023,20-12-2023,1079,Mahesh,Pending
+Kavya Singh,Female,Salem,Tamil Nadu,663363,Leased,Aadhaar,5.89E+11,Domestic,5.9,19-07-2023,15-08-2023,21-08-2023,1024,Ramesh,Pending
+Priya Reddy,Female,Mumbai,Maharashtra,614237,Owned,PAN,2.95E+11,Domestic,5.66,29-12-2023,14-01-2024,16-01-2024,1086,Sunita,Need Documents
+Karthik Mehta,Male,New Delhi,Delhi,621735,Rented,Driving License,6.54E+11,Industrial,8.39,15-03-2024,27-03-2024,28-03-2024,1052,Ramesh,Need Documents
+Manoj Iyer,Male,Chennai,Tamil Nadu,633082,Owned,Voter ID,6.65E+11,Domestic,7.92,14-11-2023,09-12-2023,14-12-2023,1041,Anjali,Approved
+Anita Sharma,Female,Pune,Maharashtra,630552,Rented,Aadhaar,3.40E+11,Commercial,8.31,14-11-2023,25-11-2023,25-11-2023,1061,Ramesh,Approved
+Divya Singh,Female,Coimbatore,Tamil Nadu,645031,Rented,Driving License,4.36E+11,Domestic,5.72,06-04-2024,21-04-2024,27-04-2024,1008,Mahesh,Approved
+Amit Iyer,Male,New Delhi,Delhi,676574,Rented,PAN,3.58E+11,Domestic,6.15,01-10-2023,10-10-2023,13-10-2023,1045,Mahesh,Need Documents
+Vijay Kumar,Male,Mumbai,Maharashtra,632525,Leased,Driving License,9.38E+11,Industrial,3.55,14-04-2024,19-04-2024,22-04-2024,1073,Ramesh,Approved
+Neha Kumar,Female,Kozhikode,Kerala,624790,Owned,PAN,3.36E+11,Industrial,0.95,07-10-2023,01-11-2023,05-11-2023,1001,Ramesh,Need Documents
+Anita Mehta,Female,Thiruvananthapuram,Kerala,636991,Leased,Voter ID,5.78E+11,Commercial,2.34,26-04-2024,20-05-2024,27-05-2024,1047,Ramesh,Need Documents
+Neha Iyer,Female,Kozhikode,Kerala,696285,Rented,Driving License,3.53E+11,Domestic,6.89,30-10-2023,27-11-2023,07-12-2023,1053,Anjali,Pending
+Karthik Patel,Male,New Delhi,Delhi,614390,Owned,Aadhaar,3.49E+11,Commercial,9.92,30-07-2023,05-08-2023,15-08-2023,1068,Anjali,Need Documents
+Divya Mehta,Female,Salem,Tamil Nadu,642136,Owned,Voter ID,2.08E+11,Commercial,3.17,27-04-2023,10-05-2023,18-05-2023,1051,Anjali,Approved
+Karthik Iyer,Male,Bengaluru,Karnataka,664510,Owned,Voter ID,3.11E+11,Commercial,8.42,09-02-2024,09-03-2024,16-03-2024,1086,Sunita,Pending
+Anita Das,Female,Bengaluru,Karnataka,665867,Leased,PAN,7.54E+11,Industrial,5.08,15-01-2024,28-01-2024,03-02-2024,1039,Anjali,Pending
+Suresh Mehta,Male,Kochi,Kerala,622738,Leased,Voter ID,6.47E+11,Commercial,9.27,24-02-2024,03-03-2024,03-03-2024,1061,Mahesh,Approved
+Kavya Kumar,Female,Madurai,Tamil Nadu,642014,Owned,Aadhaar,2.89E+11,Domestic,7.11,28-02-2024,29-03-2024,01-04-2024,1049,Ramesh,Need Documents
+Neha Iyer,Female,Salem,Tamil Nadu,674158,Leased,PAN,5.10E+11,Commercial,3.23,28-01-2024,18-02-2024,18-02-2024,1096,Mahesh,Pending
+Divya Reddy,Female,Mumbai,Maharashtra,629027,Owned,Voter ID,3.76E+11,Commercial,7.7,02-03-2023,13-03-2023,21-03-2023,1052,Sunita,Need Documents
+Suresh Reddy,Male,Bengaluru,Karnataka,602710,Leased,Driving License,5.75E+11,Commercial,8.99,05-02-2024,22-02-2024,24-02-2024,1022,Ramesh,Pending
+Suresh Singh,Male,Madurai,Tamil Nadu,689951,Leased,Voter ID,8.47E+11,Domestic,9.98,10-10-2023,03-11-2023,06-11-2023,1090,Mahesh,Pending
+Kavya Mehta,Female,Pune,Maharashtra,652316,Owned,PAN,2.32E+11,Domestic,3.88,09-02-2024,28-02-2024,06-03-2024,1040,Anjali,Pending
+Manoj Mehta,Male,Coimbatore,Tamil Nadu,623609,Leased,Voter ID,5.97E+11,Industrial,4.51,15-06-2023,29-06-2023,06-07-2023,1010,Anjali,Pending
+Divya Sharma,Female,Kochi,Kerala,645202,Rented,Aadhaar,6.84E+11,Commercial,4.12,24-12-2023,01-01-2024,05-01-2024,1007,Sunita,Need Documents
+Anita Das,Female,Kozhikode,Kerala,671650,Leased,PAN,5.74E+11,Domestic,6.53,22-12-2023,01-01-2024,01-01-2024,1030,Mahesh,Pending
+Neha Mehta,Female,New Delhi,Delhi,679403,Leased,Voter ID,4.90E+11,Industrial,2.74,26-01-2024,13-02-2024,18-02-2024,1077,Anjali,Need Documents
+Kavya Das,Female,Mangaluru,Karnataka,660159,Owned,PAN,2.03E+11,Domestic,8.61,17-12-2023,07-01-2024,09-01-2024,1091,Sunita,Need Documents
+Ravi Reddy,Male,Salem,Tamil Nadu,651432,Rented,Voter ID,7.15E+11,Commercial,2.5,20-02-2024,27-02-2024,05-03-2024,1065,Ramesh,Need Documents
+Neha Mehta,Female,Mumbai,Maharashtra,691374,Leased,Driving License,7.18E+11,Commercial,8.04,01-03-2023,16-03-2023,21-03-2023,1035,Mahesh,Approved
+Karthik Das,Male,New Delhi,Delhi,604841,Rented,Voter ID,6.03E+11,Industrial,9.51,13-02-2023,22-02-2023,25-02-2023,1023,Anjali,Pending
+Pooja Iyer,Female,Salem,Tamil Nadu,681607,Owned,PAN,7.26E+11,Domestic,2.74,31-01-2023,07-02-2023,10-02-2023,1057,Sunita,Approved
+Vijay Mehta,Male,Kochi,Kerala,611809,Rented,Aadhaar,7.65E+11,Industrial,2.23,28-01-2023,12-02-2023,12-02-2023,1064,Sunita,Need Documents
+Rahul Patel,Male,Chennai,Tamil Nadu,690084,Owned,Driving License,3.96E+11,Commercial,7.83,02-09-2023,20-09-2023,30-09-2023,1097,Anjali,Pending
+Rahul Patel,Male,Mysuru,Karnataka,651266,Rented,Voter ID,9.23E+11,Commercial,6.74,02-04-2024,20-04-2024,20-04-2024,1050,Anjali,Approved
+Divya Iyer,Female,Kozhikode,Kerala,634337,Rented,Voter ID,9.00E+11,Commercial,9.02,25-03-2024,10-04-2024,15-04-2024,1048,Mahesh,Need Documents
+Kavya Iyer,Female,Kochi,Kerala,636104,Rented,Driving License,5.37E+11,Commercial,3.94,06-03-2024,19-03-2024,26-03-2024,1050,Mahesh,Pending
+Divya Patel,Female,Bengaluru,Karnataka,692949,Owned,Voter ID,1.06E+11,Industrial,9.15,08-03-2023,01-04-2023,10-04-2023,1087,Ramesh,Need Documents
+Pooja Reddy,Female,Nagpur,Maharashtra,687956,Rented,Aadhaar,2.46E+11,Commercial,8.4,26-03-2023,25-04-2023,04-05-2023,1048,Sunita,Pending
+Karthik Iyer,Male,Bengaluru,Karnataka,602712,Rented,PAN,4.99E+11,Commercial,5.08,14-04-2023,01-05-2023,10-05-2023,1067,Sunita,Need Documents
+Kavya Iyer,Female,Kochi,Kerala,651150,Rented,Voter ID,2.36E+11,Industrial,4.99,21-03-2024,04-04-2024,04-04-2024,1065,Anjali,Approved
+Priya Kumar,Female,Mumbai,Maharashtra,650343,Owned,Voter ID,1.91E+11,Industrial,7.02,22-02-2024,17-03-2024,27-03-2024,1038,Mahesh,Approved
+Meena Reddy,Female,Salem,Tamil Nadu,604685,Leased,Voter ID,9.75E+11,Commercial,8.74,15-12-2023,02-01-2024,05-01-2024,1002,Sunita,Approved
+Kavya Patel,Female,Kochi,Kerala,668525,Owned,Aadhaar,6.50E+11,Commercial,3.88,25-06-2023,23-07-2023,02-08-2023,1088,Mahesh,Approved
+Rahul Iyer,Male,Mangaluru,Karnataka,660039,Leased,Voter ID,3.78E+11,Domestic,3.42,05-06-2023,01-07-2023,05-07-2023,1073,Sunita,Pending
+Anita Mehta,Female,Mumbai,Maharashtra,637446,Leased,Voter ID,8.94E+11,Industrial,0.86,10-02-2024,04-03-2024,05-03-2024,1003,Ramesh,Need Documents
+Amit Reddy,Male,Salem,Tamil Nadu,697096,Rented,Voter ID,6.04E+11,Industrial,3.49,21-05-2023,18-06-2023,24-06-2023,1035,Mahesh,Pending
+Vijay Mehta,Male,Coimbatore,Tamil Nadu,619279,Rented,Aadhaar,7.69E+11,Industrial,1.48,27-08-2023,13-09-2023,16-09-2023,1035,Anjali,Approved
+Neha Kumar,Female,Mumbai,Maharashtra,603797,Rented,Voter ID,8.05E+11,Domestic,8.43,09-07-2023,06-08-2023,14-08-2023,1058,Sunita,Need Documents
+Ravi Sharma,Male,New Delhi,Delhi,634378,Leased,Driving License,2.46E+11,Commercial,5.82,05-08-2023,30-08-2023,07-09-2023,1073,Sunita,Pending
+Meena Patel,Female,New Delhi,Delhi,692383,Leased,Driving License,7.62E+11,Commercial,7.58,23-02-2023,10-03-2023,10-03-2023,1037,Ramesh,Need Documents
+Vijay Kumar,Male,Pune,Maharashtra,612069,Owned,Driving License,6.79E+11,Industrial,3.26,27-03-2024,06-04-2024,09-04-2024,1085,Anjali,Pending
+Suresh Kumar,Male,Bengaluru,Karnataka,631448,Leased,Aadhaar,2.91E+11,Industrial,2.3,27-02-2024,20-03-2024,28-03-2024,1057,Sunita,Pending
+Karthik Reddy,Male,New Delhi,Delhi,664354,Rented,Aadhaar,1.95E+11,Commercial,9.73,10-02-2024,22-02-2024,24-02-2024,1008,Anjali,Pending
+Neha Reddy,Female,Thiruvananthapuram,Kerala,621416,Owned,PAN,3.61E+11,Industrial,0.82,17-08-2023,26-08-2023,02-09-2023,1027,Ramesh,Approved
+Neha Singh,Female,New Delhi,Delhi,686594,Owned,Voter ID,8.86E+11,Industrial,6.37,08-02-2023,05-03-2023,07-03-2023,1008,Ramesh,Need Documents
+Lakshmi Singh,Female,Kochi,Kerala,643012,Owned,PAN,3.24E+11,Industrial,2.96,11-05-2024,10-06-2024,13-06-2024,1012,Mahesh,Pending
+Ravi Patel,Male,Coimbatore,Tamil Nadu,627466,Owned,Voter ID,4.54E+11,Domestic,2.7,10-08-2023,18-08-2023,20-08-2023,1022,Anjali,Approved
+Pooja Kumar,Female,Coimbatore,Tamil Nadu,638162,Owned,Driving License,3.71E+11,Industrial,4.91,27-02-2023,18-03-2023,28-03-2023,1022,Anjali,Pending
+Ravi Kumar,Male,New Delhi,Delhi,604135,Rented,Voter ID,3.03E+11,Industrial,2.6,28-03-2023,04-04-2023,04-04-2023,1012,Ramesh,Need Documents
+Karthik Singh,Male,Nagpur,Maharashtra,670548,Owned,Driving License,6.79E+11,Commercial,9.86,16-04-2024,28-04-2024,07-05-2024,1070,Mahesh,Approved
+Manoj Iyer,Male,New Delhi,Delhi,675578,Rented,PAN,9.05E+11,Domestic,4.45,03-04-2023,28-04-2023,02-05-2023,1062,Ramesh,Need Documents
+Kavya Iyer,Female,Nagpur,Maharashtra,639256,Owned,Driving License,6.37E+11,Commercial,2.33,07-04-2023,01-05-2023,04-05-2023,1019,Anjali,Approved
+Ravi Singh,Male,Kochi,Kerala,661015,Leased,PAN,2.86E+11,Industrial,4.5,05-08-2023,30-08-2023,03-09-2023,1093,Sunita,Pending
+Lakshmi Iyer,Female,Thiruvananthapuram,Kerala,633370,Leased,Driving License,8.21E+11,Domestic,5.8,28-04-2024,07-05-2024,14-05-2024,1020,Sunita,Approved
+Meena Patel,Female,New Delhi,Delhi,651806,Rented,Voter ID,6.65E+11,Industrial,4.35,27-03-2024,22-04-2024,28-04-2024,1046,Anjali,Pending
+Vijay Kumar,Male,Thiruvananthapuram,Kerala,672104,Leased,Voter ID,3.76E+11,Industrial,4.38,11-07-2023,26-07-2023,05-08-2023,1030,Sunita,Approved
+Lakshmi Patel,Female,Mumbai,Maharashtra,602537,Owned,Aadhaar,2.14E+11,Commercial,5.56,26-02-2023,06-03-2023,10-03-2023,1050,Ramesh,Approved
+Amit Reddy,Male,Chennai,Tamil Nadu,643541,Owned,Voter ID,2.55E+11,Commercial,8.93,21-02-2024,03-03-2024,10-03-2024,1033,Ramesh,Pending
+Anita Singh,Female,Kozhikode,Kerala,667528,Leased,Aadhaar,1.71E+11,Industrial,5.15,07-05-2024,25-05-2024,31-05-2024,1030,Anjali,Need Documents
+Suresh Reddy,Male,Bengaluru,Karnataka,630310,Leased,Aadhaar,7.27E+11,Industrial,8.51,25-08-2023,30-08-2023,08-09-2023,1061,Anjali,Approved
+Manoj Reddy,Male,Bengaluru,Karnataka,635038,Leased,Driving License,4.40E+11,Industrial,9.97,30-12-2023,21-01-2024,22-01-2024,1059,Mahesh,Need Documents
+Divya Singh,Female,Coimbatore,Tamil Nadu,659274,Rented,Driving License,2.80E+11,Commercial,7.1,17-03-2024,31-03-2024,03-04-2024,1056,Sunita,Pending
+Priya Das,Female,Mangaluru,Karnataka,665561,Leased,Voter ID,2.66E+11,Industrial,0.81,13-09-2023,04-10-2023,14-10-2023,1030,Ramesh,Pending
+Neha Sharma,Female,New Delhi,Delhi,613586,Leased,PAN,4.03E+11,Commercial,0.96,05-12-2023,16-12-2023,20-12-2023,1085,Mahesh,Pending
+Rahul Patel,Male,Pune,Maharashtra,660365,Leased,PAN,8.98E+11,Industrial,8.06,19-08-2023,12-09-2023,15-09-2023,1069,Ramesh,Pending
+Lakshmi Das,Female,Kochi,Kerala,698299,Owned,Driving License,9.40E+11,Domestic,0.72,20-01-2024,11-02-2024,21-02-2024,1007,Anjali,Pending
+Amit Patel,Male,Thiruvananthapuram,Kerala,656916,Rented,Aadhaar,9.56E+11,Commercial,3.65,22-09-2023,04-10-2023,10-10-2023,1023,Anjali,Need Documents
+Rahul Sharma,Male,Pune,Maharashtra,614069,Rented,Voter ID,1.35E+11,Industrial,9.87,23-08-2023,13-09-2023,23-09-2023,1004,Anjali,Need Documents
+Rahul Das,Male,New Delhi,Delhi,678026,Owned,Driving License,4.72E+11,Commercial,9.1,16-05-2023,27-05-2023,05-06-2023,1092,Anjali,Need Documents
+Rahul Sharma,Male,Mangaluru,Karnataka,604937,Owned,Driving License,3.41E+11,Commercial,6,15-05-2023,02-06-2023,11-06-2023,1018,Ramesh,Pending
+Priya Iyer,Female,Mumbai,Maharashtra,649650,Leased,PAN,5.56E+11,Domestic,7.8,17-01-2024,05-02-2024,10-02-2024,1087,Sunita,Need Documents
+Manoj Mehta,Male,Mangaluru,Karnataka,685180,Owned,Voter ID,6.06E+11,Commercial,2.62,09-04-2024,28-04-2024,03-05-2024,1044,Sunita,Need Documents
+Meena Patel,Female,Kochi,Kerala,660363,Owned,Driving License,5.30E+11,Industrial,6.55,20-04-2023,13-05-2023,15-05-2023,1036,Sunita,Need Documents
+Pooja Kumar,Female,New Delhi,Delhi,677354,Rented,Voter ID,9.82E+11,Domestic,1.96,03-03-2023,23-03-2023,28-03-2023,1059,Mahesh,Approved
+Ravi Das,Male,Kozhikode,Kerala,698588,Owned,PAN,4.56E+11,Domestic,5.55,23-07-2023,04-08-2023,06-08-2023,1061,Ramesh,Pending
+Suresh Kumar,Male,Kochi,Kerala,668317,Rented,Driving License,7.58E+11,Commercial,9.11,27-01-2023,07-02-2023,13-02-2023,1052,Anjali,Pending
+Divya Das,Female,Salem,Tamil Nadu,660731,Rented,Aadhaar,4.00E+11,Commercial,5.89,08-01-2024,18-01-2024,18-01-2024,1019,Ramesh,Pending
+Karthik Reddy,Male,Mumbai,Maharashtra,605661,Owned,Aadhaar,5.78E+11,Commercial,4.26,23-04-2023,17-05-2023,26-05-2023,1055,Anjali,Approved
+Rahul Patel,Male,Kozhikode,Kerala,695641,Rented,PAN,7.31E+11,Domestic,1.63,28-10-2023,09-11-2023,11-11-2023,1037,Sunita,Pending
+Lakshmi Das,Female,Salem,Tamil Nadu,625198,Rented,Aadhaar,7.48E+11,Domestic,7.88,15-05-2024,30-05-2024,08-06-2024,1020,Ramesh,Need Documents
+Kavya Mehta,Female,Salem,Tamil Nadu,649200,Owned,Driving License,8.98E+11,Commercial,4,25-12-2023,02-01-2024,04-01-2024,1084,Anjali,Pending
+Pooja Sharma,Female,Thiruvananthapuram,Kerala,613651,Owned,Voter ID,4.30E+11,Commercial,2.53,01-07-2023,23-07-2023,26-07-2023,1073,Sunita,Pending
+Pooja Kumar,Female,Kozhikode,Kerala,660583,Owned,PAN,4.11E+11,Domestic,0.69,07-10-2023,18-10-2023,23-10-2023,1045,Mahesh,Need Documents
+Meena Das,Female,Pune,Maharashtra,678615,Rented,Driving License,8.59E+11,Domestic,3.64,20-10-2023,19-11-2023,27-11-2023,1023,Mahesh,Pending
+Suresh Mehta,Male,Mumbai,Maharashtra,610629,Leased,Aadhaar,8.89E+11,Industrial,8.14,03-07-2023,02-08-2023,11-08-2023,1042,Ramesh,Pending
+Rahul Iyer,Male,Nagpur,Maharashtra,617987,Leased,Aadhaar,7.42E+11,Domestic,6.24,08-02-2023,03-03-2023,04-03-2023,1029,Ramesh,Pending
+Anita Kumar,Female,Madurai,Tamil Nadu,663269,Leased,Driving License,9.67E+11,Domestic,4.57,18-04-2024,13-05-2024,20-05-2024,1037,Sunita,Approved
+Meena Patel,Female,Kochi,Kerala,630334,Leased,Voter ID,8.54E+11,Industrial,8.99,10-10-2023,19-10-2023,27-10-2023,1081,Anjali,Approved
+Karthik Mehta,Male,New Delhi,Delhi,666385,Rented,Voter ID,7.17E+11,Domestic,6.65,29-08-2023,20-09-2023,30-09-2023,1064,Sunita,Pending
+Ravi Reddy,Male,Bengaluru,Karnataka,619851,Rented,Driving License,7.60E+11,Commercial,7.1,10-05-2023,05-06-2023,05-06-2023,1096,Anjali,Pending
+Lakshmi Singh,Female,Salem,Tamil Nadu,630031,Rented,Aadhaar,6.76E+11,Commercial,9.72,01-07-2023,27-07-2023,06-08-2023,1058,Sunita,Pending
+Neha Das,Female,Bengaluru,Karnataka,684006,Rented,Driving License,6.06E+11,Domestic,9.16,25-11-2023,17-12-2023,22-12-2023,1057,Ramesh,Approved
+Manoj Das,Male,Pune,Maharashtra,690864,Rented,PAN,3.80E+11,Industrial,3.78,20-03-2023,26-03-2023,27-03-2023,1089,Ramesh,Pending
+Meena Reddy,Female,Kochi,Kerala,634546,Leased,Aadhaar,4.43E+11,Commercial,0.67,29-09-2023,14-10-2023,15-10-2023,1049,Sunita,Need Documents
+Priya Singh,Female,Coimbatore,Tamil Nadu,625518,Owned,Voter ID,1.68E+11,Industrial,5.99,18-08-2023,10-09-2023,18-09-2023,1031,Sunita,Approved
+Anita Kumar,Female,Chennai,Tamil Nadu,604595,Leased,Voter ID,7.08E+11,Commercial,5.05,30-10-2023,13-11-2023,14-11-2023,1043,Sunita,Approved
+Rahul Das,Male,Salem,Tamil Nadu,622090,Owned,Aadhaar,2.75E+11,Domestic,3.78,22-01-2024,19-02-2024,24-02-2024,1091,Sunita,Pending
+Vijay Mehta,Male,Coimbatore,Tamil Nadu,655215,Rented,Driving License,3.57E+11,Industrial,6.95,20-04-2023,17-05-2023,27-05-2023,1076,Mahesh,Pending
+Arun Sharma,Male,New Delhi,Delhi,665972,Owned,Driving License,2.00E+11,Domestic,9.95,30-11-2023,20-12-2023,22-12-2023,1097,Ramesh,Approved
+Ravi Mehta,Male,Kochi,Kerala,649180,Owned,Driving License,9.91E+11,Commercial,1.63,24-03-2024,12-04-2024,19-04-2024,1031,Ramesh,Approved
+Suresh Iyer,Male,Mysuru,Karnataka,659626,Leased,Voter ID,2.83E+11,Industrial,8.81,02-01-2023,15-01-2023,22-01-2023,1095,Mahesh,Need Documents
+Manoj Kumar,Male,Kochi,Kerala,665735,Owned,Voter ID,5.86E+11,Industrial,5.47,30-08-2023,14-09-2023,22-09-2023,1007,Mahesh,Approved
+Priya Reddy,Female,New Delhi,Delhi,693331,Rented,PAN,4.17E+11,Domestic,7.64,04-01-2023,21-01-2023,31-01-2023,1056,Anjali,Approved
+Rahul Mehta,Male,New Delhi,Delhi,608072,Owned,Driving License,9.15E+11,Commercial,3.71,18-11-2023,18-12-2023,21-12-2023,1009,Sunita,Need Documents
+Ravi Patel,Male,Coimbatore,Tamil Nadu,603892,Owned,Aadhaar,9.63E+11,Domestic,8.99,14-08-2023,26-08-2023,02-09-2023,1073,Ramesh,Need Documents
+Manoj Reddy,Male,New Delhi,Delhi,600799,Rented,Voter ID,8.47E+11,Commercial,4.69,03-07-2023,02-08-2023,05-08-2023,1074,Sunita,Need Documents
+Arun Reddy,Male,Madurai,Tamil Nadu,653075,Rented,Aadhaar,9.87E+11,Commercial,0.63,06-01-2023,17-01-2023,19-01-2023,1074,Sunita,Need Documents
+Priya Iyer,Female,New Delhi,Delhi,667758,Rented,Aadhaar,4.40E+11,Industrial,3.26,06-03-2024,19-03-2024,28-03-2024,1048,Ramesh,Pending
+Divya Reddy,Female,Mysuru,Karnataka,697634,Leased,PAN,9.35E+11,Commercial,2.62,19-04-2023,13-05-2023,14-05-2023,1036,Sunita,Pending
+Suresh Patel,Male,New Delhi,Delhi,655028,Rented,Aadhaar,8.16E+11,Commercial,2.59,25-08-2023,07-09-2023,11-09-2023,1058,Ramesh,Need Documents
+Anita Reddy,Female,Kozhikode,Kerala,683216,Leased,Aadhaar,5.35E+11,Industrial,2.84,05-03-2023,24-03-2023,29-03-2023,1035,Ramesh,Approved
+Ravi Iyer,Male,Mysuru,Karnataka,687671,Leased,Aadhaar,4.06E+11,Industrial,3.59,18-07-2023,01-08-2023,06-08-2023,1078,Mahesh,Need Documents
+Kavya Iyer,Female,Kozhikode,Kerala,682391,Owned,Driving License,3.21E+11,Industrial,7.85,01-02-2023,20-02-2023,23-02-2023,1011,Mahesh,Need Documents
+Manoj Reddy,Male,Coimbatore,Tamil Nadu,618072,Rented,PAN,7.74E+11,Industrial,0.61,12-03-2023,25-03-2023,04-04-2023,1045,Anjali,Pending
+Priya Das,Female,Coimbatore,Tamil Nadu,608243,Leased,Driving License,9.80E+11,Domestic,8.22,26-03-2024,31-03-2024,10-04-2024,1013,Anjali,Approved
+Amit Mehta,Male,New Delhi,Delhi,635311,Rented,Voter ID,7.74E+11,Domestic,6.7,14-04-2024,14-05-2024,21-05-2024,1020,Mahesh,Pending
+Divya Singh,Female,New Delhi,Delhi,623830,Rented,Driving License,9.56E+11,Commercial,5.8,05-03-2024,04-04-2024,09-04-2024,1018,Anjali,Pending
+Kavya Reddy,Female,Mumbai,Maharashtra,698845,Leased,PAN,5.75E+11,Industrial,1.75,13-05-2023,26-05-2023,01-06-2023,1054,Ramesh,Approved
+Anita Mehta,Female,Madurai,Tamil Nadu,665584,Leased,PAN,4.23E+11,Commercial,2.82,23-02-2024,06-03-2024,16-03-2024,1085,Ramesh,Pending
+Amit Kumar,Male,Kozhikode,Kerala,698929,Rented,Voter ID,5.01E+11,Domestic,9.38,13-05-2023,11-06-2023,15-06-2023,1040,Sunita,Need Documents
+Vijay Iyer,Male,Nagpur,Maharashtra,664903,Leased,Voter ID,4.66E+11,Domestic,8.49,18-05-2023,17-06-2023,19-06-2023,1003,Sunita,Need Documents
+Ravi Das,Male,Thiruvananthapuram,Kerala,609676,Rented,Aadhaar,3.77E+11,Domestic,6.24,12-05-2024,02-06-2024,02-06-2024,1005,Mahesh,Pending
+Kavya Das,Female,Kozhikode,Kerala,685143,Owned,Driving License,8.79E+11,Domestic,1.5,11-10-2023,21-10-2023,26-10-2023,1081,Ramesh,Need Documents
+Kavya Kumar,Female,Bengaluru,Karnataka,641356,Owned,Driving License,4.31E+11,Commercial,1.45,30-01-2023,10-02-2023,11-02-2023,1084,Sunita,Pending
+Ravi Singh,Male,Bengaluru,Karnataka,607474,Rented,Driving License,9.81E+11,Commercial,9.18,14-01-2024,12-02-2024,13-02-2024,1097,Ramesh,Approved
+Amit Mehta,Male,Kochi,Kerala,609878,Leased,PAN,3.68E+11,Commercial,8.02,14-02-2023,07-03-2023,10-03-2023,1081,Anjali,Pending
+Meena Kumar,Female,New Delhi,Delhi,697752,Leased,Aadhaar,3.88E+11,Industrial,2.5,30-10-2023,05-11-2023,14-11-2023,1084,Anjali,Need Documents
+Rahul Patel,Male,Mysuru,Karnataka,638594,Owned,Driving License,2.33E+11,Domestic,1.98,04-04-2024,24-04-2024,03-05-2024,1024,Mahesh,Approved
+Divya Reddy,Female,Bengaluru,Karnataka,699351,Leased,Voter ID,2.84E+11,Industrial,8.47,15-02-2024,16-03-2024,17-03-2024,1029,Ramesh,Pending
+Suresh Iyer,Male,Kochi,Kerala,660679,Rented,Voter ID,9.21E+11,Domestic,1.92,23-07-2023,15-08-2023,21-08-2023,1059,Mahesh,Pending
+Manoj Iyer,Male,Bengaluru,Karnataka,684735,Owned,Voter ID,9.50E+11,Domestic,4.01,11-12-2023,30-12-2023,08-01-2024,1094,Anjali,Need Documents
+Meena Singh,Female,Pune,Maharashtra,624662,Owned,Driving License,1.83E+11,Industrial,5.94,31-03-2024,09-04-2024,10-04-2024,1044,Ramesh,Pending
+Amit Patel,Male,Mangaluru,Karnataka,663322,Rented,Driving License,4.97E+11,Industrial,8.8,28-07-2023,23-08-2023,26-08-2023,1006,Ramesh,Pending
+Divya Reddy,Female,Bengaluru,Karnataka,690273,Leased,Aadhaar,4.20E+11,Domestic,0.61,19-03-2023,29-03-2023,07-04-2023,1039,Anjali,Need Documents
+Manoj Kumar,Male,Mysuru,Karnataka,613562,Owned,Aadhaar,8.54E+11,Industrial,3.32,13-03-2024,22-03-2024,01-04-2024,1068,Mahesh,Pending
+Karthik Reddy,Male,New Delhi,Delhi,615194,Rented,Voter ID,1.30E+11,Commercial,2.55,07-11-2023,29-11-2023,29-11-2023,1023,Sunita,Need Documents
+Kavya Das,Female,New Delhi,Delhi,665610,Rented,PAN,4.86E+11,Domestic,9.07,19-04-2024,07-05-2024,13-05-2024,1023,Mahesh,Need Documents
+Kavya Mehta,Female,New Delhi,Delhi,605477,Owned,Aadhaar,3.79E+11,Industrial,8.45,16-01-2024,22-01-2024,01-02-2024,1091,Mahesh,Approved
+Manoj Patel,Male,Mumbai,Maharashtra,684664,Owned,Aadhaar,5.92E+11,Domestic,1.86,14-07-2023,29-07-2023,04-08-2023,1041,Mahesh,Pending
+Kavya Kumar,Female,Pune,Maharashtra,676864,Leased,Voter ID,5.73E+11,Domestic,3.77,14-02-2023,02-03-2023,07-03-2023,1068,Sunita,Approved
+Priya Iyer,Female,New Delhi,Delhi,669804,Owned,Aadhaar,2.70E+11,Domestic,0.97,14-10-2023,06-11-2023,11-11-2023,1075,Ramesh,Approved
+Karthik Reddy,Male,Kozhikode,Kerala,657823,Rented,Voter ID,4.09E+11,Commercial,5.52,05-01-2024,17-01-2024,20-01-2024,1048,Ramesh,Need Documents
+Neha Iyer,Female,Chennai,Tamil Nadu,665381,Owned,Driving License,7.98E+11,Domestic,6.23,25-07-2023,19-08-2023,25-08-2023,1037,Mahesh,Pending
+Meena Iyer,Female,Chennai,Tamil Nadu,604020,Rented,PAN,3.17E+11,Commercial,6.12,16-07-2023,26-07-2023,01-08-2023,1079,Ramesh,Approved
+Amit Mehta,Male,Thiruvananthapuram,Kerala,653692,Owned,Voter ID,1.05E+11,Commercial,3.19,10-05-2024,27-05-2024,03-06-2024,1055,Mahesh,Approved
+Suresh Patel,Male,Mysuru,Karnataka,622286,Owned,Driving License,2.45E+11,Domestic,7.23,25-04-2024,05-05-2024,12-05-2024,1040,Anjali,Pending
+Divya Iyer,Female,Pune,Maharashtra,694222,Leased,Voter ID,7.40E+11,Domestic,8,03-08-2023,01-09-2023,02-09-2023,1094,Mahesh,Pending
+Anita Das,Female,Nagpur,Maharashtra,630295,Rented,Driving License,4.12E+11,Commercial,8.86,16-12-2023,21-12-2023,28-12-2023,1093,Ramesh,Approved
+Arun Sharma,Male,Bengaluru,Karnataka,653005,Owned,Voter ID,5.64E+11,Commercial,1.58,13-10-2023,24-10-2023,03-11-2023,1083,Anjali,Need Documents
+Meena Patel,Female,Kozhikode,Kerala,609716,Rented,PAN,7.50E+11,Industrial,2.31,06-12-2023,11-12-2023,11-12-2023,1061,Mahesh,Pending
+Rahul Das,Male,Kochi,Kerala,665462,Leased,Driving License,7.21E+11,Commercial,9.75,21-04-2024,03-05-2024,12-05-2024,1038,Sunita,Pending
+Vijay Iyer,Male,Mangaluru,Karnataka,602314,Rented,PAN,1.48E+11,Industrial,9.95,25-03-2024,16-04-2024,18-04-2024,1047,Anjali,Pending
+Arun Das,Male,Madurai,Tamil Nadu,602774,Owned,Voter ID,5.92E+11,Domestic,7.27,16-04-2024,27-04-2024,29-04-2024,1080,Ramesh,Need Documents
+Amit Das,Male,Coimbatore,Tamil Nadu,635934,Owned,Voter ID,8.53E+11,Domestic,8.5,08-02-2023,05-03-2023,09-03-2023,1095,Ramesh,Pending
+Priya Sharma,Female,Bengaluru,Karnataka,670354,Leased,PAN,1.34E+11,Industrial,3.31,07-02-2023,26-02-2023,05-03-2023,1042,Sunita,Pending
+Karthik Kumar,Male,Chennai,Tamil Nadu,613048,Owned,Driving License,9.25E+11,Domestic,0.7,26-11-2023,16-12-2023,24-12-2023,1030,Ramesh,Need Documents
+Manoj Kumar,Male,Thiruvananthapuram,Kerala,688105,Rented,Driving License,3.97E+11,Industrial,7.74,19-01-2024,09-02-2024,17-02-2024,1039,Anjali,Pending
+Rahul Das,Male,Kochi,Kerala,654982,Leased,Aadhaar,8.63E+11,Industrial,4.4,26-12-2023,16-01-2024,24-01-2024,1060,Anjali,Pending
+Lakshmi Reddy,Female,Kozhikode,Kerala,633493,Leased,Aadhaar,2.38E+11,Domestic,0.65,18-10-2023,26-10-2023,28-10-2023,1059,Sunita,Need Documents
+Rahul Singh,Male,Kozhikode,Kerala,601144,Rented,Driving License,3.82E+11,Commercial,8.23,14-01-2023,11-02-2023,16-02-2023,1097,Anjali,Pending
+Karthik Das,Male,New Delhi,Delhi,640910,Owned,Voter ID,8.96E+11,Domestic,9.03,27-12-2023,07-01-2024,15-01-2024,1079,Mahesh,Pending
+Vijay Kumar,Male,Mumbai,Maharashtra,671311,Rented,PAN,7.84E+11,Industrial,9.89,30-01-2023,20-02-2023,21-02-2023,1091,Mahesh,Need Documents
+Amit Sharma,Male,Madurai,Tamil Nadu,639552,Leased,PAN,3.53E+11,Commercial,6.39,26-12-2023,18-01-2024,21-01-2024,1046,Anjali,Need Documents
+Pooja Reddy,Female,Mysuru,Karnataka,640192,Rented,Driving License,8.96E+11,Domestic,8.05,01-01-2023,13-01-2023,18-01-2023,1088,Anjali,Approved
+Vijay Iyer,Male,Nagpur,Maharashtra,611619,Leased,Aadhaar,8.95E+11,Domestic,0.59,11-03-2024,16-03-2024,24-03-2024,1014,Ramesh,Approved
+Arun Sharma,Male,Mumbai,Maharashtra,645002,Rented,PAN,1.77E+11,Industrial,8.74,14-03-2023,26-03-2023,30-03-2023,1067,Mahesh,Approved
+Anita Reddy,Female,Salem,Tamil Nadu,635881,Rented,Driving License,4.73E+11,Commercial,4.16,24-08-2023,08-09-2023,09-09-2023,1008,Mahesh,Approved
+Rahul Reddy,Male,Kozhikode,Kerala,645745,Owned,Driving License,3.42E+11,Industrial,4.65,22-07-2023,05-08-2023,05-08-2023,1090,Sunita,Need Documents
+Neha Sharma,Female,New Delhi,Delhi,690111,Leased,Voter ID,3.01E+11,Commercial,8.71,11-06-2023,28-06-2023,01-07-2023,1030,Anjali,Need Documents
+Rahul Kumar,Male,Pune,Maharashtra,685153,Rented,Aadhaar,9.54E+11,Industrial,5.32,03-07-2023,18-07-2023,18-07-2023,1050,Anjali,Pending
+Arun Iyer,Male,New Delhi,Delhi,632373,Leased,Driving License,1.23E+11,Domestic,2.95,05-06-2023,29-06-2023,03-07-2023,1040,Mahesh,Pending
+Vijay Iyer,Male,Mysuru,Karnataka,680280,Rented,Driving License,5.52E+11,Domestic,3.48,09-12-2023,30-12-2023,04-01-2024,1016,Sunita,Approved
+Anita Reddy,Female,Mumbai,Maharashtra,659171,Rented,PAN,6.69E+11,Industrial,3.2,04-01-2024,10-01-2024,14-01-2024,1007,Ramesh,Pending
+Anita Sharma,Female,Madurai,Tamil Nadu,633298,Rented,Driving License,5.54E+11,Industrial,5.82,15-08-2023,07-09-2023,11-09-2023,1020,Ramesh,Need Documents
+Lakshmi Reddy,Female,Nagpur,Maharashtra,617031,Owned,Driving License,1.33E+11,Industrial,6.11,05-03-2024,21-03-2024,29-03-2024,1092,Anjali,Pending
+Amit Singh,Male,Bengaluru,Karnataka,644135,Rented,Driving License,6.43E+11,Industrial,2.91,03-07-2023,20-07-2023,30-07-2023,1093,Mahesh,Pending
+Ravi Mehta,Male,New Delhi,Delhi,635908,Owned,Voter ID,1.45E+11,Commercial,1.36,25-09-2023,04-10-2023,11-10-2023,1074,Mahesh,Need Documents
+Amit Mehta,Male,New Delhi,Delhi,676718,Leased,Aadhaar,9.66E+11,Domestic,2.11,12-02-2023,13-03-2023,21-03-2023,1040,Anjali,Need Documents
+Rahul Kumar,Male,Kozhikode,Kerala,624257,Rented,Voter ID,7.90E+11,Industrial,7.69,17-06-2023,30-06-2023,04-07-2023,1086,Anjali,Need Documents
+Ravi Singh,Male,Bengaluru,Karnataka,651408,Leased,PAN,9.08E+11,Commercial,2.13,28-01-2023,04-02-2023,05-02-2023,1085,Ramesh,Need Documents
+Suresh Iyer,Male,Mysuru,Karnataka,621352,Leased,Aadhaar,4.92E+11,Commercial,8.74,23-07-2023,16-08-2023,17-08-2023,1066,Ramesh,Need Documents
+Pooja Patel,Female,New Delhi,Delhi,641287,Owned,Aadhaar,4.91E+11,Industrial,7.67,14-12-2023,02-01-2024,10-01-2024,1032,Mahesh,Need Documents
+Pooja Iyer,Female,Coimbatore,Tamil Nadu,612819,Owned,Voter ID,4.42E+11,Domestic,3.75,08-05-2023,07-06-2023,12-06-2023,1033,Sunita,Approved
+Kavya Das,Female,Salem,Tamil Nadu,636206,Rented,PAN,3.97E+11,Commercial,5.02,23-05-2023,11-06-2023,21-06-2023,1021,Mahesh,Pending
+Pooja Patel,Female,New Delhi,Delhi,645106,Rented,Driving License,2.49E+11,Domestic,6.26,28-07-2023,08-08-2023,13-08-2023,1065,Mahesh,Need Documents
+Priya Kumar,Female,New Delhi,Delhi,686720,Owned,Voter ID,8.87E+11,Domestic,8.74,08-08-2023,04-09-2023,07-09-2023,1069,Sunita,Approved
+Manoj Kumar,Male,Pune,Maharashtra,607078,Owned,Aadhaar,1.44E+11,Domestic,8.63,09-05-2023,18-05-2023,22-05-2023,1001,Mahesh,Approved
+Manoj Iyer,Male,Kozhikode,Kerala,699963,Owned,Voter ID,2.96E+11,Domestic,1.38,09-04-2024,01-05-2024,06-05-2024,1058,Ramesh,Need Documents
+Amit Iyer,Male,Mangaluru,Karnataka,629596,Rented,Aadhaar,9.19E+11,Industrial,5.57,23-01-2024,04-02-2024,10-02-2024,1085,Mahesh,Pending
+Suresh Reddy,Male,New Delhi,Delhi,641481,Rented,Voter ID,7.84E+11,Commercial,5.91,23-01-2023,17-02-2023,26-02-2023,1034,Anjali,Approved
+Pooja Das,Female,Bengaluru,Karnataka,698276,Leased,Voter ID,6.26E+11,Domestic,7.99,09-04-2023,17-04-2023,18-04-2023,1085,Ramesh,Pending
+Rahul Iyer,Male,Nagpur,Maharashtra,608925,Owned,Voter ID,2.02E+11,Industrial,5.71,30-07-2023,16-08-2023,22-08-2023,1005,Ramesh,Approved
+Arun Singh,Male,Madurai,Tamil Nadu,604838,Owned,PAN,4.75E+11,Industrial,3.51,17-11-2023,24-11-2023,25-11-2023,1010,Mahesh,Approved
+Anita Reddy,Female,Nagpur,Maharashtra,602279,Rented,Driving License,8.09E+11,Domestic,2.81,18-12-2023,16-01-2024,18-01-2024,1009,Anjali,Pending
+Lakshmi Das,Female,Kochi,Kerala,679581,Leased,PAN,3.97E+11,Commercial,9.47,07-04-2024,02-05-2024,07-05-2024,1027,Sunita,Approved
+Rahul Das,Male,Chennai,Tamil Nadu,643508,Owned,Voter ID,2.08E+11,Commercial,0.84,18-01-2023,12-02-2023,15-02-2023,1031,Mahesh,Approved
+Priya Sharma,Female,Salem,Tamil Nadu,640441,Leased,Driving License,3.65E+11,Domestic,2.08,27-11-2023,10-12-2023,16-12-2023,1048,Mahesh,Approved
+Suresh Das,Male,New Delhi,Delhi,658897,Leased,Driving License,4.65E+11,Domestic,6.98,23-03-2024,06-04-2024,09-04-2024,1093,Sunita,Need Documents
+Kavya Das,Female,Chennai,Tamil Nadu,631489,Rented,Driving License,5.57E+11,Domestic,6.73,29-07-2023,22-08-2023,31-08-2023,1024,Sunita,Approved
+Anita Patel,Female,Salem,Tamil Nadu,662291,Owned,PAN,5.82E+11,Domestic,4.17,07-06-2023,07-07-2023,12-07-2023,1064,Mahesh,Need Documents
+Rahul Sharma,Male,Kochi,Kerala,663817,Rented,Driving License,7.75E+11,Industrial,2.02,23-11-2023,20-12-2023,22-12-2023,1076,Mahesh,Pending
+Lakshmi Mehta,Female,Salem,Tamil Nadu,653042,Rented,Voter ID,6.99E+11,Industrial,3.69,21-05-2023,11-06-2023,16-06-2023,1003,Ramesh,Approved
+Anita Reddy,Female,Kochi,Kerala,603148,Leased,PAN,1.05E+11,Domestic,1.38,13-08-2023,03-09-2023,12-09-2023,1088,Anjali,Need Documents
+Manoj Patel,Male,New Delhi,Delhi,683153,Rented,Aadhaar,2.59E+11,Industrial,1.02,10-05-2024,22-05-2024,31-05-2024,1080,Mahesh,Need Documents
+Lakshmi Reddy,Female,New Delhi,Delhi,602082,Leased,Voter ID,4.53E+11,Industrial,7.69,23-11-2023,05-12-2023,05-12-2023,1014,Sunita,Approved
+Arun Singh,Male,Chennai,Tamil Nadu,640709,Rented,PAN,7.73E+11,Commercial,7.51,27-06-2023,24-07-2023,27-07-2023,1020,Mahesh,Pending
+Anita Mehta,Female,New Delhi,Delhi,607543,Leased,Voter ID,7.42E+11,Industrial,1.76,26-01-2023,13-02-2023,18-02-2023,1016,Ramesh,Need Documents
+Manoj Mehta,Male,New Delhi,Delhi,615973,Leased,Driving License,1.87E+11,Domestic,3.9,06-09-2023,13-09-2023,15-09-2023,1055,Anjali,Approved
+Neha Iyer,Female,Mysuru,Karnataka,685309,Rented,Driving License,5.66E+11,Industrial,8.7,05-01-2024,31-01-2024,08-02-2024,1062,Anjali,Approved
+Priya Kumar,Female,Thiruvananthapuram,Kerala,634211,Rented,Driving License,6.00E+11,Commercial,6.21,24-01-2024,23-02-2024,03-03-2024,1039,Sunita,Need Documents
+Divya Sharma,Female,Thiruvananthapuram,Kerala,622192,Owned,Voter ID,3.20E+11,Industrial,8.13,07-09-2023,14-09-2023,22-09-2023,1019,Anjali,Approved
+Amit Patel,Male,New Delhi,Delhi,683744,Rented,Driving License,7.49E+11,Domestic,0.71,24-04-2024,03-05-2024,03-05-2024,1017,Mahesh,Pending
+Divya Singh,Female,Thiruvananthapuram,Kerala,667601,Rented,Voter ID,6.74E+11,Industrial,4.13,19-03-2023,14-04-2023,19-04-2023,1073,Anjali,Approved
+Anita Singh,Female,Mysuru,Karnataka,680533,Leased,Aadhaar,7.25E+11,Commercial,2.74,15-08-2023,04-09-2023,04-09-2023,1047,Sunita,Approved
+Arun Iyer,Male,Madurai,Tamil Nadu,660307,Owned,Aadhaar,3.77E+11,Industrial,5.81,16-04-2023,22-04-2023,30-04-2023,1061,Ramesh,Pending
+Ravi Das,Male,Nagpur,Maharashtra,677050,Leased,Aadhaar,7.21E+11,Industrial,1.23,18-06-2023,11-07-2023,12-07-2023,1010,Anjali,Approved
+Pooja Iyer,Female,New Delhi,Delhi,683307,Leased,PAN,6.46E+11,Industrial,3.88,20-11-2023,03-12-2023,03-12-2023,1054,Mahesh,Pending
+Manoj Patel,Male,Kochi,Kerala,665519,Leased,Driving License,8.26E+11,Industrial,0.63,11-11-2023,02-12-2023,06-12-2023,1096,Anjali,Need Documents
+Rahul Kumar,Male,Mumbai,Maharashtra,645233,Owned,Voter ID,6.65E+11,Industrial,7.32,21-05-2023,17-06-2023,21-06-2023,1029,Ramesh,Pending
+Lakshmi Patel,Female,Salem,Tamil Nadu,698019,Leased,Driving License,7.65E+11,Domestic,6.84,06-09-2023,29-09-2023,08-10-2023,1090,Mahesh,Pending
+Arun Das,Male,Mumbai,Maharashtra,684741,Leased,Driving License,5.50E+11,Commercial,3.67,25-04-2023,05-05-2023,13-05-2023,1054,Mahesh,Need Documents
+Pooja Mehta,Female,Bengaluru,Karnataka,672803,Rented,Driving License,5.63E+11,Industrial,4.68,15-01-2024,29-01-2024,08-02-2024,1020,Sunita,Approved
+Priya Singh,Female,Mangaluru,Karnataka,639409,Rented,Driving License,3.70E+11,Industrial,3.92,15-11-2023,06-12-2023,15-12-2023,1077,Sunita,Need Documents
+Kavya Kumar,Female,New Delhi,Delhi,630059,Rented,Voter ID,3.71E+11,Domestic,1.48,09-09-2023,27-09-2023,28-09-2023,1085,Mahesh,Approved
+Lakshmi Kumar,Female,Salem,Tamil Nadu,666721,Rented,PAN,8.13E+11,Industrial,2.77,24-12-2023,13-01-2024,19-01-2024,1096,Anjali,Pending
+Anita Sharma,Female,Chennai,Tamil Nadu,654855,Owned,Voter ID,4.57E+11,Industrial,4.7,24-08-2023,14-09-2023,21-09-2023,1094,Sunita,Need Documents
+Ravi Reddy,Male,New Delhi,Delhi,630102,Owned,Aadhaar,9.13E+11,Industrial,1.42,09-04-2023,24-04-2023,30-04-2023,1044,Mahesh,Approved
+Lakshmi Kumar,Female,Salem,Tamil Nadu,651495,Leased,Aadhaar,9.16E+11,Domestic,7.09,23-12-2023,28-12-2023,03-01-2024,1006,Anjali,Need Documents
+Vijay Reddy,Male,Kochi,Kerala,617918,Leased,Voter ID,5.71E+11,Domestic,4.2,15-12-2023,09-01-2024,14-01-2024,1080,Sunita,Pending
+Neha Kumar,Female,Pune,Maharashtra,644695,Owned,Aadhaar,8.00E+11,Industrial,7.21,17-09-2023,17-10-2023,22-10-2023,1070,Sunita,Need Documents
+Rahul Mehta,Male,Mangaluru,Karnataka,611624,Leased,PAN,5.59E+11,Domestic,8.94,16-08-2023,30-08-2023,05-09-2023,1001,Anjali,Approved
+Kavya Reddy,Female,Bengaluru,Karnataka,682650,Owned,Driving License,1.77E+11,Domestic,3.21,07-05-2023,01-06-2023,04-06-2023,1013,Mahesh,Need Documents
+Amit Sharma,Male,Bengaluru,Karnataka,624815,Leased,Voter ID,5.63E+11,Domestic,9.63,04-04-2024,04-05-2024,12-05-2024,1043,Sunita,Approved
+Kavya Kumar,Female,Kozhikode,Kerala,683384,Owned,Voter ID,3.46E+11,Commercial,1.98,15-12-2023,05-01-2024,09-01-2024,1075,Ramesh,Need Documents
+Amit Kumar,Male,Chennai,Tamil Nadu,634240,Leased,PAN,3.09E+11,Industrial,9.46,26-08-2023,17-09-2023,27-09-2023,1022,Ramesh,Approved
+Neha Das,Female,Mumbai,Maharashtra,644962,Rented,Voter ID,9.08E+11,Industrial,5.19,27-03-2024,07-04-2024,08-04-2024,1092,Sunita,Need Documents
+Pooja Patel,Female,Salem,Tamil Nadu,638811,Owned,Driving License,5.38E+11,Domestic,2.49,25-01-2023,06-02-2023,16-02-2023,1002,Sunita,Approved
+Priya Sharma,Female,Thiruvananthapuram,Kerala,624187,Rented,Driving License,1.82E+11,Industrial,6.99,24-07-2023,31-07-2023,01-08-2023,1075,Ramesh,Approved
+Suresh Mehta,Male,Kochi,Kerala,626491,Owned,Driving License,6.88E+11,Domestic,5.76,10-05-2023,05-06-2023,10-06-2023,1093,Anjali,Approved
+Priya Das,Female,New Delhi,Delhi,627829,Owned,Aadhaar,8.32E+11,Industrial,4.91,01-04-2023,07-04-2023,10-04-2023,1004,Anjali,Need Documents
+Priya Mehta,Female,Bengaluru,Karnataka,689411,Leased,Voter ID,5.01E+11,Industrial,2.26,13-08-2023,03-09-2023,09-09-2023,1023,Anjali,Approved
+Ravi Reddy,Male,Madurai,Tamil Nadu,674139,Rented,Voter ID,6.99E+11,Domestic,2.92,28-01-2024,24-02-2024,01-03-2024,1074,Ramesh,Pending
+Divya Das,Female,Coimbatore,Tamil Nadu,685036,Owned,Aadhaar,3.79E+11,Domestic,6.46,26-01-2023,06-02-2023,06-02-2023,1052,Anjali,Pending
+Rahul Iyer,Male,Pune,Maharashtra,685167,Rented,Driving License,4.80E+11,Commercial,9.5,02-06-2023,12-06-2023,18-06-2023,1007,Sunita,Pending
+Manoj Reddy,Male,New Delhi,Delhi,695765,Owned,Voter ID,1.14E+11,Domestic,3.73,06-10-2023,02-11-2023,09-11-2023,1007,Mahesh,Approved
+Pooja Mehta,Female,New Delhi,Delhi,650925,Leased,PAN,8.29E+11,Domestic,8.11,09-01-2024,31-01-2024,01-02-2024,1045,Anjali,Need Documents
+Amit Kumar,Male,Mangaluru,Karnataka,635303,Rented,Driving License,2.73E+11,Commercial,9.74,10-09-2023,22-09-2023,01-10-2023,1043,Mahesh,Pending
+Pooja Das,Female,Pune,Maharashtra,674198,Rented,Voter ID,8.18E+11,Industrial,6.51,06-02-2024,14-02-2024,23-02-2024,1075,Anjali,Pending
+Kavya Das,Female,New Delhi,Delhi,648721,Leased,Driving License,9.74E+11,Industrial,5.61,23-11-2023,08-12-2023,08-12-2023,1066,Sunita,Pending
+Divya Mehta,Female,Pune,Maharashtra,652386,Owned,Aadhaar,5.51E+11,Commercial,7.42,20-01-2024,05-02-2024,10-02-2024,1002,Sunita,Approved
+Ravi Patel,Male,Nagpur,Maharashtra,690502,Leased,Aadhaar,4.41E+11,Commercial,6.12,08-01-2023,22-01-2023,24-01-2023,1089,Mahesh,Approved
+Suresh Mehta,Male,Kozhikode,Kerala,690828,Leased,Voter ID,6.96E+11,Commercial,5.67,09-09-2023,04-10-2023,08-10-2023,1077,Sunita,Pending
+Kavya Das,Female,Chennai,Tamil Nadu,615395,Rented,Driving License,9.79E+11,Industrial,6.09,23-10-2023,29-10-2023,30-10-2023,1049,Mahesh,Pending
+Manoj Patel,Male,Thiruvananthapuram,Kerala,645848,Rented,Voter ID,8.52E+11,Commercial,3.02,22-02-2024,09-03-2024,13-03-2024,1059,Ramesh,Need Documents
+Divya Reddy,Female,Mumbai,Maharashtra,678807,Leased,Driving License,4.85E+11,Industrial,6.25,05-05-2024,02-06-2024,03-06-2024,1057,Ramesh,Pending
+Priya Mehta,Female,Kochi,Kerala,627754,Leased,Driving License,8.58E+11,Industrial,3.76,03-01-2023,30-01-2023,02-02-2023,1036,Mahesh,Approved
+Neha Reddy,Female,Salem,Tamil Nadu,650059,Owned,PAN,2.65E+11,Industrial,6.77,25-09-2023,03-10-2023,13-10-2023,1077,Anjali,Pending
+Karthik Reddy,Male,Bengaluru,Karnataka,609538,Owned,PAN,9.61E+11,Industrial,7.55,10-05-2024,29-05-2024,02-06-2024,1039,Mahesh,Pending
+Ravi Patel,Male,New Delhi,Delhi,635438,Rented,Voter ID,3.96E+11,Commercial,2.76,25-06-2023,06-07-2023,11-07-2023,1086,Ramesh,Need Documents
+Anita Patel,Female,Kozhikode,Kerala,628906,Rented,Driving License,5.92E+11,Industrial,7.53,22-02-2023,24-03-2023,01-04-2023,1039,Sunita,Pending
+Kavya Mehta,Female,Salem,Tamil Nadu,642257,Owned,Driving License,8.72E+11,Commercial,1.55,27-06-2023,05-07-2023,09-07-2023,1086,Anjali,Pending
+Manoj Das,Male,Kochi,Kerala,645626,Rented,Aadhaar,9.53E+11,Industrial,2.82,31-07-2023,30-08-2023,03-09-2023,1018,Ramesh,Need Documents
+Amit Mehta,Male,Mysuru,Karnataka,613485,Leased,PAN,1.68E+11,Industrial,6.07,20-09-2023,01-10-2023,10-10-2023,1068,Mahesh,Pending
+Amit Kumar,Male,Thiruvananthapuram,Kerala,608417,Leased,PAN,7.50E+11,Domestic,3.88,30-07-2023,10-08-2023,11-08-2023,1066,Ramesh,Approved
+Manoj Sharma,Male,Chennai,Tamil Nadu,632896,Owned,Aadhaar,2.84E+11,Industrial,7.05,02-03-2024,14-03-2024,24-03-2024,1093,Ramesh,Pending
+Anita Mehta,Female,Coimbatore,Tamil Nadu,600075,Owned,Aadhaar,3.79E+11,Commercial,6.03,26-08-2023,22-09-2023,02-10-2023,1026,Anjali,Need Documents
+Neha Singh,Female,New Delhi,Delhi,620157,Leased,PAN,7.94E+11,Commercial,0.65,27-03-2023,08-04-2023,11-04-2023,1073,Mahesh,Approved
+Anita Iyer,Female,New Delhi,Delhi,641234,Owned,PAN,4.19E+11,Commercial,4.61,11-01-2024,29-01-2024,05-02-2024,1013,Mahesh,Need Documents
+Kavya Iyer,Female,Nagpur,Maharashtra,653408,Leased,Voter ID,4.34E+11,Domestic,3.62,14-08-2023,22-08-2023,30-08-2023,1014,Anjali,Approved
+Divya Patel,Female,New Delhi,Delhi,630245,Owned,PAN,1.79E+11,Commercial,1.15,17-03-2023,26-03-2023,05-04-2023,1006,Ramesh,Approved
+Ravi Reddy,Male,Nagpur,Maharashtra,659290,Leased,Aadhaar,2.42E+11,Domestic,8.03,10-09-2023,03-10-2023,12-10-2023,1056,Anjali,Approved
+Karthik Mehta,Male,Madurai,Tamil Nadu,658291,Rented,PAN,1.86E+11,Industrial,7.17,05-05-2023,24-05-2023,01-06-2023,1086,Mahesh,Approved
+Manoj Iyer,Male,Mangaluru,Karnataka,690710,Owned,PAN,9.59E+11,Industrial,1.13,29-03-2023,28-04-2023,29-04-2023,1020,Mahesh,Need Documents
+Karthik Mehta,Male,New Delhi,Delhi,614912,Leased,Aadhaar,7.32E+11,Industrial,5.55,01-01-2023,19-01-2023,26-01-2023,1050,Sunita,Approved
+Meena Kumar,Female,Bengaluru,Karnataka,622062,Leased,Driving License,3.10E+11,Domestic,9.69,31-12-2023,28-01-2024,03-02-2024,1098,Ramesh,Approved
+Suresh Sharma,Male,Kozhikode,Kerala,637324,Owned,Driving License,7.47E+11,Industrial,2.78,10-12-2023,30-12-2023,09-01-2024,1022,Sunita,Approved
+Neha Iyer,Female,Thiruvananthapuram,Kerala,608474,Rented,Aadhaar,1.33E+11,Industrial,8.01,04-01-2024,10-01-2024,16-01-2024,1002,Ramesh,Approved
+Ravi Mehta,Male,Bengaluru,Karnataka,600860,Rented,PAN,9.37E+11,Domestic,8.88,23-02-2024,23-03-2024,31-03-2024,1022,Ramesh,Pending
+Manoj Das,Male,Coimbatore,Tamil Nadu,623761,Leased,PAN,5.70E+11,Industrial,5.22,18-03-2024,01-04-2024,06-04-2024,1046,Mahesh,Approved
+Anita Kumar,Female,New Delhi,Delhi,610383,Leased,Driving License,8.41E+11,Domestic,7.74,03-03-2024,12-03-2024,13-03-2024,1006,Ramesh,Pending
+Suresh Reddy,Male,Kozhikode,Kerala,633063,Leased,Voter ID,8.26E+11,Domestic,1,14-05-2024,31-05-2024,07-06-2024,1017,Mahesh,Pending
+Pooja Singh,Female,Thiruvananthapuram,Kerala,669824,Owned,Voter ID,2.22E+11,Commercial,3.05,05-06-2023,30-06-2023,07-07-2023,1008,Mahesh,Pending
+Lakshmi Reddy,Female,Kochi,Kerala,687945,Leased,Aadhaar,1.54E+11,Industrial,6.45,04-04-2024,22-04-2024,25-04-2024,1006,Anjali,Approved
+Suresh Mehta,Male,Mysuru,Karnataka,664610,Owned,Voter ID,4.70E+11,Industrial,6.8,31-08-2023,29-09-2023,03-10-2023,1025,Anjali,Approved
+Ravi Das,Male,Kochi,Kerala,611709,Owned,PAN,4.92E+11,Commercial,2.55,12-09-2023,21-09-2023,30-09-2023,1028,Mahesh,Approved
+Kavya Sharma,Female,New Delhi,Delhi,685982,Leased,PAN,9.87E+11,Commercial,2.13,20-09-2023,03-10-2023,03-10-2023,1014,Sunita,Need Documents
+Priya Reddy,Female,Mumbai,Maharashtra,692284,Owned,Driving License,6.61E+11,Commercial,1.18,16-01-2023,07-02-2023,11-02-2023,1064,Anjali,Pending
+Divya Singh,Female,Kozhikode,Kerala,665147,Owned,Voter ID,8.77E+11,Domestic,6.83,05-07-2023,20-07-2023,23-07-2023,1076,Mahesh,Approved
+Rahul Mehta,Male,New Delhi,Delhi,696428,Owned,Aadhaar,6.90E+11,Commercial,5.93,18-02-2024,18-03-2024,26-03-2024,1011,Ramesh,Pending
+Pooja Sharma,Female,Salem,Tamil Nadu,671771,Owned,Aadhaar,7.66E+11,Industrial,2.16,24-04-2023,12-05-2023,22-05-2023,1048,Sunita,Need Documents
+Priya Reddy,Female,New Delhi,Delhi,641296,Leased,Voter ID,7.95E+11,Industrial,7.22,03-06-2023,26-06-2023,30-06-2023,1085,Mahesh,Approved
+Suresh Sharma,Male,New Delhi,Delhi,625164,Rented,Voter ID,5.47E+11,Industrial,1.34,04-05-2023,31-05-2023,10-06-2023,1089,Mahesh,Need Documents
+Meena Sharma,Female,Chennai,Tamil Nadu,651633,Leased,Driving License,8.13E+11,Industrial,5.83,20-03-2024,05-04-2024,08-04-2024,1073,Sunita,Need Documents
+Neha Reddy,Female,Nagpur,Maharashtra,693618,Rented,Aadhaar,5.50E+11,Industrial,5.76,28-01-2024,02-02-2024,06-02-2024,1002,Sunita,Approved
+Kavya Reddy,Female,New Delhi,Delhi,624795,Leased,Aadhaar,4.83E+11,Commercial,3.44,26-03-2024,05-04-2024,07-04-2024,1036,Sunita,Need Documents
+Lakshmi Iyer,Female,Mangaluru,Karnataka,660396,Rented,Aadhaar,9.50E+11,Domestic,6.95,02-05-2024,21-05-2024,22-05-2024,1025,Mahesh,Pending
+Karthik Sharma,Male,Chennai,Tamil Nadu,642471,Owned,Aadhaar,2.35E+11,Commercial,4.75,30-04-2023,27-05-2023,04-06-2023,1007,Sunita,Approved
+Arun Singh,Male,Mangaluru,Karnataka,648926,Owned,Voter ID,5.24E+11,Domestic,1.4,20-04-2023,07-05-2023,16-05-2023,1040,Mahesh,Need Documents
+Suresh Das,Male,Kochi,Kerala,647858,Leased,Voter ID,4.48E+11,Domestic,5.09,29-02-2024,09-03-2024,11-03-2024,1026,Mahesh,Pending
+Ravi Reddy,Male,Mumbai,Maharashtra,698027,Leased,Driving License,3.72E+11,Domestic,0.83,11-09-2023,18-09-2023,22-09-2023,1079,Anjali,Approved
+Lakshmi Sharma,Female,Kochi,Kerala,606800,Rented,Driving License,7.26E+11,Commercial,9.39,28-06-2023,28-07-2023,31-07-2023,1039,Ramesh,Need Documents
+Meena Iyer,Female,Coimbatore,Tamil Nadu,606418,Leased,Aadhaar,3.39E+11,Industrial,1.59,13-06-2023,26-06-2023,02-07-2023,1058,Mahesh,Pending
+Ravi Iyer,Male,Nagpur,Maharashtra,640067,Leased,Driving License,3.29E+11,Industrial,1.26,11-10-2023,22-10-2023,22-10-2023,1016,Ramesh,Need Documents
+Divya Sharma,Female,Pune,Maharashtra,644912,Leased,Voter ID,4.69E+11,Industrial,7.61,23-04-2024,29-04-2024,02-05-2024,1065,Anjali,Pending
+Pooja Mehta,Female,New Delhi,Delhi,666243,Owned,Driving License,9.24E+11,Industrial,7.72,07-11-2023,06-12-2023,09-12-2023,1096,Sunita,Need Documents
+Anita Sharma,Female,Coimbatore,Tamil Nadu,639690,Owned,Driving License,7.57E+11,Commercial,4.99,16-08-2023,10-09-2023,14-09-2023,1084,Mahesh,Pending
+Karthik Mehta,Male,Madurai,Tamil Nadu,660499,Owned,PAN,3.49E+11,Industrial,5.96,15-09-2023,05-10-2023,07-10-2023,1098,Mahesh,Need Documents
+Ravi Das,Male,Pune,Maharashtra,630660,Leased,Voter ID,3.11E+11,Industrial,6.71,15-02-2024,05-03-2024,12-03-2024,1068,Mahesh,Pending
+Amit Patel,Male,Coimbatore,Tamil Nadu,677006,Owned,Voter ID,3.38E+11,Industrial,4.24,23-04-2024,29-04-2024,01-05-2024,1071,Anjali,Pending
+Arun Das,Male,New Delhi,Delhi,649490,Rented,Voter ID,9.00E+11,Commercial,0.53,27-09-2023,15-10-2023,21-10-2023,1029,Sunita,Need Documents
+Lakshmi Kumar,Female,Nagpur,Maharashtra,628081,Rented,Driving License,1.11E+11,Domestic,0.76,01-05-2023,14-05-2023,23-05-2023,1037,Anjali,Pending
+Karthik Sharma,Male,Coimbatore,Tamil Nadu,617090,Owned,Driving License,5.29E+11,Domestic,6.61,30-11-2023,19-12-2023,23-12-2023,1038,Mahesh,Need Documents
+Lakshmi Mehta,Female,Salem,Tamil Nadu,686898,Rented,PAN,1.44E+11,Domestic,7.9,23-04-2024,17-05-2024,26-05-2024,1075,Ramesh,Pending
+Arun Singh,Male,Madurai,Tamil Nadu,648564,Rented,Driving License,5.44E+11,Domestic,4.41,27-07-2023,16-08-2023,25-08-2023,1029,Sunita,Pending
+Vijay Singh,Male,Kochi,Kerala,690975,Owned,PAN,1.76E+11,Domestic,2.44,18-04-2024,06-05-2024,11-05-2024,1038,Anjali,Approved
+Divya Singh,Female,Kozhikode,Kerala,656992,Rented,Voter ID,2.53E+11,Industrial,7.92,24-12-2023,09-01-2024,17-01-2024,1046,Anjali,Pending
+Neha Mehta,Female,Nagpur,Maharashtra,684118,Leased,Voter ID,2.71E+11,Domestic,4.19,03-01-2023,31-01-2023,04-02-2023,1039,Anjali,Approved
+Arun Patel,Male,Mangaluru,Karnataka,665982,Owned,Driving License,5.71E+11,Commercial,7.72,07-02-2024,21-02-2024,28-02-2024,1087,Ramesh,Approved
+Priya Singh,Female,Mumbai,Maharashtra,611894,Leased,Driving License,9.46E+11,Commercial,2.93,23-03-2024,15-04-2024,17-04-2024,1081,Ramesh,Need Documents
+Ravi Kumar,Male,Bengaluru,Karnataka,664156,Rented,Aadhaar,9.28E+11,Domestic,7.21,29-11-2023,05-12-2023,11-12-2023,1008,Mahesh,Need Documents
+Manoj Sharma,Male,Mangaluru,Karnataka,662179,Owned,Voter ID,5.23E+11,Industrial,8.77,27-04-2023,06-05-2023,15-05-2023,1064,Ramesh,Approved
+Karthik Mehta,Male,Pune,Maharashtra,618510,Rented,PAN,5.19E+11,Domestic,4.91,17-09-2023,09-10-2023,15-10-2023,1073,Ramesh,Approved
+Priya Singh,Female,Mangaluru,Karnataka,676007,Owned,Driving License,3.89E+11,Domestic,1.44,05-03-2023,16-03-2023,26-03-2023,1009,Anjali,Need Documents
+Meena Singh,Female,Chennai,Tamil Nadu,691118,Owned,PAN,1.76E+11,Industrial,0.69,18-03-2024,09-04-2024,18-04-2024,1006,Ramesh,Pending
+Ravi Sharma,Male,Salem,Tamil Nadu,661505,Leased,Voter ID,5.97E+11,Commercial,9.56,17-02-2024,17-03-2024,23-03-2024,1044,Sunita,Approved
+Suresh Patel,Male,Mysuru,Karnataka,633699,Owned,Driving License,1.47E+11,Commercial,6.79,25-09-2023,06-10-2023,08-10-2023,1070,Anjali,Pending
+Ravi Kumar,Male,Mumbai,Maharashtra,659132,Owned,PAN,1.19E+11,Domestic,6.62,04-01-2024,01-02-2024,04-02-2024,1089,Anjali,Pending
+Divya Reddy,Female,Thiruvananthapuram,Kerala,690763,Rented,Voter ID,2.68E+11,Commercial,3.84,01-06-2023,27-06-2023,02-07-2023,1088,Ramesh,Pending
+Ravi Sharma,Male,Salem,Tamil Nadu,676055,Leased,Aadhaar,7.00E+11,Commercial,6.19,24-04-2023,21-05-2023,30-05-2023,1065,Ramesh,Pending
+Priya Sharma,Female,Thiruvananthapuram,Kerala,671501,Owned,Driving License,4.69E+11,Commercial,2.34,07-02-2023,28-02-2023,05-03-2023,1039,Ramesh,Need Documents
+Ravi Reddy,Male,New Delhi,Delhi,631802,Rented,Aadhaar,4.21E+11,Industrial,8.13,28-12-2023,09-01-2024,09-01-2024,1044,Anjali,Pending
+Manoj Iyer,Male,Pune,Maharashtra,631162,Leased,Voter ID,5.39E+11,Commercial,4.86,21-03-2024,31-03-2024,31-03-2024,1046,Ramesh,Approved
+Neha Mehta,Female,Kochi,Kerala,648538,Rented,PAN,3.49E+11,Commercial,7.11,04-07-2023,14-07-2023,18-07-2023,1054,Ramesh,Need Documents
+Rahul Iyer,Male,Kochi,Kerala,689458,Rented,Driving License,6.87E+11,Domestic,3.99,23-04-2023,03-05-2023,10-05-2023,1019,Mahesh,Pending
+Divya Iyer,Female,New Delhi,Delhi,643307,Owned,Driving License,2.96E+11,Commercial,8.19,09-03-2023,28-03-2023,29-03-2023,1017,Ramesh,Pending
+Amit Kumar,Male,Mysuru,Karnataka,666786,Leased,Aadhaar,7.72E+11,Industrial,4.23,06-10-2023,19-10-2023,27-10-2023,1080,Anjali,Pending
+Suresh Reddy,Male,Nagpur,Maharashtra,672320,Rented,PAN,2.59E+11,Domestic,0.77,08-02-2023,03-03-2023,10-03-2023,1043,Ramesh,Pending
+Priya Das,Female,Pune,Maharashtra,662962,Leased,Driving License,4.69E+11,Commercial,6.2,02-02-2023,28-02-2023,02-03-2023,1051,Sunita,Pending
+Pooja Kumar,Female,Mumbai,Maharashtra,695017,Leased,Aadhaar,1.13E+11,Commercial,9.95,15-05-2023,11-06-2023,15-06-2023,1081,Sunita,Pending
+Ravi Patel,Male,Nagpur,Maharashtra,636959,Owned,Driving License,1.60E+11,Domestic,8.98,31-03-2023,07-04-2023,15-04-2023,1047,Mahesh,Approved
+Suresh Kumar,Male,Kozhikode,Kerala,600301,Owned,PAN,2.23E+11,Industrial,5.97,07-02-2024,20-02-2024,26-02-2024,1090,Sunita,Approved
+Vijay Reddy,Male,New Delhi,Delhi,660430,Leased,Driving License,4.49E+11,Domestic,5.47,27-08-2023,23-09-2023,02-10-2023,1082,Mahesh,Approved
+Vijay Iyer,Male,Nagpur,Maharashtra,663691,Leased,Driving License,6.54E+11,Commercial,2.95,19-02-2024,01-03-2024,08-03-2024,1078,Ramesh,Pending
+Arun Singh,Male,Kochi,Kerala,655909,Rented,Aadhaar,8.99E+11,Industrial,7.03,20-05-2023,11-06-2023,17-06-2023,1026,Anjali,Pending
+Amit Mehta,Male,Bengaluru,Karnataka,648818,Rented,Driving License,6.16E+11,Domestic,5.28,17-10-2023,02-11-2023,03-11-2023,1058,Ramesh,Approved
+Vijay Mehta,Male,Nagpur,Maharashtra,684853,Rented,Driving License,8.57E+11,Industrial,7.12,18-06-2023,30-06-2023,02-07-2023,1029,Sunita,Approved
+Meena Mehta,Female,New Delhi,Delhi,664407,Leased,Driving License,3.64E+11,Domestic,5.07,21-03-2024,17-04-2024,20-04-2024,1089,Anjali,Approved
+Meena Singh,Female,Madurai,Tamil Nadu,666803,Owned,Driving License,2.76E+11,Domestic,7.9,17-07-2023,04-08-2023,14-08-2023,1032,Sunita,Pending
+Kavya Kumar,Female,Chennai,Tamil Nadu,630337,Leased,Voter ID,2.27E+11,Domestic,5.14,20-04-2023,26-04-2023,05-05-2023,1077,Anjali,Approved
+Arun Kumar,Male,Coimbatore,Tamil Nadu,682487,Rented,Voter ID,5.29E+11,Domestic,5.09,27-11-2023,13-12-2023,20-12-2023,1087,Ramesh,Pending
+Lakshmi Sharma,Female,New Delhi,Delhi,609994,Rented,Voter ID,1.47E+11,Domestic,9.9,18-01-2023,07-02-2023,10-02-2023,1052,Mahesh,Approved
+Lakshmi Mehta,Female,Chennai,Tamil Nadu,612810,Rented,Aadhaar,2.64E+11,Domestic,5.79,02-05-2023,25-05-2023,30-05-2023,1037,Anjali,Need Documents
+Rahul Sharma,Male,New Delhi,Delhi,655684,Rented,PAN,7.95E+11,Domestic,1.71,18-11-2023,24-11-2023,24-11-2023,1063,Anjali,Pending
+Kavya Iyer,Female,Thiruvananthapuram,Kerala,698591,Rented,Voter ID,2.27E+11,Industrial,3.19,28-01-2023,17-02-2023,26-02-2023,1022,Ramesh,Pending
+Suresh Sharma,Male,Bengaluru,Karnataka,665893,Rented,PAN,4.57E+11,Domestic,9.2,31-01-2024,16-02-2024,22-02-2024,1045,Mahesh,Need Documents
+Ravi Sharma,Male,Kozhikode,Kerala,687435,Owned,Driving License,9.04E+11,Industrial,5.13,06-06-2023,26-06-2023,28-06-2023,1074,Anjali,Need Documents
+Suresh Singh,Male,Chennai,Tamil Nadu,629513,Leased,Aadhaar,8.36E+11,Commercial,2.56,21-02-2023,11-03-2023,11-03-2023,1076,Sunita,Need Documents
+Rahul Kumar,Male,Mangaluru,Karnataka,635685,Leased,Aadhaar,9.06E+11,Domestic,3.72,19-09-2023,24-09-2023,01-10-2023,1030,Anjali,Need Documents
+Neha Patel,Female,Madurai,Tamil Nadu,643994,Rented,Voter ID,1.73E+11,Domestic,6.13,22-09-2023,08-10-2023,08-10-2023,1011,Sunita,Pending
+Priya Reddy,Female,Nagpur,Maharashtra,698481,Owned,Driving License,2.82E+11,Industrial,6.12,06-07-2023,18-07-2023,18-07-2023,1049,Anjali,Approved
+Amit Das,Male,Kochi,Kerala,666011,Leased,Voter ID,5.49E+11,Domestic,1.05,14-06-2023,08-07-2023,16-07-2023,1019,Mahesh,Approved
+Suresh Das,Male,Mumbai,Maharashtra,659063,Owned,Voter ID,7.82E+11,Commercial,6.42,27-01-2023,10-02-2023,19-02-2023,1097,Sunita,Approved
+Rahul Sharma,Male,Chennai,Tamil Nadu,622660,Rented,Voter ID,8.36E+11,Industrial,9.14,19-05-2023,08-06-2023,15-06-2023,1001,Ramesh,Approved
+Vijay Singh,Male,Salem,Tamil Nadu,688969,Leased,Aadhaar,4.88E+11,Domestic,7.62,07-03-2023,26-03-2023,05-04-2023,1045,Mahesh,Pending
+Suresh Patel,Male,Chennai,Tamil Nadu,674439,Rented,Voter ID,9.44E+11,Industrial,6.83,10-02-2023,03-03-2023,12-03-2023,1067,Mahesh,Need Documents
+Neha Das,Female,New Delhi,Delhi,674396,Rented,Driving License,8.29E+11,Industrial,8.76,26-04-2023,13-05-2023,13-05-2023,1038,Mahesh,Pending
+Neha Kumar,Female,Pune,Maharashtra,606287,Rented,Driving License,4.25E+11,Domestic,0.56,16-02-2024,28-02-2024,02-03-2024,1031,Ramesh,Approved
+Kavya Patel,Female,Mumbai,Maharashtra,676304,Leased,Voter ID,1.30E+11,Commercial,7.04,01-12-2023,29-12-2023,07-01-2024,1022,Ramesh,Need Documents
+Karthik Mehta,Male,Bengaluru,Karnataka,685210,Rented,Driving License,1.09E+11,Domestic,6.5,05-03-2023,11-03-2023,11-03-2023,1057,Anjali,Pending
+Amit Reddy,Male,Mysuru,Karnataka,660021,Leased,Driving License,6.21E+11,Industrial,8.55,09-01-2023,26-01-2023,30-01-2023,1016,Mahesh,Pending
+Karthik Iyer,Male,Thiruvananthapuram,Kerala,633612,Owned,Voter ID,3.91E+11,Commercial,9.51,28-05-2023,24-06-2023,29-06-2023,1062,Sunita,Need Documents
+Kavya Das,Female,Kozhikode,Kerala,652836,Rented,Aadhaar,6.17E+11,Industrial,5.55,29-07-2023,14-08-2023,14-08-2023,1079,Sunita,Need Documents
+Meena Reddy,Female,Chennai,Tamil Nadu,617440,Rented,Aadhaar,3.85E+11,Domestic,4.92,30-01-2023,09-02-2023,14-02-2023,1011,Mahesh,Approved
+Vijay Singh,Male,New Delhi,Delhi,666674,Owned,Aadhaar,8.97E+11,Commercial,3.3,05-05-2023,03-06-2023,08-06-2023,1032,Mahesh,Need Documents
+Amit Kumar,Male,Thiruvananthapuram,Kerala,653218,Owned,Driving License,1.81E+11,Industrial,0.78,27-01-2024,25-02-2024,01-03-2024,1047,Anjali,Approved
+Neha Mehta,Female,Coimbatore,Tamil Nadu,653132,Rented,Voter ID,5.35E+11,Commercial,8.29,30-06-2023,07-07-2023,17-07-2023,1088,Ramesh,Need Documents
+Pooja Das,Female,Nagpur,Maharashtra,689966,Owned,PAN,9.81E+11,Domestic,7.29,06-07-2023,18-07-2023,21-07-2023,1086,Anjali,Pending
+Pooja Reddy,Female,Salem,Tamil Nadu,623156,Leased,Voter ID,8.43E+11,Commercial,0.81,23-09-2023,29-09-2023,08-10-2023,1002,Anjali,Need Documents
+Suresh Reddy,Male,New Delhi,Delhi,684369,Owned,Aadhaar,1.20E+11,Industrial,7.97,07-04-2023,07-05-2023,14-05-2023,1011,Ramesh,Pending
+Pooja Das,Female,New Delhi,Delhi,605391,Rented,PAN,4.95E+11,Industrial,0.79,12-09-2023,20-09-2023,26-09-2023,1019,Ramesh,Approved
+Divya Sharma,Female,Mysuru,Karnataka,624638,Owned,PAN,5.97E+11,Domestic,7.33,18-03-2023,16-04-2023,16-04-2023,1085,Sunita,Approved
+Meena Mehta,Female,Mumbai,Maharashtra,640122,Leased,Driving License,9.92E+11,Domestic,6.37,30-09-2023,24-10-2023,29-10-2023,1031,Anjali,Pending
+Karthik Mehta,Male,New Delhi,Delhi,627341,Rented,Driving License,3.70E+11,Commercial,0.58,26-02-2023,19-03-2023,21-03-2023,1090,Sunita,Approved
+Amit Patel,Male,Pune,Maharashtra,668094,Leased,Aadhaar,1.40E+11,Industrial,1.47,09-01-2023,03-02-2023,05-02-2023,1077,Sunita,Pending
+Suresh Reddy,Male,New Delhi,Delhi,698568,Leased,Driving License,1.84E+11,Domestic,9.66,18-09-2023,29-09-2023,01-10-2023,1038,Sunita,Pending
+Amit Iyer,Male,Pune,Maharashtra,648305,Rented,Voter ID,5.84E+11,Domestic,2.49,02-02-2023,15-02-2023,16-02-2023,1077,Mahesh,Need Documents
+Lakshmi Mehta,Female,Thiruvananthapuram,Kerala,618890,Leased,Aadhaar,5.20E+11,Industrial,7.02,01-01-2023,27-01-2023,01-02-2023,1021,Sunita,Pending
+Neha Iyer,Female,New Delhi,Delhi,660155,Owned,Voter ID,5.32E+11,Industrial,9.38,05-09-2023,04-10-2023,14-10-2023,1047,Ramesh,Approved
+Karthik Iyer,Male,Kozhikode,Kerala,681119,Owned,Voter ID,1.41E+11,Industrial,5.79,30-04-2024,12-05-2024,12-05-2024,1028,Mahesh,Pending
+Rahul Das,Male,Mysuru,Karnataka,665282,Owned,Voter ID,9.54E+11,Industrial,6.39,30-11-2023,24-12-2023,24-12-2023,1030,Anjali,Need Documents
+Pooja Sharma,Female,New Delhi,Delhi,600584,Leased,PAN,7.42E+11,Domestic,4.11,25-02-2024,13-03-2024,13-03-2024,1004,Sunita,Need Documents
+Meena Das,Female,Mumbai,Maharashtra,632265,Rented,PAN,5.46E+11,Domestic,6.87,29-09-2023,28-10-2023,07-11-2023,1022,Anjali,Pending
+Divya Das,Female,Chennai,Tamil Nadu,665847,Leased,Voter ID,2.34E+11,Domestic,7.68,03-08-2023,13-08-2023,19-08-2023,1038,Ramesh,Pending
+Lakshmi Kumar,Female,Salem,Tamil Nadu,674328,Owned,Voter ID,2.20E+11,Domestic,0.95,04-08-2023,09-08-2023,13-08-2023,1028,Ramesh,Approved
+Karthik Iyer,Male,Thiruvananthapuram,Kerala,636366,Rented,Voter ID,4.78E+11,Industrial,1.66,25-01-2024,24-02-2024,03-03-2024,1041,Anjali,Need Documents
+Vijay Singh,Male,Kochi,Kerala,651652,Leased,Driving License,7.25E+11,Domestic,2.7,29-01-2024,04-02-2024,13-02-2024,1007,Ramesh,Pending
+Lakshmi Mehta,Female,Mangaluru,Karnataka,643834,Rented,PAN,2.52E+11,Domestic,8.02,21-04-2023,07-05-2023,07-05-2023,1050,Mahesh,Need Documents
+Amit Singh,Male,Mumbai,Maharashtra,641897,Leased,PAN,5.55E+11,Commercial,8.68,06-01-2023,15-01-2023,23-01-2023,1022,Sunita,Pending
+Meena Patel,Female,Kochi,Kerala,618132,Owned,PAN,1.05E+11,Commercial,6.68,09-10-2023,04-11-2023,04-11-2023,1099,Ramesh,Approved
+Karthik Mehta,Male,New Delhi,Delhi,689197,Rented,Voter ID,7.28E+11,Commercial,2.8,15-01-2023,22-01-2023,27-01-2023,1068,Anjali,Need Documents
+Vijay Patel,Male,Coimbatore,Tamil Nadu,688030,Owned,Aadhaar,4.20E+11,Commercial,3.87,27-11-2023,04-12-2023,06-12-2023,1033,Mahesh,Approved
+Kavya Mehta,Female,Mangaluru,Karnataka,658293,Owned,Voter ID,8.35E+11,Domestic,9.64,09-02-2023,06-03-2023,10-03-2023,1041,Sunita,Approved
+Divya Patel,Female,Mysuru,Karnataka,625097,Owned,PAN,6.02E+11,Domestic,5.26,24-10-2023,20-11-2023,26-11-2023,1026,Mahesh,Approved
+Anita Mehta,Female,Nagpur,Maharashtra,621436,Rented,Aadhaar,5.15E+11,Domestic,6.18,16-05-2023,09-06-2023,18-06-2023,1019,Sunita,Approved
+Karthik Kumar,Male,New Delhi,Delhi,684012,Leased,PAN,7.73E+11,Commercial,7.68,10-08-2023,05-09-2023,07-09-2023,1070,Anjali,Need Documents
+Kavya Kumar,Female,Bengaluru,Karnataka,642603,Rented,Aadhaar,1.11E+11,Commercial,2,08-06-2023,27-06-2023,29-06-2023,1070,Ramesh,Pending
+Neha Patel,Female,Madurai,Tamil Nadu,689719,Rented,PAN,5.69E+11,Domestic,5.93,03-06-2023,13-06-2023,18-06-2023,1063,Ramesh,Approved
+Vijay Das,Male,Kochi,Kerala,611127,Rented,Voter ID,1.53E+11,Domestic,1.48,11-05-2023,23-05-2023,28-05-2023,1079,Mahesh,Pending
+Karthik Reddy,Male,Madurai,Tamil Nadu,601468,Rented,Driving License,8.69E+11,Domestic,3.15,10-11-2023,24-11-2023,30-11-2023,1042,Ramesh,Approved
+Rahul Kumar,Male,New Delhi,Delhi,694759,Rented,PAN,6.69E+11,Domestic,6.1,12-05-2024,07-06-2024,17-06-2024,1079,Ramesh,Approved
+Meena Das,Female,New Delhi,Delhi,600072,Owned,Driving License,9.20E+11,Industrial,1.71,16-12-2023,14-01-2024,16-01-2024,1095,Ramesh,Approved
+Anita Singh,Female,Mysuru,Karnataka,607682,Owned,Driving License,7.36E+11,Industrial,9.86,04-03-2024,15-03-2024,17-03-2024,1049,Mahesh,Pending
+Meena Singh,Female,Thiruvananthapuram,Kerala,686123,Owned,PAN,9.85E+11,Industrial,6.75,13-06-2023,05-07-2023,08-07-2023,1059,Sunita,Approved
+Ravi Mehta,Male,Mysuru,Karnataka,646504,Rented,Aadhaar,1.03E+11,Industrial,6.59,08-11-2023,13-11-2023,21-11-2023,1031,Ramesh,Need Documents
+Karthik Patel,Male,New Delhi,Delhi,647118,Rented,Aadhaar,6.87E+11,Domestic,6.36,14-01-2024,05-02-2024,06-02-2024,1019,Mahesh,Need Documents
+Vijay Kumar,Male,New Delhi,Delhi,686497,Rented,Aadhaar,7.75E+11,Domestic,2.85,05-09-2023,11-09-2023,11-09-2023,1078,Ramesh,Approved
+Meena Patel,Female,Mangaluru,Karnataka,653313,Rented,Aadhaar,9.69E+11,Industrial,8.59,23-07-2023,06-08-2023,15-08-2023,1049,Ramesh,Approved
+Ravi Sharma,Male,Chennai,Tamil Nadu,643979,Leased,Voter ID,1.22E+11,Domestic,7.53,06-01-2024,15-01-2024,22-01-2024,1084,Sunita,Pending
+Pooja Iyer,Female,Mangaluru,Karnataka,652527,Rented,Driving License,3.54E+11,Commercial,4,26-03-2024,19-04-2024,21-04-2024,1079,Ramesh,Need Documents
+Vijay Iyer,Male,Coimbatore,Tamil Nadu,645624,Rented,Aadhaar,7.21E+11,Industrial,2.48,18-12-2023,01-01-2024,01-01-2024,1053,Anjali,Need Documents
+Ravi Kumar,Male,Thiruvananthapuram,Kerala,689354,Owned,Voter ID,2.38E+11,Commercial,4.36,18-03-2023,23-03-2023,25-03-2023,1069,Anjali,Need Documents
+Arun Iyer,Male,Mysuru,Karnataka,683227,Rented,PAN,9.15E+11,Domestic,4.47,28-12-2023,20-01-2024,22-01-2024,1074,Sunita,Pending
+Amit Das,Male,Mangaluru,Karnataka,698115,Owned,Aadhaar,1.06E+11,Commercial,7.73,24-09-2023,15-10-2023,15-10-2023,1056,Sunita,Need Documents
+Kavya Das,Female,Nagpur,Maharashtra,651143,Owned,Driving License,5.62E+11,Commercial,8.84,29-06-2023,25-07-2023,03-08-2023,1028,Ramesh,Approved
+Kavya Iyer,Female,New Delhi,Delhi,691711,Owned,PAN,8.11E+11,Commercial,1.83,22-02-2023,18-03-2023,26-03-2023,1018,Mahesh,Need Documents
+Arun Patel,Male,New Delhi,Delhi,609294,Rented,PAN,3.41E+11,Domestic,7.42,02-11-2023,19-11-2023,19-11-2023,1096,Ramesh,Approved
+Neha Sharma,Female,Kochi,Kerala,636432,Rented,Voter ID,3.86E+11,Domestic,9.72,21-12-2023,07-01-2024,11-01-2024,1053,Mahesh,Need Documents
+Meena Sharma,Female,Mangaluru,Karnataka,637010,Owned,PAN,1.34E+11,Domestic,6.66,29-10-2023,12-11-2023,20-11-2023,1096,Ramesh,Need Documents
+Arun Das,Male,New Delhi,Delhi,620054,Rented,PAN,3.95E+11,Domestic,7.86,22-03-2024,20-04-2024,30-04-2024,1038,Sunita,Approved
+Anita Sharma,Female,Kozhikode,Kerala,650689,Rented,Voter ID,3.80E+11,Domestic,1.17,09-05-2024,29-05-2024,30-05-2024,1093,Mahesh,Pending
+Manoj Patel,Male,Mangaluru,Karnataka,666263,Owned,Aadhaar,6.68E+11,Commercial,8.52,19-07-2023,08-08-2023,08-08-2023,1071,Ramesh,Approved
+Neha Singh,Female,Mumbai,Maharashtra,610980,Owned,Voter ID,6.65E+11,Domestic,7.41,20-10-2023,10-11-2023,20-11-2023,1095,Mahesh,Pending
+Priya Patel,Female,Kochi,Kerala,654424,Leased,PAN,6.53E+11,Industrial,5.18,13-08-2023,27-08-2023,28-08-2023,1026,Sunita,Need Documents
+Neha Das,Female,Coimbatore,Tamil Nadu,677871,Rented,Aadhaar,3.43E+11,Domestic,8.87,17-02-2024,07-03-2024,12-03-2024,1013,Sunita,Pending
+Anita Singh,Female,Coimbatore,Tamil Nadu,675129,Leased,Driving License,3.48E+11,Commercial,7.08,23-03-2023,19-04-2023,20-04-2023,1079,Anjali,Approved
+Manoj Patel,Male,New Delhi,Delhi,628989,Leased,Voter ID,4.76E+11,Commercial,9.52,17-10-2023,08-11-2023,13-11-2023,1011,Sunita,Pending
+Karthik Reddy,Male,New Delhi,Delhi,689513,Owned,PAN,2.02E+11,Domestic,2.72,08-03-2023,13-03-2023,23-03-2023,1049,Anjali,Approved
+Pooja Mehta,Female,Kochi,Kerala,667281,Rented,Driving License,3.91E+11,Industrial,9.79,26-04-2023,06-05-2023,09-05-2023,1084,Anjali,Approved
+Amit Patel,Male,Madurai,Tamil Nadu,652143,Rented,Driving License,6.62E+11,Industrial,1.28,18-02-2023,11-03-2023,11-03-2023,1045,Anjali,Approved
+Ravi Patel,Male,Coimbatore,Tamil Nadu,665395,Rented,PAN,1.65E+11,Industrial,5.31,28-04-2024,26-05-2024,05-06-2024,1017,Mahesh,Approved
+Arun Iyer,Male,New Delhi,Delhi,658266,Rented,Aadhaar,2.98E+11,Industrial,3.14,28-02-2024,12-03-2024,20-03-2024,1047,Mahesh,Pending
+Meena Reddy,Female,Salem,Tamil Nadu,663489,Leased,Aadhaar,9.81E+11,Domestic,3.61,21-02-2024,12-03-2024,13-03-2024,1080,Anjali,Need Documents
+Ravi Singh,Male,Mangaluru,Karnataka,642269,Owned,Aadhaar,8.33E+11,Commercial,2.14,22-01-2023,11-02-2023,14-02-2023,1028,Anjali,Approved
+Neha Iyer,Female,Kochi,Kerala,637554,Owned,Voter ID,8.50E+11,Domestic,3.91,21-11-2023,18-12-2023,21-12-2023,1025,Anjali,Approved
+Amit Patel,Male,Thiruvananthapuram,Kerala,694628,Leased,Voter ID,3.78E+11,Industrial,5.56,18-02-2023,26-02-2023,28-02-2023,1068,Mahesh,Pending
+Rahul Reddy,Male,Coimbatore,Tamil Nadu,686436,Leased,Voter ID,6.02E+11,Domestic,5.06,14-04-2024,06-05-2024,15-05-2024,1089,Sunita,Pending
+Ravi Patel,Male,Coimbatore,Tamil Nadu,626820,Owned,Voter ID,7.43E+11,Commercial,3.45,02-05-2023,23-05-2023,27-05-2023,1033,Mahesh,Need Documents
+Meena Singh,Female,Pune,Maharashtra,629618,Rented,Voter ID,4.26E+11,Commercial,7.54,01-08-2023,19-08-2023,28-08-2023,1003,Mahesh,Approved
+Arun Das,Male,New Delhi,Delhi,610731,Leased,PAN,1.62E+11,Commercial,8.25,07-02-2023,06-03-2023,11-03-2023,1092,Mahesh,Need Documents
+Suresh Das,Male,Mangaluru,Karnataka,625530,Leased,Aadhaar,2.45E+11,Commercial,9.85,08-03-2024,22-03-2024,25-03-2024,1054,Ramesh,Need Documents
+Meena Kumar,Female,New Delhi,Delhi,600091,Owned,Driving License,3.05E+11,Domestic,9,30-11-2023,18-12-2023,19-12-2023,1098,Anjali,Pending
+Karthik Patel,Male,Coimbatore,Tamil Nadu,698497,Rented,Aadhaar,5.92E+11,Industrial,6.47,24-07-2023,14-08-2023,23-08-2023,1029,Ramesh,Need Documents
+Suresh Mehta,Male,New Delhi,Delhi,698487,Owned,Aadhaar,7.89E+11,Industrial,6.44,12-04-2024,27-04-2024,30-04-2024,1051,Mahesh,Need Documents
+Rahul Iyer,Male,New Delhi,Delhi,649208,Rented,Driving License,6.23E+11,Domestic,1.31,13-02-2023,14-03-2023,17-03-2023,1047,Anjali,Pending
+Kavya Mehta,Female,Coimbatore,Tamil Nadu,671396,Rented,Aadhaar,7.77E+11,Industrial,1.13,14-05-2024,04-06-2024,05-06-2024,1069,Ramesh,Need Documents
+Divya Reddy,Female,New Delhi,Delhi,656622,Leased,PAN,5.65E+11,Domestic,9.42,31-08-2023,11-09-2023,12-09-2023,1045,Anjali,Need Documents
+Arun Patel,Male,Kochi,Kerala,617214,Leased,Driving License,2.86E+11,Domestic,8.31,09-10-2023,26-10-2023,29-10-2023,1047,Ramesh,Need Documents
+Manoj Mehta,Male,Kozhikode,Kerala,629282,Rented,Aadhaar,2.40E+11,Commercial,3.82,31-01-2024,15-02-2024,24-02-2024,1088,Mahesh,Approved
+Ravi Patel,Male,Chennai,Tamil Nadu,609515,Rented,Driving License,7.61E+11,Domestic,9.68,22-06-2023,04-07-2023,10-07-2023,1092,Ramesh,Pending
+Arun Sharma,Male,Chennai,Tamil Nadu,664538,Rented,PAN,3.85E+11,Industrial,1.87,29-12-2023,26-01-2024,26-01-2024,1083,Sunita,Pending
+Manoj Mehta,Male,Mumbai,Maharashtra,640932,Rented,Voter ID,7.06E+11,Domestic,6.65,29-04-2024,19-05-2024,21-05-2024,1046,Sunita,Need Documents
+Arun Patel,Male,Nagpur,Maharashtra,625920,Rented,PAN,1.95E+11,Commercial,1.95,19-04-2023,02-05-2023,04-05-2023,1071,Ramesh,Pending
+Ravi Patel,Male,Mangaluru,Karnataka,609541,Rented,PAN,1.59E+11,Industrial,7.83,26-03-2023,09-04-2023,14-04-2023,1032,Anjali,Pending
+Anita Reddy,Female,Thiruvananthapuram,Kerala,607124,Owned,Aadhaar,7.50E+11,Domestic,6.15,04-11-2023,15-11-2023,20-11-2023,1037,Mahesh,Approved
+Meena Patel,Female,Mangaluru,Karnataka,685583,Leased,PAN,6.50E+11,Industrial,8.26,21-03-2024,17-04-2024,19-04-2024,1036,Anjali,Approved
+Suresh Das,Male,New Delhi,Delhi,633123,Owned,Driving License,2.38E+11,Commercial,8.47,24-11-2023,23-12-2023,25-12-2023,1097,Mahesh,Need Documents
+Vijay Iyer,Male,New Delhi,Delhi,662604,Owned,Voter ID,2.78E+11,Industrial,3.48,13-08-2023,03-09-2023,11-09-2023,1036,Sunita,Approved
+Meena Patel,Female,Bengaluru,Karnataka,610874,Owned,Voter ID,9.78E+11,Commercial,4.87,14-02-2024,22-02-2024,02-03-2024,1025,Sunita,Pending
+Neha Reddy,Female,Chennai,Tamil Nadu,633219,Leased,Aadhaar,5.65E+11,Domestic,4.09,19-11-2023,01-12-2023,01-12-2023,1079,Ramesh,Pending
+Vijay Patel,Male,Coimbatore,Tamil Nadu,641969,Rented,Aadhaar,4.13E+11,Commercial,4.42,08-04-2023,14-04-2023,14-04-2023,1078,Anjali,Need Documents
+Karthik Patel,Male,Mumbai,Maharashtra,694333,Leased,Voter ID,5.94E+11,Commercial,1.68,19-02-2023,02-03-2023,11-03-2023,1015,Ramesh,Need Documents
+Priya Das,Female,Thiruvananthapuram,Kerala,628665,Owned,Voter ID,2.83E+11,Domestic,2.56,23-04-2024,07-05-2024,16-05-2024,1100,Ramesh,Pending
+Anita Singh,Female,Coimbatore,Tamil Nadu,641304,Leased,Voter ID,6.80E+11,Domestic,1.17,23-10-2023,20-11-2023,29-11-2023,1057,Ramesh,Approved
+Meena Singh,Female,Nagpur,Maharashtra,609292,Rented,PAN,1.90E+11,Commercial,1.04,07-03-2023,31-03-2023,31-03-2023,1041,Mahesh,Pending
+Karthik Sharma,Male,Thiruvananthapuram,Kerala,678429,Leased,Voter ID,5.83E+11,Domestic,0.51,25-09-2023,19-10-2023,26-10-2023,1054,Mahesh,Need Documents
+Amit Mehta,Male,Mysuru,Karnataka,695988,Leased,Aadhaar,6.81E+11,Domestic,4.12,24-08-2023,03-09-2023,13-09-2023,1050,Ramesh,Pending
+Rahul Iyer,Male,Coimbatore,Tamil Nadu,669039,Owned,Aadhaar,3.54E+11,Industrial,2.69,22-02-2024,14-03-2024,23-03-2024,1029,Ramesh,Need Documents
+Anita Iyer,Female,Thiruvananthapuram,Kerala,620669,Rented,Voter ID,2.70E+11,Industrial,5.37,30-06-2023,09-07-2023,19-07-2023,1025,Mahesh,Approved
+Suresh Iyer,Male,Pune,Maharashtra,631925,Leased,Aadhaar,5.26E+11,Industrial,4.54,02-02-2023,26-02-2023,07-03-2023,1067,Ramesh,Pending
+Vijay Mehta,Male,Bengaluru,Karnataka,616190,Leased,Aadhaar,7.27E+11,Domestic,8.23,15-03-2024,14-04-2024,24-04-2024,1062,Ramesh,Approved
+Karthik Iyer,Male,Coimbatore,Tamil Nadu,636005,Owned,Aadhaar,2.22E+11,Commercial,4.86,15-03-2024,06-04-2024,10-04-2024,1092,Mahesh,Need Documents
+Rahul Reddy,Male,Pune,Maharashtra,631257,Owned,PAN,4.34E+11,Domestic,1.97,09-09-2023,20-09-2023,30-09-2023,1059,Ramesh,Approved
+Ravi Reddy,Male,Mangaluru,Karnataka,650117,Leased,Driving License,6.86E+11,Domestic,5.3,15-01-2023,25-01-2023,03-02-2023,1081,Mahesh,Pending
+Priya Kumar,Female,Salem,Tamil Nadu,615997,Owned,PAN,1.57E+11,Commercial,4.71,09-04-2024,20-04-2024,20-04-2024,1012,Anjali,Approved
+Rahul Patel,Male,Kochi,Kerala,606685,Owned,Voter ID,6.88E+11,Domestic,3.41,08-09-2023,05-10-2023,08-10-2023,1029,Sunita,Need Documents
+Amit Mehta,Male,New Delhi,Delhi,662507,Rented,PAN,8.16E+11,Domestic,3.83,18-10-2023,14-11-2023,24-11-2023,1029,Sunita,Need Documents
+Suresh Iyer,Male,Chennai,Tamil Nadu,667198,Rented,Aadhaar,4.65E+11,Commercial,4.78,26-03-2023,22-04-2023,25-04-2023,1018,Sunita,Approved
+Amit Kumar,Male,Mangaluru,Karnataka,654865,Leased,Driving License,8.57E+11,Industrial,7.51,07-05-2024,25-05-2024,30-05-2024,1063,Mahesh,Pending
+Manoj Sharma,Male,Chennai,Tamil Nadu,684298,Owned,Driving License,1.49E+11,Commercial,2.24,21-06-2023,19-07-2023,25-07-2023,1013,Ramesh,Need Documents
+Meena Kumar,Female,Thiruvananthapuram,Kerala,638577,Rented,Aadhaar,1.81E+11,Domestic,6.44,30-04-2023,20-05-2023,27-05-2023,1069,Ramesh,Approved
+Amit Singh,Male,Salem,Tamil Nadu,676894,Owned,Voter ID,5.96E+11,Domestic,9.33,14-04-2023,04-05-2023,07-05-2023,1065,Sunita,Approved
+Divya Iyer,Female,Mysuru,Karnataka,691748,Rented,PAN,6.67E+11,Industrial,5.54,12-04-2023,30-04-2023,07-05-2023,1087,Ramesh,Pending
+Kavya Kumar,Female,Mangaluru,Karnataka,601670,Owned,Aadhaar,6.89E+11,Domestic,4.44,13-07-2023,07-08-2023,16-08-2023,1082,Sunita,Need Documents
+Meena Iyer,Female,Madurai,Tamil Nadu,634144,Rented,Aadhaar,7.48E+11,Domestic,8.89,08-03-2024,17-03-2024,20-03-2024,1026,Mahesh,Pending
+Divya Iyer,Female,New Delhi,Delhi,662613,Owned,Aadhaar,7.20E+11,Commercial,0.99,20-04-2023,04-05-2023,13-05-2023,1017,Sunita,Need Documents
+Divya Mehta,Female,Mangaluru,Karnataka,612208,Owned,Voter ID,6.17E+11,Commercial,3.1,17-11-2023,12-12-2023,18-12-2023,1045,Sunita,Approved
+Priya Kumar,Female,New Delhi,Delhi,647032,Rented,Voter ID,7.44E+11,Industrial,4.03,17-04-2024,22-04-2024,23-04-2024,1004,Anjali,Pending
+Manoj Iyer,Male,Mysuru,Karnataka,652002,Rented,Voter ID,7.73E+11,Domestic,4.56,06-04-2024,11-04-2024,18-04-2024,1044,Mahesh,Approved
+Priya Das,Female,Bengaluru,Karnataka,697463,Leased,Aadhaar,2.30E+11,Commercial,3.19,27-08-2023,06-09-2023,14-09-2023,1003,Sunita,Need Documents
+Vijay Das,Male,Madurai,Tamil Nadu,667636,Owned,Driving License,5.41E+11,Domestic,4.08,02-01-2024,19-01-2024,26-01-2024,1031,Mahesh,Pending
+Arun Singh,Male,Chennai,Tamil Nadu,649713,Rented,Driving License,3.95E+11,Commercial,8.46,06-05-2024,04-06-2024,11-06-2024,1056,Anjali,Pending
+Meena Patel,Female,Madurai,Tamil Nadu,606903,Owned,Voter ID,5.91E+11,Commercial,2.9,23-01-2023,12-02-2023,20-02-2023,1060,Anjali,Pending
+Neha Iyer,Female,Mumbai,Maharashtra,690051,Owned,Aadhaar,5.51E+11,Domestic,7.04,04-07-2023,31-07-2023,31-07-2023,1023,Ramesh,Need Documents
+Rahul Iyer,Male,Coimbatore,Tamil Nadu,656352,Owned,Voter ID,8.99E+11,Domestic,5.84,09-02-2024,24-02-2024,29-02-2024,1044,Anjali,Pending
+Suresh Kumar,Male,Bengaluru,Karnataka,682112,Leased,Driving License,6.06E+11,Domestic,8.39,14-09-2023,10-10-2023,18-10-2023,1071,Mahesh,Pending
+Vijay Singh,Male,Bengaluru,Karnataka,678862,Rented,Driving License,1.87E+11,Commercial,3.2,16-09-2023,05-10-2023,06-10-2023,1025,Sunita,Need Documents
+Anita Sharma,Female,Mangaluru,Karnataka,659681,Rented,Voter ID,2.13E+11,Industrial,1.44,24-08-2023,30-08-2023,08-09-2023,1026,Mahesh,Pending
+Kavya Iyer,Female,New Delhi,Delhi,646615,Owned,Driving License,7.82E+11,Industrial,7.19,31-12-2023,13-01-2024,14-01-2024,1063,Ramesh,Approved
+Ravi Sharma,Male,Bengaluru,Karnataka,643093,Owned,Driving License,2.17E+11,Commercial,1.32,24-09-2023,20-10-2023,20-10-2023,1042,Mahesh,Approved
+Vijay Das,Male,New Delhi,Delhi,648761,Rented,Voter ID,3.26E+11,Commercial,6.53,21-03-2024,12-04-2024,14-04-2024,1045,Ramesh,Pending
+Priya Patel,Female,Chennai,Tamil Nadu,648079,Leased,PAN,9.99E+11,Industrial,1.62,12-08-2023,28-08-2023,30-08-2023,1013,Ramesh,Pending
+Kavya Iyer,Female,Bengaluru,Karnataka,685367,Rented,Driving License,3.33E+11,Domestic,3.41,26-03-2024,15-04-2024,22-04-2024,1073,Ramesh,Pending
+Rahul Kumar,Male,Chennai,Tamil Nadu,691593,Owned,PAN,9.23E+11,Domestic,5.97,24-06-2023,05-07-2023,09-07-2023,1006,Ramesh,Need Documents
+Amit Reddy,Male,Chennai,Tamil Nadu,627330,Owned,Driving License,1.36E+11,Commercial,7.86,12-03-2024,27-03-2024,27-03-2024,1054,Mahesh,Approved
+Manoj Reddy,Male,Thiruvananthapuram,Kerala,601166,Leased,PAN,4.23E+11,Domestic,2.17,04-01-2023,21-01-2023,22-01-2023,1079,Sunita,Approved
+Divya Patel,Female,New Delhi,Delhi,648327,Rented,PAN,6.81E+11,Commercial,3.01,23-02-2023,10-03-2023,17-03-2023,1072,Anjali,Pending
+Karthik Mehta,Male,Kochi,Kerala,646960,Owned,Driving License,6.91E+11,Domestic,5.2,09-03-2024,25-03-2024,31-03-2024,1016,Mahesh,Need Documents
+Divya Sharma,Female,New Delhi,Delhi,663779,Owned,Driving License,4.69E+11,Domestic,9.16,28-03-2024,10-04-2024,18-04-2024,1091,Sunita,Need Documents
+Amit Das,Male,Mangaluru,Karnataka,697114,Owned,Aadhaar,8.18E+11,Industrial,5.37,07-09-2023,15-09-2023,23-09-2023,1083,Ramesh,Approved
+Divya Singh,Female,Nagpur,Maharashtra,684104,Owned,PAN,4.22E+11,Industrial,5.97,10-10-2023,30-10-2023,03-11-2023,1012,Sunita,Approved
+Arun Kumar,Male,Chennai,Tamil Nadu,604115,Leased,Aadhaar,4.27E+11,Industrial,6.91,09-04-2024,06-05-2024,14-05-2024,1007,Ramesh,Approved
+Karthik Sharma,Male,Bengaluru,Karnataka,651248,Owned,Driving License,7.87E+11,Domestic,5.76,31-08-2023,15-09-2023,16-09-2023,1036,Mahesh,Need Documents
+Kavya Singh,Female,Nagpur,Maharashtra,680691,Owned,Aadhaar,4.64E+11,Industrial,3.19,21-01-2023,05-02-2023,14-02-2023,1048,Ramesh,Need Documents
+Lakshmi Mehta,Female,Kozhikode,Kerala,665973,Leased,Driving License,5.01E+11,Commercial,9.28,21-07-2023,02-08-2023,05-08-2023,1089,Ramesh,Pending
+Ravi Iyer,Male,New Delhi,Delhi,645688,Leased,Aadhaar,7.73E+11,Domestic,8.12,14-11-2023,29-11-2023,06-12-2023,1097,Sunita,Pending
+Lakshmi Kumar,Female,Pune,Maharashtra,626121,Leased,Aadhaar,9.37E+11,Domestic,7.19,31-08-2023,10-09-2023,16-09-2023,1081,Ramesh,Pending
+Arun Mehta,Male,Nagpur,Maharashtra,627373,Owned,Driving License,7.87E+11,Industrial,6.48,20-01-2023,17-02-2023,23-02-2023,1037,Mahesh,Approved
+Anita Kumar,Female,Bengaluru,Karnataka,643030,Rented,Driving License,3.94E+11,Domestic,9.18,16-06-2023,10-07-2023,16-07-2023,1036,Anjali,Approved
+Neha Sharma,Female,New Delhi,Delhi,616343,Leased,Voter ID,3.77E+11,Industrial,3.29,07-04-2023,21-04-2023,22-04-2023,1022,Anjali,Pending
+Priya Patel,Female,New Delhi,Delhi,697692,Leased,PAN,3.16E+11,Commercial,3.78,07-02-2023,06-03-2023,06-03-2023,1077,Sunita,Pending
+Karthik Kumar,Male,New Delhi,Delhi,682648,Leased,Voter ID,2.59E+11,Commercial,6.83,11-06-2023,04-07-2023,08-07-2023,1073,Mahesh,Need Documents
+Amit Singh,Male,Kozhikode,Kerala,607451,Rented,Aadhaar,1.20E+11,Domestic,5.78,18-01-2024,17-02-2024,21-02-2024,1045,Ramesh,Approved
+Kavya Kumar,Female,Salem,Tamil Nadu,613515,Owned,Driving License,9.01E+11,Domestic,0.85,05-08-2023,28-08-2023,04-09-2023,1020,Ramesh,Approved
+Divya Kumar,Female,Kozhikode,Kerala,669380,Rented,Aadhaar,1.61E+11,Domestic,7.85,24-01-2023,07-02-2023,10-02-2023,1058,Ramesh,Need Documents
+Vijay Singh,Male,Mumbai,Maharashtra,658592,Owned,Aadhaar,5.47E+11,Domestic,3.43,23-11-2023,07-12-2023,16-12-2023,1057,Ramesh,Need Documents
+Rahul Singh,Male,New Delhi,Delhi,610877,Owned,Voter ID,2.03E+11,Commercial,7.98,22-02-2023,09-03-2023,09-03-2023,1090,Mahesh,Need Documents
+Priya Iyer,Female,New Delhi,Delhi,684196,Leased,Voter ID,8.24E+11,Commercial,0.52,05-12-2023,26-12-2023,05-01-2024,1077,Mahesh,Pending
+Ravi Sharma,Male,New Delhi,Delhi,677373,Leased,PAN,1.75E+11,Domestic,5.78,14-08-2023,19-08-2023,27-08-2023,1008,Mahesh,Pending
+Lakshmi Singh,Female,Kozhikode,Kerala,603718,Leased,Aadhaar,7.85E+11,Domestic,3.88,10-12-2023,21-12-2023,22-12-2023,1067,Anjali,Pending
+Karthik Patel,Male,New Delhi,Delhi,650566,Leased,Driving License,8.90E+11,Industrial,0.75,08-12-2023,26-12-2023,04-01-2024,1076,Sunita,Need Documents
+Meena Singh,Female,Kochi,Kerala,638625,Leased,Aadhaar,3.70E+11,Industrial,9.88,15-01-2023,21-01-2023,30-01-2023,1020,Anjali,Pending
+Ravi Iyer,Male,New Delhi,Delhi,648236,Rented,Aadhaar,7.72E+11,Industrial,8.9,29-12-2023,17-01-2024,20-01-2024,1040,Anjali,Pending
+Anita Reddy,Female,Thiruvananthapuram,Kerala,645325,Rented,PAN,6.69E+11,Commercial,2.44,13-05-2023,04-06-2023,10-06-2023,1060,Anjali,Approved
+Karthik Sharma,Male,Mangaluru,Karnataka,675983,Leased,Voter ID,4.16E+11,Industrial,6.25,30-04-2023,27-05-2023,04-06-2023,1035,Mahesh,Approved
+Kavya Reddy,Female,New Delhi,Delhi,669874,Rented,Voter ID,9.57E+11,Commercial,4.4,07-10-2023,03-11-2023,06-11-2023,1011,Sunita,Need Documents
+Neha Kumar,Female,Mysuru,Karnataka,647008,Owned,PAN,1.83E+11,Domestic,5.81,18-07-2023,09-08-2023,16-08-2023,1089,Sunita,Pending
+Priya Reddy,Female,Thiruvananthapuram,Kerala,672478,Rented,Voter ID,7.51E+11,Industrial,9.85,26-02-2023,09-03-2023,14-03-2023,1046,Sunita,Approved
+Neha Kumar,Female,Mangaluru,Karnataka,646535,Leased,Aadhaar,3.85E+11,Domestic,8.79,11-02-2024,20-02-2024,20-02-2024,1047,Mahesh,Pending
+Anita Kumar,Female,Nagpur,Maharashtra,611519,Leased,PAN,3.27E+11,Domestic,2.92,29-09-2023,07-10-2023,07-10-2023,1018,Mahesh,Pending
+Arun Singh,Male,Kochi,Kerala,688691,Leased,Aadhaar,9.05E+11,Domestic,9.51,04-03-2024,28-03-2024,01-04-2024,1010,Sunita,Pending
+Kavya Das,Female,Mumbai,Maharashtra,618260,Rented,Aadhaar,6.81E+11,Industrial,3.46,28-02-2023,10-03-2023,16-03-2023,1038,Anjali,Need Documents
+Amit Kumar,Male,Kozhikode,Kerala,677415,Owned,Aadhaar,8.63E+11,Industrial,4.41,15-05-2023,09-06-2023,16-06-2023,1033,Mahesh,Need Documents
+Vijay Das,Male,Kochi,Kerala,611652,Leased,Voter ID,7.33E+11,Commercial,2.57,11-02-2023,25-02-2023,04-03-2023,1053,Mahesh,Approved
+Pooja Iyer,Female,Mangaluru,Karnataka,601679,Leased,Voter ID,1.24E+11,Commercial,9.89,08-04-2024,08-05-2024,09-05-2024,1075,Sunita,Need Documents
+Karthik Sharma,Male,Chennai,Tamil Nadu,694077,Leased,Voter ID,2.55E+11,Domestic,4.62,29-08-2023,18-09-2023,20-09-2023,1026,Mahesh,Pending
+Ravi Kumar,Male,New Delhi,Delhi,633993,Owned,PAN,9.85E+11,Domestic,6.88,10-01-2024,27-01-2024,03-02-2024,1033,Mahesh,Pending
+Meena Mehta,Female,Kozhikode,Kerala,660599,Owned,Aadhaar,5.63E+11,Domestic,7.98,20-01-2023,03-02-2023,11-02-2023,1045,Sunita,Pending
+Manoj Kumar,Male,Thiruvananthapuram,Kerala,643356,Rented,PAN,4.01E+11,Commercial,5.49,31-03-2023,11-04-2023,16-04-2023,1050,Sunita,Approved
+Karthik Mehta,Male,Thiruvananthapuram,Kerala,668309,Leased,Aadhaar,1.15E+11,Commercial,3.12,29-04-2024,09-05-2024,19-05-2024,1012,Mahesh,Approved
+Anita Patel,Female,Salem,Tamil Nadu,632777,Owned,PAN,1.38E+11,Industrial,6.97,31-01-2023,24-02-2023,02-03-2023,1005,Anjali,Pending
+Pooja Patel,Female,Nagpur,Maharashtra,675322,Leased,Driving License,8.97E+11,Industrial,8.25,20-09-2023,02-10-2023,08-10-2023,1009,Mahesh,Need Documents
+Lakshmi Das,Female,Madurai,Tamil Nadu,660143,Owned,Driving License,6.34E+11,Commercial,5.45,08-04-2024,03-05-2024,05-05-2024,1079,Ramesh,Pending
+Ravi Patel,Male,Bengaluru,Karnataka,624955,Rented,Aadhaar,8.62E+11,Domestic,1.93,07-01-2024,22-01-2024,30-01-2024,1074,Anjali,Approved
+Karthik Mehta,Male,Kochi,Kerala,626696,Leased,Voter ID,6.15E+11,Commercial,4.12,01-04-2024,27-04-2024,07-05-2024,1080,Anjali,Need Documents
+Pooja Singh,Female,Chennai,Tamil Nadu,626034,Leased,Driving License,7.55E+11,Domestic,2.44,21-04-2023,17-05-2023,22-05-2023,1080,Ramesh,Need Documents
+Meena Reddy,Female,New Delhi,Delhi,671641,Owned,PAN,4.34E+11,Domestic,0.96,11-12-2023,28-12-2023,07-01-2024,1058,Anjali,Approved
+Kavya Iyer,Female,Madurai,Tamil Nadu,673480,Rented,PAN,6.03E+11,Industrial,8.36,24-03-2023,03-04-2023,11-04-2023,1040,Sunita,Pending
+Pooja Singh,Female,Pune,Maharashtra,608475,Leased,Voter ID,5.43E+11,Commercial,9.95,28-10-2023,14-11-2023,18-11-2023,1091,Ramesh,Pending
+Arun Patel,Male,Chennai,Tamil Nadu,653364,Owned,Aadhaar,4.29E+11,Domestic,2.8,11-05-2024,05-06-2024,06-06-2024,1053,Anjali,Approved
+Lakshmi Kumar,Female,Salem,Tamil Nadu,694662,Rented,PAN,7.00E+11,Industrial,6.6,12-02-2024,08-03-2024,16-03-2024,1088,Ramesh,Approved
+Rahul Reddy,Male,Mangaluru,Karnataka,697829,Rented,Aadhaar,2.16E+11,Domestic,9.4,05-05-2023,31-05-2023,02-06-2023,1020,Mahesh,Pending
+Anita Iyer,Female,Mysuru,Karnataka,624827,Leased,PAN,5.07E+11,Domestic,9.18,05-03-2023,15-03-2023,18-03-2023,1012,Ramesh,Approved
+Anita Reddy,Female,Mysuru,Karnataka,630187,Rented,Driving License,4.58E+11,Domestic,6.39,16-10-2023,10-11-2023,14-11-2023,1043,Sunita,Approved
+Manoj Patel,Male,Salem,Tamil Nadu,632648,Leased,Aadhaar,6.10E+11,Commercial,9.82,29-04-2024,15-05-2024,15-05-2024,1053,Anjali,Pending
+Neha Kumar,Female,Kozhikode,Kerala,691775,Rented,Voter ID,2.70E+11,Domestic,0.56,04-11-2023,23-11-2023,25-11-2023,1088,Mahesh,Need Documents
+Amit Mehta,Male,Bengaluru,Karnataka,638459,Owned,Driving License,5.67E+11,Domestic,8.85,09-04-2023,24-04-2023,24-04-2023,1099,Ramesh,Need Documents
+Suresh Kumar,Male,Mysuru,Karnataka,647888,Rented,Driving License,5.20E+11,Industrial,8.77,14-01-2023,20-01-2023,30-01-2023,1040,Ramesh,Need Documents
+Pooja Sharma,Female,Pune,Maharashtra,602979,Leased,PAN,5.92E+11,Commercial,5.91,14-01-2024,07-02-2024,16-02-2024,1076,Mahesh,Approved
+Meena Patel,Female,Thiruvananthapuram,Kerala,600497,Rented,Driving License,9.64E+11,Domestic,4.8,19-08-2023,17-09-2023,22-09-2023,1056,Ramesh,Approved
+Meena Kumar,Female,Kochi,Kerala,631658,Rented,Driving License,5.02E+11,Commercial,1.57,06-02-2023,03-03-2023,10-03-2023,1071,Mahesh,Pending
+Arun Reddy,Male,Thiruvananthapuram,Kerala,621845,Rented,Voter ID,8.18E+11,Domestic,3.5,12-03-2023,23-03-2023,02-04-2023,1074,Anjali,Pending
+Kavya Reddy,Female,New Delhi,Delhi,695914,Rented,PAN,8.15E+11,Industrial,7.53,09-09-2023,04-10-2023,12-10-2023,1016,Mahesh,Approved
+Suresh Singh,Male,Mysuru,Karnataka,653529,Owned,PAN,8.72E+11,Commercial,5.05,21-06-2023,21-07-2023,30-07-2023,1035,Ramesh,Pending
+Rahul Patel,Male,Madurai,Tamil Nadu,692188,Leased,Aadhaar,2.08E+11,Industrial,7.8,21-04-2024,10-05-2024,10-05-2024,1085,Ramesh,Pending
+Suresh Das,Male,Mangaluru,Karnataka,681193,Rented,PAN,4.13E+11,Industrial,6.02,05-03-2023,21-03-2023,28-03-2023,1010,Sunita,Approved
+Divya Patel,Female,Nagpur,Maharashtra,611805,Owned,Aadhaar,2.31E+11,Domestic,9.59,05-12-2023,19-12-2023,27-12-2023,1037,Sunita,Approved
+Suresh Reddy,Male,Chennai,Tamil Nadu,699552,Owned,PAN,8.60E+11,Industrial,8.33,25-12-2023,16-01-2024,19-01-2024,1064,Ramesh,Need Documents
+Divya Patel,Female,Madurai,Tamil Nadu,608289,Leased,PAN,6.21E+11,Industrial,4.82,22-11-2023,29-11-2023,07-12-2023,1094,Ramesh,Pending
+Karthik Iyer,Male,Thiruvananthapuram,Kerala,642882,Rented,Driving License,2.95E+11,Industrial,8.91,28-10-2023,20-11-2023,30-11-2023,1093,Mahesh,Need Documents
+Ravi Das,Male,New Delhi,Delhi,686938,Leased,Aadhaar,5.12E+11,Industrial,8.34,22-06-2023,01-07-2023,05-07-2023,1095,Anjali,Need Documents
+Divya Singh,Female,Coimbatore,Tamil Nadu,610028,Owned,Driving License,4.41E+11,Domestic,2.4,16-01-2023,05-02-2023,10-02-2023,1040,Sunita,Need Documents
+Suresh Iyer,Male,Mangaluru,Karnataka,613823,Leased,Voter ID,7.12E+11,Industrial,3.17,06-03-2024,21-03-2024,25-03-2024,1079,Ramesh,Need Documents
+Meena Sharma,Female,Mysuru,Karnataka,643825,Leased,Driving License,6.13E+11,Domestic,7.17,08-11-2023,02-12-2023,07-12-2023,1077,Sunita,Pending
+Priya Reddy,Female,Kozhikode,Kerala,668842,Leased,PAN,2.02E+11,Industrial,3.95,03-03-2024,08-03-2024,18-03-2024,1029,Anjali,Pending
+Divya Sharma,Female,New Delhi,Delhi,636239,Leased,Driving License,2.32E+11,Domestic,5.01,25-04-2023,10-05-2023,20-05-2023,1045,Ramesh,Need Documents
+Kavya Kumar,Female,Madurai,Tamil Nadu,621497,Owned,Driving License,2.42E+11,Commercial,1.58,24-12-2023,01-01-2024,05-01-2024,1067,Mahesh,Pending
+Arun Iyer,Male,Pune,Maharashtra,603132,Leased,Aadhaar,5.65E+11,Domestic,2.56,22-04-2023,19-05-2023,29-05-2023,1081,Ramesh,Approved
+Amit Singh,Male,Kochi,Kerala,673242,Rented,PAN,2.44E+11,Industrial,8.71,17-02-2024,26-02-2024,04-03-2024,1094,Anjali,Pending
+Priya Kumar,Female,Kochi,Kerala,616133,Leased,Driving License,5.18E+11,Commercial,8.14,22-08-2023,02-09-2023,03-09-2023,1059,Mahesh,Need Documents
+Suresh Mehta,Male,Mumbai,Maharashtra,659776,Leased,PAN,9.32E+11,Commercial,2.59,09-05-2024,26-05-2024,28-05-2024,1081,Sunita,Approved
+Lakshmi Kumar,Female,Salem,Tamil Nadu,632813,Owned,Aadhaar,1.93E+11,Domestic,8.13,08-03-2024,26-03-2024,03-04-2024,1086,Anjali,Need Documents
+Ravi Reddy,Male,Mumbai,Maharashtra,672387,Leased,PAN,6.43E+11,Industrial,7.78,30-01-2023,08-02-2023,08-02-2023,1094,Mahesh,Pending
+Vijay Singh,Male,Madurai,Tamil Nadu,655055,Leased,Voter ID,9.13E+11,Commercial,4.68,22-12-2023,18-01-2024,20-01-2024,1016,Anjali,Need Documents
+Suresh Patel,Male,Mumbai,Maharashtra,614918,Rented,Aadhaar,2.47E+11,Domestic,2.2,28-08-2023,19-09-2023,29-09-2023,1041,Mahesh,Need Documents
+Ravi Iyer,Male,Mumbai,Maharashtra,675818,Leased,Driving License,4.08E+11,Domestic,6.12,13-04-2023,30-04-2023,02-05-2023,1080,Sunita,Pending
+Ravi Mehta,Male,Chennai,Tamil Nadu,678665,Rented,PAN,9.93E+11,Domestic,1.67,22-03-2024,09-04-2024,19-04-2024,1094,Sunita,Need Documents
+Ravi Iyer,Male,New Delhi,Delhi,624550,Owned,Aadhaar,1.30E+11,Commercial,3.6,14-10-2023,26-10-2023,26-10-2023,1061,Mahesh,Need Documents
+Priya Patel,Female,Mysuru,Karnataka,621324,Owned,Voter ID,8.00E+11,Industrial,5.62,13-05-2024,10-06-2024,10-06-2024,1068,Mahesh,Pending
+Lakshmi Reddy,Female,New Delhi,Delhi,633963,Leased,Aadhaar,7.72E+11,Domestic,1.65,17-09-2023,24-09-2023,03-10-2023,1068,Mahesh,Need Documents
+Lakshmi Reddy,Female,Pune,Maharashtra,623823,Rented,Voter ID,4.74E+11,Domestic,9.06,17-02-2023,17-03-2023,19-03-2023,1011,Sunita,Approved
+Ravi Patel,Male,Mysuru,Karnataka,603313,Owned,Aadhaar,5.73E+11,Industrial,9.35,21-02-2024,11-03-2024,15-03-2024,1007,Anjali,Need Documents
+Arun Patel,Male,New Delhi,Delhi,689832,Rented,Driving License,1.44E+11,Commercial,7.59,29-01-2024,12-02-2024,19-02-2024,1044,Anjali,Approved
+Kavya Iyer,Female,Pune,Maharashtra,609547,Owned,Driving License,4.38E+11,Commercial,6.18,30-05-2023,18-06-2023,23-06-2023,1016,Sunita,Approved
+Pooja Das,Female,Salem,Tamil Nadu,681885,Rented,Aadhaar,9.59E+11,Commercial,7.86,18-09-2023,06-10-2023,14-10-2023,1077,Anjali,Pending
+Karthik Das,Male,Mumbai,Maharashtra,658514,Rented,Voter ID,5.78E+11,Commercial,2.57,27-09-2023,13-10-2023,14-10-2023,1031,Anjali,Approved
+Amit Patel,Male,Nagpur,Maharashtra,694378,Rented,Aadhaar,4.43E+11,Domestic,7.68,18-01-2023,07-02-2023,14-02-2023,1066,Mahesh,Approved
+Karthik Mehta,Male,New Delhi,Delhi,678605,Owned,Voter ID,5.89E+11,Commercial,8.32,20-11-2023,18-12-2023,23-12-2023,1070,Ramesh,Need Documents
+Vijay Reddy,Male,Kochi,Kerala,678848,Leased,Driving License,9.10E+11,Domestic,6.75,16-02-2023,23-02-2023,28-02-2023,1090,Anjali,Need Documents
+Meena Sharma,Female,Mysuru,Karnataka,609927,Leased,Voter ID,8.88E+11,Industrial,5.4,04-09-2023,28-09-2023,03-10-2023,1031,Mahesh,Approved
+Suresh Iyer,Male,New Delhi,Delhi,676599,Owned,PAN,9.06E+11,Industrial,9.75,25-01-2024,10-02-2024,11-02-2024,1087,Ramesh,Pending
+Lakshmi Iyer,Female,New Delhi,Delhi,604851,Leased,Aadhaar,1.94E+11,Industrial,1.73,05-04-2023,23-04-2023,24-04-2023,1075,Sunita,Need Documents
+Priya Mehta,Female,New Delhi,Delhi,656621,Rented,PAN,1.65E+11,Industrial,6.94,18-03-2024,31-03-2024,08-04-2024,1045,Ramesh,Pending
+Kavya Das,Female,Bengaluru,Karnataka,660937,Rented,PAN,1.21E+11,Domestic,9.83,27-01-2024,13-02-2024,14-02-2024,1071,Ramesh,Pending
+Rahul Singh,Male,Mysuru,Karnataka,615080,Owned,Voter ID,9.72E+11,Industrial,5.65,23-11-2023,11-12-2023,20-12-2023,1022,Ramesh,Approved
+Priya Kumar,Female,Thiruvananthapuram,Kerala,629078,Owned,PAN,4.94E+11,Commercial,2.3,03-01-2024,16-01-2024,26-01-2024,1016,Mahesh,Need Documents
+Arun Patel,Male,Pune,Maharashtra,638633,Leased,Voter ID,3.51E+11,Domestic,1.82,30-04-2024,28-05-2024,28-05-2024,1098,Mahesh,Approved
+Kavya Singh,Female,New Delhi,Delhi,602435,Rented,Voter ID,8.91E+11,Domestic,5.42,31-03-2024,19-04-2024,23-04-2024,1009,Sunita,Pending
+Priya Reddy,Female,Bengaluru,Karnataka,644195,Rented,Aadhaar,4.84E+11,Industrial,1.28,28-09-2023,19-10-2023,27-10-2023,1090,Mahesh,Pending
+Rahul Das,Male,Kochi,Kerala,694783,Leased,Driving License,7.53E+11,Commercial,9.39,09-07-2023,30-07-2023,03-08-2023,1062,Mahesh,Need Documents
+Anita Singh,Female,Nagpur,Maharashtra,697933,Rented,Aadhaar,4.82E+11,Commercial,8.17,15-03-2023,13-04-2023,13-04-2023,1057,Anjali,Pending
+Kavya Mehta,Female,New Delhi,Delhi,683895,Rented,PAN,5.98E+11,Commercial,1.03,10-04-2023,05-05-2023,09-05-2023,1093,Anjali,Pending
+Pooja Iyer,Female,Thiruvananthapuram,Kerala,693834,Owned,Driving License,5.73E+11,Domestic,6.75,22-02-2024,03-03-2024,12-03-2024,1052,Mahesh,Pending
+Rahul Sharma,Male,Nagpur,Maharashtra,641162,Leased,PAN,3.82E+11,Domestic,9.94,09-04-2023,01-05-2023,05-05-2023,1038,Mahesh,Approved
+Vijay Iyer,Male,New Delhi,Delhi,677740,Leased,Voter ID,2.27E+11,Commercial,6.81,04-02-2023,10-02-2023,15-02-2023,1091,Anjali,Pending
+Ravi Patel,Male,Mysuru,Karnataka,655056,Leased,Aadhaar,4.62E+11,Commercial,6.29,28-07-2023,06-08-2023,06-08-2023,1028,Sunita,Approved
+Amit Kumar,Male,Mumbai,Maharashtra,663643,Rented,Aadhaar,9.58E+11,Commercial,9.06,04-04-2024,23-04-2024,30-04-2024,1081,Mahesh,Pending
+Lakshmi Singh,Female,Coimbatore,Tamil Nadu,619265,Leased,Aadhaar,4.29E+11,Commercial,2.57,24-04-2023,20-05-2023,30-05-2023,1079,Anjali,Need Documents
+Kavya Mehta,Female,Mumbai,Maharashtra,633903,Leased,Driving License,6.12E+11,Domestic,1.91,02-05-2023,23-05-2023,29-05-2023,1002,Anjali,Need Documents
+Rahul Singh,Male,New Delhi,Delhi,660646,Owned,Aadhaar,3.35E+11,Commercial,5.66,19-08-2023,09-09-2023,10-09-2023,1099,Sunita,Pending
+Divya Das,Female,Mumbai,Maharashtra,672967,Leased,Voter ID,9.21E+11,Domestic,5.43,28-04-2024,23-05-2024,29-05-2024,1084,Mahesh,Need Documents
+Manoj Reddy,Male,Pune,Maharashtra,674338,Owned,Aadhaar,2.69E+11,Domestic,7.65,08-05-2023,27-05-2023,01-06-2023,1041,Sunita,Need Documents
+Ravi Das,Male,Chennai,Tamil Nadu,628611,Leased,Aadhaar,4.57E+11,Commercial,6.21,12-07-2023,11-08-2023,13-08-2023,1089,Mahesh,Approved
+Ravi Kumar,Male,Mysuru,Karnataka,627138,Leased,Driving License,6.45E+11,Commercial,4.36,05-02-2023,04-03-2023,13-03-2023,1037,Sunita,Approved
+Kavya Kumar,Female,Thiruvananthapuram,Kerala,631816,Owned,Voter ID,4.31E+11,Commercial,5.67,22-11-2023,12-12-2023,17-12-2023,1016,Ramesh,Pending
+Manoj Sharma,Male,Salem,Tamil Nadu,614893,Leased,Voter ID,6.14E+11,Commercial,5.08,06-07-2023,04-08-2023,08-08-2023,1008,Ramesh,Pending
+Meena Patel,Female,Kozhikode,Kerala,659200,Leased,Voter ID,7.19E+11,Commercial,7.77,23-02-2024,18-03-2024,27-03-2024,1062,Anjali,Pending
+Vijay Kumar,Male,New Delhi,Delhi,641030,Leased,Voter ID,8.67E+11,Domestic,4.45,02-07-2023,12-07-2023,15-07-2023,1029,Sunita,Approved
+Divya Kumar,Female,Kozhikode,Kerala,614540,Rented,Voter ID,2.62E+11,Domestic,9.45,08-08-2023,24-08-2023,31-08-2023,1099,Sunita,Approved
+Suresh Sharma,Male,Thiruvananthapuram,Kerala,607054,Leased,Driving License,7.84E+11,Domestic,6.05,11-05-2023,08-06-2023,16-06-2023,1052,Anjali,Need Documents
+Ravi Patel,Male,Mangaluru,Karnataka,626892,Leased,Voter ID,7.27E+11,Commercial,1.14,01-04-2024,29-04-2024,02-05-2024,1043,Mahesh,Need Documents
+Manoj Reddy,Male,Madurai,Tamil Nadu,679280,Leased,Aadhaar,3.36E+11,Domestic,6.08,25-06-2023,03-07-2023,12-07-2023,1066,Ramesh,Need Documents
+Vijay Iyer,Male,Mysuru,Karnataka,624098,Leased,PAN,1.28E+11,Commercial,3.97,23-05-2023,10-06-2023,18-06-2023,1073,Sunita,Need Documents
+Suresh Patel,Male,Nagpur,Maharashtra,629661,Owned,Voter ID,1.56E+11,Industrial,3.18,17-07-2023,28-07-2023,01-08-2023,1097,Mahesh,Approved
+Neha Reddy,Female,Thiruvananthapuram,Kerala,602983,Leased,Aadhaar,7.77E+11,Commercial,3.56,28-04-2023,07-05-2023,09-05-2023,1001,Anjali,Need Documents
+Suresh Mehta,Male,New Delhi,Delhi,678596,Owned,Voter ID,7.80E+11,Industrial,1.02,26-07-2023,22-08-2023,30-08-2023,1036,Anjali,Need Documents
+Divya Singh,Female,Nagpur,Maharashtra,659734,Leased,Aadhaar,4.86E+11,Industrial,1.49,20-01-2024,07-02-2024,09-02-2024,1041,Mahesh,Pending
+Neha Kumar,Female,Kozhikode,Kerala,609144,Owned,PAN,6.91E+11,Commercial,6.37,02-04-2023,07-04-2023,09-04-2023,1017,Mahesh,Need Documents
+Manoj Das,Male,Pune,Maharashtra,640018,Rented,Voter ID,3.05E+11,Domestic,6.25,13-10-2023,29-10-2023,06-11-2023,1013,Mahesh,Approved
+Rahul Kumar,Male,Mysuru,Karnataka,699214,Rented,Driving License,7.67E+11,Commercial,2.47,09-09-2023,23-09-2023,27-09-2023,1044,Anjali,Pending
+Priya Sharma,Female,Kochi,Kerala,699273,Leased,Voter ID,4.06E+11,Industrial,3.39,28-09-2023,11-10-2023,21-10-2023,1035,Ramesh,Pending
+Neha Patel,Female,Mysuru,Karnataka,641133,Leased,Aadhaar,9.08E+11,Industrial,8.65,06-03-2023,01-04-2023,08-04-2023,1046,Ramesh,Pending
+Anita Patel,Female,New Delhi,Delhi,696544,Leased,Aadhaar,1.10E+11,Commercial,4.83,05-11-2023,18-11-2023,20-11-2023,1096,Mahesh,Need Documents
+Pooja Kumar,Female,Nagpur,Maharashtra,638209,Owned,Voter ID,7.84E+11,Commercial,8.95,31-01-2023,07-02-2023,16-02-2023,1021,Mahesh,Pending
+Lakshmi Reddy,Female,Mangaluru,Karnataka,607855,Leased,PAN,7.49E+11,Domestic,8.14,26-03-2024,18-04-2024,18-04-2024,1026,Anjali,Approved
+Arun Kumar,Male,Madurai,Tamil Nadu,638596,Owned,Aadhaar,3.15E+11,Domestic,5.09,16-02-2023,25-02-2023,26-02-2023,1075,Anjali,Pending
+Pooja Reddy,Female,Madurai,Tamil Nadu,639321,Owned,Aadhaar,7.98E+11,Commercial,1.55,29-10-2023,17-11-2023,22-11-2023,1091,Ramesh,Need Documents
+Pooja Iyer,Female,Pune,Maharashtra,670678,Owned,Voter ID,1.91E+11,Commercial,2.74,03-03-2024,19-03-2024,27-03-2024,1027,Mahesh,Pending
+Rahul Reddy,Male,Chennai,Tamil Nadu,682915,Rented,Voter ID,9.73E+11,Industrial,6.52,08-12-2023,23-12-2023,25-12-2023,1076,Sunita,Approved
+Lakshmi Mehta,Female,Chennai,Tamil Nadu,689194,Rented,Driving License,4.39E+11,Domestic,5.97,27-10-2023,26-11-2023,04-12-2023,1021,Ramesh,Pending
+Neha Mehta,Female,Bengaluru,Karnataka,633867,Owned,Voter ID,7.30E+11,Industrial,4.53,28-10-2023,21-11-2023,01-12-2023,1060,Mahesh,Approved
+Rahul Patel,Male,Salem,Tamil Nadu,614549,Owned,Driving License,5.00E+11,Domestic,4.53,24-04-2023,16-05-2023,23-05-2023,1075,Ramesh,Need Documents
+Arun Reddy,Male,Chennai,Tamil Nadu,614221,Leased,Aadhaar,9.10E+11,Commercial,8.19,31-01-2024,21-02-2024,21-02-2024,1030,Sunita,Need Documents
+Vijay Iyer,Male,New Delhi,Delhi,680656,Owned,Aadhaar,3.59E+11,Domestic,7.42,09-04-2023,22-04-2023,27-04-2023,1077,Anjali,Pending
+Priya Singh,Female,New Delhi,Delhi,688251,Rented,Voter ID,8.02E+11,Domestic,0.68,06-03-2024,12-03-2024,22-03-2024,1008,Sunita,Approved
+Neha Mehta,Female,New Delhi,Delhi,615271,Leased,Aadhaar,2.93E+11,Commercial,2.39,20-03-2023,02-04-2023,10-04-2023,1001,Mahesh,Approved
+Divya Das,Female,New Delhi,Delhi,624044,Owned,PAN,1.49E+11,Domestic,0.91,22-12-2023,11-01-2024,17-01-2024,1007,Ramesh,Approved
+Priya Das,Female,Chennai,Tamil Nadu,686335,Owned,Driving License,2.38E+11,Domestic,9.02,25-04-2024,02-05-2024,02-05-2024,1049,Sunita,Approved
+Anita Patel,Female,New Delhi,Delhi,696622,Owned,Driving License,9.92E+11,Domestic,6.18,24-03-2024,30-03-2024,09-04-2024,1038,Ramesh,Pending
+Arun Kumar,Male,Kochi,Kerala,622832,Owned,Driving License,7.03E+11,Industrial,6.17,12-05-2023,24-05-2023,24-05-2023,1098,Mahesh,Need Documents
+Priya Das,Female,New Delhi,Delhi,612753,Leased,PAN,3.28E+11,Commercial,4.99,24-06-2023,22-07-2023,31-07-2023,1091,Sunita,Need Documents
+Divya Sharma,Female,New Delhi,Delhi,647261,Rented,Voter ID,2.04E+11,Domestic,0.97,12-11-2023,08-12-2023,18-12-2023,1085,Anjali,Approved
+Lakshmi Mehta,Female,Kochi,Kerala,647234,Owned,Aadhaar,5.44E+11,Commercial,7.29,20-10-2023,30-10-2023,30-10-2023,1032,Sunita,Approved
+Meena Sharma,Female,Pune,Maharashtra,613616,Leased,PAN,3.34E+11,Domestic,3.21,27-10-2023,20-11-2023,22-11-2023,1036,Sunita,Pending
+Neha Sharma,Female,Kozhikode,Kerala,660674,Owned,Voter ID,3.65E+11,Commercial,4.22,02-02-2023,03-03-2023,07-03-2023,1075,Sunita,Pending
+Kavya Singh,Female,Mysuru,Karnataka,638321,Rented,Voter ID,5.49E+11,Domestic,2.68,26-08-2023,12-09-2023,13-09-2023,1079,Mahesh,Approved
+Amit Reddy,Male,Pune,Maharashtra,690932,Owned,PAN,9.03E+11,Industrial,9.52,02-02-2023,22-02-2023,28-02-2023,1014,Anjali,Need Documents
+Suresh Singh,Male,Kochi,Kerala,669790,Owned,Driving License,2.99E+11,Commercial,5.37,03-01-2024,13-01-2024,14-01-2024,1028,Anjali,Need Documents
+Rahul Mehta,Male,New Delhi,Delhi,640825,Owned,PAN,9.83E+11,Industrial,7.92,26-06-2023,12-07-2023,18-07-2023,1037,Sunita,Pending
+Anita Das,Female,Kochi,Kerala,646195,Owned,Voter ID,2.48E+11,Industrial,6.42,30-03-2024,28-04-2024,28-04-2024,1028,Sunita,Approved
+Ravi Reddy,Male,Madurai,Tamil Nadu,645793,Owned,Driving License,7.90E+11,Commercial,3.52,08-12-2023,07-01-2024,12-01-2024,1040,Ramesh,Approved
+Neha Singh,Female,Bengaluru,Karnataka,627096,Rented,Voter ID,9.44E+11,Commercial,5.44,27-04-2024,03-05-2024,11-05-2024,1078,Anjali,Approved
+Rahul Sharma,Male,Thiruvananthapuram,Kerala,698398,Rented,Aadhaar,1.74E+11,Industrial,8.35,05-06-2023,17-06-2023,26-06-2023,1029,Anjali,Need Documents
+Lakshmi Patel,Female,Mysuru,Karnataka,617597,Leased,PAN,1.69E+11,Domestic,5.15,14-07-2023,10-08-2023,11-08-2023,1026,Mahesh,Need Documents
+Neha Sharma,Female,Bengaluru,Karnataka,693934,Leased,Aadhaar,4.01E+11,Commercial,3.22,27-01-2024,01-02-2024,01-02-2024,1057,Mahesh,Approved
+Amit Reddy,Male,Coimbatore,Tamil Nadu,667724,Rented,Driving License,4.20E+11,Industrial,8.03,16-05-2023,13-06-2023,21-06-2023,1048,Ramesh,Pending
+Karthik Mehta,Male,Pune,Maharashtra,606666,Rented,Aadhaar,6.77E+11,Commercial,8.56,24-02-2024,13-03-2024,16-03-2024,1057,Ramesh,Need Documents
+Priya Sharma,Female,Chennai,Tamil Nadu,667607,Rented,Driving License,8.64E+11,Industrial,5.96,03-10-2023,21-10-2023,26-10-2023,1037,Anjali,Approved
+Anita Das,Female,Mysuru,Karnataka,671141,Owned,Aadhaar,5.71E+11,Industrial,5.49,03-05-2024,08-05-2024,12-05-2024,1095,Anjali,Need Documents
+Divya Kumar,Female,Mangaluru,Karnataka,615219,Leased,Aadhaar,3.09E+11,Commercial,4.07,01-04-2024,30-04-2024,07-05-2024,1060,Anjali,Approved
+Kavya Singh,Female,Pune,Maharashtra,606797,Owned,Voter ID,7.64E+11,Industrial,0.64,02-11-2023,30-11-2023,02-12-2023,1087,Anjali,Pending
+Karthik Reddy,Male,Mysuru,Karnataka,606855,Rented,PAN,8.35E+11,Commercial,0.61,11-01-2024,27-01-2024,05-02-2024,1062,Sunita,Pending
+Vijay Mehta,Male,Mangaluru,Karnataka,644139,Leased,Driving License,8.35E+11,Industrial,4.33,30-07-2023,17-08-2023,22-08-2023,1053,Ramesh,Pending
+Rahul Mehta,Male,Mumbai,Maharashtra,671071,Leased,Voter ID,7.35E+11,Industrial,9.92,26-03-2024,05-04-2024,06-04-2024,1022,Anjali,Approved
+Pooja Reddy,Female,Madurai,Tamil Nadu,655716,Rented,Voter ID,9.03E+11,Commercial,0.91,20-09-2023,11-10-2023,17-10-2023,1086,Sunita,Need Documents
+Manoj Sharma,Male,Bengaluru,Karnataka,689240,Leased,Driving License,4.38E+11,Commercial,7.71,29-09-2023,11-10-2023,14-10-2023,1045,Mahesh,Need Documents
+Anita Singh,Female,Pune,Maharashtra,664534,Rented,Aadhaar,7.12E+11,Industrial,7.07,14-05-2023,01-06-2023,10-06-2023,1011,Mahesh,Approved
+Manoj Patel,Male,Madurai,Tamil Nadu,607976,Owned,Aadhaar,3.00E+11,Domestic,1.19,13-09-2023,20-09-2023,28-09-2023,1062,Sunita,Pending
+Amit Iyer,Male,New Delhi,Delhi,676216,Rented,PAN,5.87E+11,Industrial,4.7,17-06-2023,14-07-2023,22-07-2023,1076,Sunita,Pending
+Vijay Patel,Male,Mangaluru,Karnataka,678791,Leased,Voter ID,5.99E+11,Industrial,9.65,03-10-2023,14-10-2023,24-10-2023,1094,Anjali,Pending
+Lakshmi Reddy,Female,Mangaluru,Karnataka,676499,Owned,Voter ID,2.12E+11,Domestic,6.22,26-11-2023,11-12-2023,20-12-2023,1052,Ramesh,Pending
+Ravi Sharma,Male,Kochi,Kerala,621793,Owned,PAN,8.93E+11,Commercial,4.65,27-05-2023,24-06-2023,29-06-2023,1011,Ramesh,Pending
+Kavya Iyer,Female,New Delhi,Delhi,667277,Rented,PAN,7.25E+11,Industrial,5.7,24-01-2024,05-02-2024,13-02-2024,1091,Anjali,Approved
+Amit Reddy,Male,Nagpur,Maharashtra,634281,Owned,Voter ID,5.63E+11,Industrial,7.39,05-04-2023,20-04-2023,21-04-2023,1001,Sunita,Pending
+Arun Kumar,Male,Bengaluru,Karnataka,610446,Owned,Voter ID,8.28E+11,Commercial,2.81,14-08-2023,27-08-2023,06-09-2023,1022,Ramesh,Need Documents
+Amit Kumar,Male,Nagpur,Maharashtra,635210,Owned,Aadhaar,8.01E+11,Domestic,8.12,14-05-2024,23-05-2024,01-06-2024,1054,Ramesh,Approved
+Pooja Das,Female,Mysuru,Karnataka,616993,Owned,Aadhaar,2.27E+11,Commercial,2.14,26-04-2023,15-05-2023,23-05-2023,1099,Sunita,Pending
+Priya Patel,Female,Pune,Maharashtra,661453,Owned,Voter ID,7.13E+11,Industrial,8.17,03-02-2023,23-02-2023,25-02-2023,1100,Sunita,Pending
+Vijay Kumar,Male,Thiruvananthapuram,Kerala,645154,Leased,Voter ID,4.29E+11,Commercial,5.07,08-10-2023,25-10-2023,27-10-2023,1011,Ramesh,Pending
+Neha Das,Female,New Delhi,Delhi,644527,Owned,Aadhaar,1.12E+11,Industrial,7.24,15-07-2023,06-08-2023,10-08-2023,1053,Ramesh,Approved
+Neha Sharma,Female,Madurai,Tamil Nadu,643868,Rented,Driving License,8.56E+11,Domestic,3.88,12-04-2023,09-05-2023,16-05-2023,1100,Ramesh,Pending
+Manoj Iyer,Male,New Delhi,Delhi,619834,Leased,Driving License,5.72E+11,Commercial,8.6,05-06-2023,11-06-2023,11-06-2023,1048,Ramesh,Approved
+Manoj Mehta,Male,Pune,Maharashtra,674141,Rented,Driving License,9.62E+11,Commercial,6.49,12-11-2023,07-12-2023,13-12-2023,1086,Anjali,Need Documents
+Rahul Reddy,Male,Bengaluru,Karnataka,634181,Leased,Driving License,8.83E+11,Domestic,8.28,15-02-2023,05-03-2023,11-03-2023,1070,Mahesh,Need Documents
+Divya Reddy,Female,Thiruvananthapuram,Kerala,610988,Leased,Voter ID,5.03E+11,Domestic,6.76,21-03-2024,15-04-2024,21-04-2024,1047,Ramesh,Pending
+Kavya Reddy,Female,Salem,Tamil Nadu,629139,Rented,Driving License,3.51E+11,Domestic,9.78,15-04-2024,03-05-2024,07-05-2024,1031,Ramesh,Approved
+Lakshmi Iyer,Female,Thiruvananthapuram,Kerala,612945,Rented,Aadhaar,8.42E+11,Commercial,3.16,12-07-2023,27-07-2023,29-07-2023,1082,Anjali,Need Documents
+Pooja Singh,Female,New Delhi,Delhi,601114,Rented,Aadhaar,3.89E+11,Commercial,5.26,05-09-2023,30-09-2023,03-10-2023,1039,Mahesh,Need Documents
+Neha Sharma,Female,New Delhi,Delhi,612533,Leased,Voter ID,5.15E+11,Industrial,1.1,05-10-2023,12-10-2023,14-10-2023,1047,Sunita,Approved
+Divya Iyer,Female,Mysuru,Karnataka,608451,Rented,Voter ID,8.73E+11,Industrial,2.65,13-09-2023,27-09-2023,02-10-2023,1047,Sunita,Need Documents
+Lakshmi Sharma,Female,Coimbatore,Tamil Nadu,606567,Leased,PAN,6.65E+11,Industrial,4.28,09-09-2023,25-09-2023,26-09-2023,1043,Mahesh,Need Documents
+Pooja Singh,Female,New Delhi,Delhi,641045,Rented,PAN,7.90E+11,Industrial,0.95,15-05-2023,22-05-2023,29-05-2023,1085,Ramesh,Approved
+Vijay Das,Male,New Delhi,Delhi,614937,Owned,Voter ID,8.56E+11,Domestic,7.19,20-01-2023,30-01-2023,05-02-2023,1072,Ramesh,Approved
+Ravi Das,Male,Bengaluru,Karnataka,668569,Leased,Driving License,2.75E+11,Industrial,0.72,08-07-2023,23-07-2023,30-07-2023,1067,Mahesh,Pending
+Kavya Das,Female,Madurai,Tamil Nadu,607520,Owned,Voter ID,4.82E+11,Domestic,5.91,24-09-2023,05-10-2023,07-10-2023,1036,Mahesh,Approved
+Meena Sharma,Female,New Delhi,Delhi,629615,Rented,Voter ID,8.81E+11,Domestic,8.71,04-04-2024,30-04-2024,02-05-2024,1032,Ramesh,Approved
+Rahul Patel,Male,Salem,Tamil Nadu,623506,Leased,Aadhaar,9.16E+11,Domestic,9.31,25-02-2024,24-03-2024,29-03-2024,1018,Mahesh,Approved
+Neha Iyer,Female,Kochi,Kerala,644428,Owned,Driving License,4.27E+11,Industrial,3.62,17-01-2024,25-01-2024,01-02-2024,1092,Mahesh,Need Documents
+Divya Reddy,Female,Nagpur,Maharashtra,688412,Leased,Driving License,3.15E+11,Industrial,2.38,01-04-2023,19-04-2023,23-04-2023,1082,Mahesh,Pending
+Divya Reddy,Female,Nagpur,Maharashtra,632224,Rented,Driving License,5.24E+11,Commercial,4.49,04-03-2024,30-03-2024,07-04-2024,1019,Mahesh,Pending
+Ravi Kumar,Male,Madurai,Tamil Nadu,680820,Owned,Voter ID,1.15E+11,Domestic,8.56,07-01-2023,22-01-2023,28-01-2023,1045,Mahesh,Need Documents
+Priya Patel,Female,Thiruvananthapuram,Kerala,616473,Leased,PAN,9.80E+11,Industrial,6,12-04-2024,09-05-2024,09-05-2024,1016,Ramesh,Need Documents
+Lakshmi Sharma,Female,Mumbai,Maharashtra,669245,Leased,PAN,3.46E+11,Commercial,6.11,07-02-2024,29-02-2024,06-03-2024,1099,Sunita,Pending
+Neha Singh,Female,New Delhi,Delhi,691266,Leased,Aadhaar,3.47E+11,Domestic,1.02,16-02-2023,17-03-2023,22-03-2023,1043,Ramesh,Need Documents
+Karthik Kumar,Male,Coimbatore,Tamil Nadu,699133,Owned,Voter ID,8.33E+11,Domestic,8.82,15-02-2023,26-02-2023,03-03-2023,1040,Ramesh,Approved
+Rahul Iyer,Male,Mumbai,Maharashtra,604104,Rented,PAN,3.79E+11,Industrial,0.84,21-01-2023,02-02-2023,02-02-2023,1027,Sunita,Pending
+Meena Iyer,Female,Pune,Maharashtra,616460,Owned,Voter ID,6.34E+11,Domestic,5.12,12-08-2023,23-08-2023,23-08-2023,1064,Mahesh,Pending
+Anita Mehta,Female,New Delhi,Delhi,622118,Owned,Driving License,8.79E+11,Domestic,3.04,18-07-2023,15-08-2023,23-08-2023,1009,Mahesh,Approved
+Vijay Sharma,Male,New Delhi,Delhi,610911,Owned,Aadhaar,3.25E+11,Commercial,8.26,13-01-2024,26-01-2024,31-01-2024,1018,Mahesh,Pending
+Karthik Kumar,Male,Chennai,Tamil Nadu,629034,Rented,Aadhaar,2.75E+11,Industrial,9.57,22-01-2023,13-02-2023,23-02-2023,1037,Ramesh,Pending
+Karthik Iyer,Male,Nagpur,Maharashtra,666293,Owned,Driving License,9.62E+11,Commercial,2.52,21-02-2023,07-03-2023,13-03-2023,1007,Anjali,Pending
+Neha Mehta,Female,Pune,Maharashtra,694539,Owned,PAN,3.31E+11,Commercial,5.24,04-05-2024,10-05-2024,19-05-2024,1071,Mahesh,Pending
+Meena Singh,Female,Nagpur,Maharashtra,605391,Owned,Aadhaar,3.72E+11,Domestic,1.56,26-02-2023,15-03-2023,15-03-2023,1032,Sunita,Approved
+Karthik Das,Male,Kozhikode,Kerala,606659,Leased,PAN,7.06E+11,Commercial,5.79,02-02-2024,10-02-2024,17-02-2024,1090,Ramesh,Pending
+Lakshmi Kumar,Female,New Delhi,Delhi,618370,Owned,PAN,5.93E+11,Commercial,3.66,12-07-2023,28-07-2023,28-07-2023,1086,Ramesh,Need Documents
+Kavya Singh,Female,Nagpur,Maharashtra,699947,Owned,Aadhaar,1.05E+11,Domestic,8.88,09-04-2023,09-05-2023,13-05-2023,1073,Sunita,Pending
+Priya Patel,Female,Mangaluru,Karnataka,609726,Owned,Voter ID,6.04E+11,Industrial,9.71,30-01-2024,25-02-2024,01-03-2024,1064,Mahesh,Pending
+Arun Patel,Male,Coimbatore,Tamil Nadu,651017,Rented,Driving License,1.38E+11,Commercial,3.21,17-01-2024,14-02-2024,14-02-2024,1048,Ramesh,Approved
+Divya Sharma,Female,Mumbai,Maharashtra,657969,Rented,Voter ID,6.03E+11,Domestic,8.16,25-01-2023,15-02-2023,16-02-2023,1037,Mahesh,Need Documents
+Amit Patel,Male,Kozhikode,Kerala,600299,Rented,Voter ID,9.09E+11,Industrial,5.66,23-03-2023,14-04-2023,14-04-2023,1071,Mahesh,Pending
+Karthik Mehta,Male,Nagpur,Maharashtra,621855,Owned,PAN,8.90E+11,Industrial,9.34,09-10-2023,04-11-2023,05-11-2023,1079,Ramesh,Pending
+Anita Patel,Female,Coimbatore,Tamil Nadu,666862,Rented,PAN,8.07E+11,Commercial,7.41,25-05-2023,05-06-2023,14-06-2023,1063,Sunita,Approved
+Pooja Sharma,Female,Kozhikode,Kerala,628857,Leased,PAN,5.71E+11,Industrial,2.15,19-03-2024,08-04-2024,09-04-2024,1021,Ramesh,Approved
+Lakshmi Sharma,Female,New Delhi,Delhi,676390,Rented,Aadhaar,5.75E+11,Domestic,1.77,25-01-2023,11-02-2023,13-02-2023,1028,Mahesh,Pending
+Suresh Patel,Male,New Delhi,Delhi,650257,Leased,Driving License,1.27E+11,Domestic,4.88,06-10-2023,18-10-2023,20-10-2023,1067,Ramesh,Need Documents
+Karthik Singh,Male,Pune,Maharashtra,611887,Owned,Voter ID,2.89E+11,Commercial,8.75,31-03-2024,26-04-2024,01-05-2024,1066,Ramesh,Need Documents
+Suresh Das,Male,Thiruvananthapuram,Kerala,601208,Leased,Driving License,8.40E+11,Commercial,8.34,11-06-2023,08-07-2023,11-07-2023,1097,Anjali,Approved
+Lakshmi Sharma,Female,Mumbai,Maharashtra,601914,Owned,Driving License,5.79E+11,Commercial,6.85,29-02-2024,09-03-2024,17-03-2024,1023,Mahesh,Approved
+Divya Mehta,Female,Kochi,Kerala,678728,Leased,Voter ID,7.68E+11,Industrial,5.71,04-11-2023,26-11-2023,06-12-2023,1013,Mahesh,Need Documents
+Pooja Das,Female,Coimbatore,Tamil Nadu,601712,Owned,Voter ID,7.22E+11,Industrial,7.71,13-05-2023,31-05-2023,02-06-2023,1078,Ramesh,Approved
+Amit Reddy,Male,New Delhi,Delhi,601140,Owned,Voter ID,8.06E+11,Commercial,3.97,20-01-2023,27-01-2023,03-02-2023,1008,Ramesh,Approved
+Amit Kumar,Male,Nagpur,Maharashtra,683784,Rented,Driving License,5.78E+11,Commercial,1.03,22-12-2023,27-12-2023,05-01-2024,1003,Ramesh,Approved
+Ravi Kumar,Male,Kozhikode,Kerala,649574,Rented,Aadhaar,2.75E+11,Commercial,4.32,14-04-2023,26-04-2023,30-04-2023,1060,Anjali,Need Documents
+Kavya Kumar,Female,Kochi,Kerala,643209,Rented,Voter ID,1.43E+11,Industrial,9.22,14-06-2023,01-07-2023,09-07-2023,1081,Ramesh,Pending
+Karthik Das,Male,New Delhi,Delhi,608537,Leased,Voter ID,1.89E+11,Industrial,1.65,16-08-2023,31-08-2023,03-09-2023,1001,Ramesh,Need Documents
+Pooja Mehta,Female,Mumbai,Maharashtra,670539,Leased,Voter ID,2.76E+11,Industrial,4.68,04-03-2023,22-03-2023,29-03-2023,1056,Sunita,Approved
+Suresh Das,Male,Kozhikode,Kerala,685082,Owned,Aadhaar,2.34E+11,Domestic,6.38,23-08-2023,14-09-2023,14-09-2023,1077,Sunita,Pending
+Karthik Kumar,Male,Pune,Maharashtra,655220,Leased,Driving License,3.94E+11,Industrial,1.92,12-09-2023,19-09-2023,22-09-2023,1046,Mahesh,Pending
+Karthik Mehta,Male,Coimbatore,Tamil Nadu,631069,Leased,PAN,9.70E+11,Commercial,6.45,27-03-2023,17-04-2023,19-04-2023,1092,Ramesh,Approved
+Priya Das,Female,Mangaluru,Karnataka,645357,Leased,PAN,5.02E+11,Domestic,8.73,14-04-2024,21-04-2024,27-04-2024,1047,Mahesh,Approved
+Suresh Das,Male,Thiruvananthapuram,Kerala,694947,Rented,PAN,2.32E+11,Domestic,1.3,01-04-2024,27-04-2024,07-05-2024,1020,Sunita,Need Documents
+Amit Iyer,Male,Kochi,Kerala,616684,Leased,PAN,6.62E+11,Domestic,1.17,20-03-2023,03-04-2023,04-04-2023,1002,Sunita,Approved
+Priya Das,Female,Mumbai,Maharashtra,689364,Leased,Driving License,9.59E+11,Industrial,0.73,17-07-2023,14-08-2023,15-08-2023,1083,Anjali,Need Documents
+Meena Sharma,Female,New Delhi,Delhi,686410,Leased,Aadhaar,9.20E+11,Commercial,6.61,15-02-2023,24-02-2023,27-02-2023,1001,Anjali,Approved
+Manoj Singh,Male,Mangaluru,Karnataka,664076,Rented,PAN,3.31E+11,Commercial,5.43,17-05-2023,29-05-2023,04-06-2023,1017,Sunita,Approved
+Divya Iyer,Female,New Delhi,Delhi,644817,Rented,PAN,5.26E+11,Domestic,3.92,02-10-2023,20-10-2023,30-10-2023,1029,Ramesh,Approved
+Meena Mehta,Female,Mumbai,Maharashtra,654368,Owned,Driving License,8.27E+11,Commercial,5.62,11-03-2023,06-04-2023,08-04-2023,1021,Anjali,Need Documents
+Rahul Singh,Male,Mangaluru,Karnataka,621736,Rented,PAN,5.16E+11,Commercial,7.16,08-02-2024,28-02-2024,03-03-2024,1058,Ramesh,Need Documents
+Lakshmi Iyer,Female,Mangaluru,Karnataka,643779,Rented,Voter ID,5.60E+11,Domestic,8.37,05-11-2023,28-11-2023,30-11-2023,1012,Mahesh,Need Documents
+Karthik Reddy,Male,Kochi,Kerala,604065,Rented,Driving License,1.46E+11,Domestic,8.08,25-04-2023,04-05-2023,10-05-2023,1068,Mahesh,Pending
+Karthik Patel,Male,Mysuru,Karnataka,628608,Rented,Aadhaar,4.44E+11,Industrial,5.03,04-12-2023,31-12-2023,05-01-2024,1009,Sunita,Approved
+Ravi Iyer,Male,Madurai,Tamil Nadu,635367,Leased,PAN,7.49E+11,Domestic,4.44,08-01-2024,23-01-2024,30-01-2024,1079,Mahesh,Need Documents
+Meena Das,Female,Salem,Tamil Nadu,611637,Leased,Aadhaar,6.68E+11,Commercial,6.01,23-04-2023,07-05-2023,10-05-2023,1050,Ramesh,Pending
+Meena Das,Female,New Delhi,Delhi,631101,Owned,Voter ID,8.88E+11,Industrial,8.82,26-01-2023,21-02-2023,26-02-2023,1024,Sunita,Pending
+Vijay Sharma,Male,New Delhi,Delhi,636933,Owned,PAN,7.65E+11,Industrial,8.03,12-04-2024,03-05-2024,08-05-2024,1003,Mahesh,Need Documents
+Amit Das,Male,Bengaluru,Karnataka,616390,Rented,PAN,4.99E+11,Domestic,2.54,07-08-2023,30-08-2023,01-09-2023,1060,Ramesh,Pending
+Meena Kumar,Female,Kochi,Kerala,678717,Rented,Voter ID,3.31E+11,Industrial,7.74,04-05-2024,23-05-2024,31-05-2024,1014,Anjali,Pending
+Priya Das,Female,Pune,Maharashtra,657735,Rented,Voter ID,4.04E+11,Industrial,1.67,26-01-2023,13-02-2023,22-02-2023,1068,Mahesh,Pending
+Lakshmi Das,Female,Chennai,Tamil Nadu,602060,Rented,PAN,5.43E+11,Industrial,4.46,06-05-2023,02-06-2023,02-06-2023,1056,Mahesh,Need Documents
+Manoj Das,Male,New Delhi,Delhi,657696,Leased,Aadhaar,1.38E+11,Domestic,6.28,10-04-2023,04-05-2023,07-05-2023,1082,Sunita,Need Documents
+Meena Reddy,Female,Bengaluru,Karnataka,650230,Owned,PAN,1.97E+11,Industrial,8.85,18-07-2023,03-08-2023,06-08-2023,1050,Ramesh,Need Documents
+Neha Singh,Female,Kochi,Kerala,635134,Owned,Aadhaar,7.39E+11,Domestic,8.67,22-06-2023,20-07-2023,26-07-2023,1056,Sunita,Approved
+Pooja Das,Female,Kozhikode,Kerala,633722,Rented,Driving License,6.93E+11,Domestic,7.98,24-04-2024,13-05-2024,20-05-2024,1029,Ramesh,Pending
+Vijay Reddy,Male,Salem,Tamil Nadu,611283,Owned,Driving License,5.79E+11,Commercial,2.84,08-07-2023,22-07-2023,22-07-2023,1059,Sunita,Approved
+Lakshmi Iyer,Female,Pune,Maharashtra,638986,Rented,Driving License,6.58E+11,Domestic,7.86,08-06-2023,25-06-2023,03-07-2023,1085,Ramesh,Need Documents
+Ravi Sharma,Male,Madurai,Tamil Nadu,610002,Leased,Driving License,9.79E+11,Commercial,1.56,22-03-2023,07-04-2023,13-04-2023,1029,Anjali,Pending
+Lakshmi Kumar,Female,Mangaluru,Karnataka,609771,Owned,Aadhaar,8.59E+11,Commercial,2.96,29-07-2023,26-08-2023,29-08-2023,1087,Mahesh,Need Documents
+Rahul Iyer,Male,Bengaluru,Karnataka,643076,Rented,Aadhaar,1.24E+11,Domestic,5.23,13-04-2023,24-04-2023,02-05-2023,1080,Anjali,Need Documents
+Kavya Iyer,Female,New Delhi,Delhi,658203,Rented,Aadhaar,8.80E+11,Domestic,8.46,14-01-2023,04-02-2023,11-02-2023,1042,Sunita,Pending
+Lakshmi Sharma,Female,Mumbai,Maharashtra,652146,Leased,Driving License,5.89E+11,Commercial,7.69,19-07-2023,14-08-2023,24-08-2023,1031,Mahesh,Need Documents
+Karthik Reddy,Male,Madurai,Tamil Nadu,666397,Owned,Driving License,5.09E+11,Domestic,9.17,07-02-2024,19-02-2024,25-02-2024,1094,Mahesh,Pending
+Vijay Das,Male,Kozhikode,Kerala,668204,Owned,Aadhaar,7.92E+11,Commercial,4.81,04-03-2023,14-03-2023,23-03-2023,1012,Ramesh,Pending
+Kavya Singh,Female,Bengaluru,Karnataka,610192,Leased,PAN,4.29E+11,Industrial,8.13,02-05-2023,10-05-2023,17-05-2023,1010,Anjali,Need Documents
+Arun Iyer,Male,Kochi,Kerala,683470,Leased,Aadhaar,6.93E+11,Commercial,8.55,04-04-2024,29-04-2024,01-05-2024,1075,Anjali,Pending
+Karthik Singh,Male,Thiruvananthapuram,Kerala,677693,Owned,Driving License,5.40E+11,Commercial,8.19,16-02-2023,16-03-2023,24-03-2023,1059,Anjali,Approved
+Karthik Sharma,Male,Mumbai,Maharashtra,608858,Owned,PAN,7.00E+11,Domestic,1.31,26-02-2023,16-03-2023,24-03-2023,1032,Ramesh,Approved
+Lakshmi Kumar,Female,Bengaluru,Karnataka,622256,Owned,PAN,7.55E+11,Commercial,2.47,22-11-2023,16-12-2023,16-12-2023,1015,Mahesh,Approved
+Anita Singh,Female,New Delhi,Delhi,642918,Owned,PAN,9.55E+11,Domestic,3.27,03-03-2024,12-03-2024,19-03-2024,1010,Ramesh,Pending
+Vijay Iyer,Male,Chennai,Tamil Nadu,652653,Leased,Voter ID,3.59E+11,Commercial,2.88,10-05-2024,16-05-2024,18-05-2024,1016,Mahesh,Need Documents
+Ravi Mehta,Male,Chennai,Tamil Nadu,679458,Owned,Driving License,1.79E+11,Commercial,6.43,05-08-2023,13-08-2023,18-08-2023,1097,Ramesh,Need Documents
+Pooja Sharma,Female,Salem,Tamil Nadu,604542,Leased,Driving License,2.64E+11,Industrial,6.06,30-07-2023,25-08-2023,30-08-2023,1013,Ramesh,Approved
+Rahul Das,Male,New Delhi,Delhi,613758,Owned,PAN,6.04E+11,Industrial,3.72,22-06-2023,06-07-2023,14-07-2023,1077,Mahesh,Pending
+Vijay Sharma,Male,Mumbai,Maharashtra,699806,Owned,PAN,2.29E+11,Domestic,3.14,11-02-2023,05-03-2023,07-03-2023,1032,Mahesh,Approved
+Divya Mehta,Female,Kochi,Kerala,663142,Owned,PAN,8.43E+11,Domestic,2.14,14-09-2023,24-09-2023,24-09-2023,1095,Mahesh,Need Documents
+Priya Mehta,Female,Kochi,Kerala,677732,Owned,PAN,9.76E+11,Industrial,9.8,03-08-2023,26-08-2023,01-09-2023,1099,Mahesh,Approved
+Lakshmi Reddy,Female,Thiruvananthapuram,Kerala,695075,Rented,PAN,5.67E+11,Industrial,7.17,25-07-2023,10-08-2023,12-08-2023,1014,Anjali,Approved
+Arun Patel,Male,Kozhikode,Kerala,690470,Leased,Driving License,9.36E+11,Domestic,9.24,04-01-2024,01-02-2024,06-02-2024,1079,Sunita,Pending
+Divya Patel,Female,Thiruvananthapuram,Kerala,690974,Leased,Driving License,1.39E+11,Commercial,6.63,07-01-2023,05-02-2023,14-02-2023,1058,Ramesh,Need Documents
+Pooja Reddy,Female,New Delhi,Delhi,627113,Leased,Voter ID,5.90E+11,Domestic,4.39,12-07-2023,08-08-2023,10-08-2023,1018,Sunita,Pending
+Ravi Sharma,Male,New Delhi,Delhi,639857,Leased,Voter ID,6.41E+11,Industrial,1.04,11-12-2023,04-01-2024,05-01-2024,1010,Ramesh,Approved
+Kavya Sharma,Female,Salem,Tamil Nadu,680000,Owned,Driving License,6.08E+11,Commercial,6.12,21-12-2023,01-01-2024,04-01-2024,1099,Mahesh,Pending
+Vijay Das,Male,Thiruvananthapuram,Kerala,671856,Owned,Voter ID,1.12E+11,Industrial,9.54,04-10-2023,13-10-2023,20-10-2023,1088,Anjali,Pending
+Karthik Mehta,Male,New Delhi,Delhi,686123,Owned,Aadhaar,3.86E+11,Commercial,8.51,28-01-2023,10-02-2023,15-02-2023,1087,Anjali,Pending
+Anita Singh,Female,Thiruvananthapuram,Kerala,690314,Rented,Voter ID,1.70E+11,Industrial,4.37,10-04-2023,23-04-2023,01-05-2023,1071,Ramesh,Need Documents
+Amit Iyer,Male,Pune,Maharashtra,653439,Leased,Voter ID,9.34E+11,Commercial,0.56,16-04-2024,07-05-2024,13-05-2024,1037,Mahesh,Need Documents
+Vijay Kumar,Male,Mangaluru,Karnataka,615732,Owned,Voter ID,1.17E+11,Domestic,2.36,08-05-2023,23-05-2023,23-05-2023,1095,Anjali,Pending
+Vijay Das,Male,Mysuru,Karnataka,607725,Owned,Driving License,7.45E+11,Domestic,9.65,13-02-2023,07-03-2023,12-03-2023,1002,Anjali,Approved
+Priya Das,Female,Mumbai,Maharashtra,613974,Owned,Aadhaar,7.71E+11,Commercial,7.13,05-10-2023,26-10-2023,30-10-2023,1023,Anjali,Approved
+Arun Iyer,Male,Madurai,Tamil Nadu,624512,Leased,Aadhaar,3.46E+11,Industrial,1.94,14-02-2024,11-03-2024,12-03-2024,1075,Ramesh,Pending
+Lakshmi Mehta,Female,Bengaluru,Karnataka,635136,Rented,Voter ID,9.42E+11,Commercial,1.3,14-03-2024,19-03-2024,24-03-2024,1044,Ramesh,Pending
+Ravi Patel,Male,Mumbai,Maharashtra,627372,Leased,Voter ID,6.48E+11,Commercial,7.03,19-04-2024,12-05-2024,21-05-2024,1049,Anjali,Need Documents
+Arun Patel,Male,Kozhikode,Kerala,636685,Rented,Voter ID,8.19E+11,Commercial,7.29,02-03-2024,28-03-2024,06-04-2024,1062,Mahesh,Approved
+Lakshmi Reddy,Female,Nagpur,Maharashtra,600708,Owned,Aadhaar,6.30E+11,Commercial,0.7,27-02-2023,07-03-2023,08-03-2023,1048,Mahesh,Approved
+Divya Mehta,Female,Salem,Tamil Nadu,678100,Owned,Aadhaar,5.77E+11,Industrial,6,22-08-2023,29-08-2023,31-08-2023,1042,Mahesh,Approved
+Karthik Kumar,Male,Madurai,Tamil Nadu,622987,Rented,Aadhaar,8.00E+11,Commercial,8.08,20-02-2024,29-02-2024,10-03-2024,1087,Sunita,Pending
+Vijay Reddy,Male,Mysuru,Karnataka,610401,Rented,PAN,4.82E+11,Industrial,5.3,05-11-2023,25-11-2023,28-11-2023,1094,Anjali,Approved
+Meena Patel,Female,Kozhikode,Kerala,681209,Owned,Driving License,2.28E+11,Domestic,6.64,21-08-2023,12-09-2023,13-09-2023,1081,Anjali,Need Documents
+Suresh Kumar,Male,Bengaluru,Karnataka,665009,Leased,Driving License,2.83E+11,Domestic,5.03,31-08-2023,10-09-2023,10-09-2023,1042,Mahesh,Need Documents
+Priya Sharma,Female,Mumbai,Maharashtra,669388,Rented,Driving License,4.57E+11,Commercial,9.38,05-04-2023,27-04-2023,02-05-2023,1097,Ramesh,Approved
+Manoj Das,Male,Mangaluru,Karnataka,667098,Leased,Aadhaar,2.64E+11,Domestic,5.26,29-12-2023,18-01-2024,21-01-2024,1093,Ramesh,Need Documents
+Meena Iyer,Female,Nagpur,Maharashtra,652317,Leased,Voter ID,5.84E+11,Commercial,0.8,21-06-2023,14-07-2023,21-07-2023,1051,Sunita,Approved
+Suresh Sharma,Male,New Delhi,Delhi,639628,Leased,PAN,9.15E+11,Industrial,6.54,15-02-2024,06-03-2024,12-03-2024,1056,Ramesh,Need Documents
+Amit Kumar,Male,Pune,Maharashtra,685861,Owned,Aadhaar,9.96E+11,Commercial,2.82,23-03-2023,18-04-2023,26-04-2023,1082,Sunita,Pending
+Neha Sharma,Female,Salem,Tamil Nadu,673778,Rented,PAN,9.96E+11,Domestic,5.01,12-08-2023,28-08-2023,03-09-2023,1097,Anjali,Pending
+Lakshmi Reddy,Female,Mysuru,Karnataka,653226,Owned,PAN,3.16E+11,Commercial,6.4,10-05-2023,29-05-2023,04-06-2023,1060,Sunita,Pending
+Neha Iyer,Female,Chennai,Tamil Nadu,672014,Owned,Voter ID,1.11E+11,Industrial,8.94,14-09-2023,24-09-2023,28-09-2023,1074,Sunita,Approved
+Karthik Reddy,Male,Pune,Maharashtra,619404,Leased,Aadhaar,6.52E+11,Commercial,6.11,26-07-2023,05-08-2023,06-08-2023,1095,Anjali,Pending
+Suresh Kumar,Male,Mangaluru,Karnataka,615284,Rented,Driving License,1.57E+11,Industrial,1.14,04-07-2023,13-07-2023,16-07-2023,1041,Sunita,Pending
+Divya Sharma,Female,Mumbai,Maharashtra,623378,Owned,Aadhaar,7.71E+11,Commercial,5.34,09-06-2023,17-06-2023,20-06-2023,1080,Mahesh,Approved
+Kavya Iyer,Female,Nagpur,Maharashtra,639440,Rented,Aadhaar,5.00E+11,Commercial,6.02,19-11-2023,05-12-2023,06-12-2023,1083,Mahesh,Need Documents
+Vijay Sharma,Male,New Delhi,Delhi,621360,Owned,Aadhaar,5.71E+11,Industrial,2.81,05-09-2023,22-09-2023,28-09-2023,1061,Mahesh,Pending
+Arun Das,Male,Chennai,Tamil Nadu,665272,Rented,Voter ID,1.18E+11,Domestic,3.66,11-01-2024,04-02-2024,07-02-2024,1051,Anjali,Pending
+Kavya Singh,Female,Mumbai,Maharashtra,698915,Owned,Aadhaar,8.29E+11,Domestic,7.11,17-09-2023,07-10-2023,15-10-2023,1013,Ramesh,Pending
+Suresh Sharma,Male,Mangaluru,Karnataka,629204,Rented,PAN,5.35E+11,Domestic,4.37,19-12-2023,15-01-2024,21-01-2024,1075,Sunita,Approved
+Divya Das,Female,Pune,Maharashtra,667060,Leased,Driving License,3.35E+11,Domestic,2.41,20-01-2023,31-01-2023,02-02-2023,1006,Ramesh,Approved
+Priya Patel,Female,Chennai,Tamil Nadu,658529,Rented,PAN,6.48E+11,Commercial,0.85,15-01-2023,29-01-2023,02-02-2023,1016,Anjali,Need Documents
+Arun Reddy,Male,Madurai,Tamil Nadu,601465,Leased,Voter ID,1.02E+11,Domestic,4.42,13-02-2024,01-03-2024,11-03-2024,1046,Sunita,Need Documents
+Priya Das,Female,Bengaluru,Karnataka,637071,Leased,Voter ID,9.49E+11,Commercial,8.47,07-07-2023,18-07-2023,23-07-2023,1041,Anjali,Pending
+Ravi Mehta,Male,Kochi,Kerala,682811,Rented,Driving License,9.58E+11,Industrial,2.46,10-02-2023,05-03-2023,14-03-2023,1097,Sunita,Need Documents
+Vijay Kumar,Male,Chennai,Tamil Nadu,684894,Rented,Aadhaar,6.11E+11,Industrial,5.81,18-08-2023,17-09-2023,17-09-2023,1025,Sunita,Pending
+Pooja Patel,Female,Bengaluru,Karnataka,622984,Owned,PAN,2.89E+11,Domestic,6.02,27-12-2023,20-01-2024,29-01-2024,1026,Anjali,Approved
+Vijay Reddy,Male,Thiruvananthapuram,Kerala,650979,Rented,Voter ID,7.30E+11,Commercial,2.65,22-07-2023,04-08-2023,11-08-2023,1035,Ramesh,Pending
+Amit Iyer,Male,New Delhi,Delhi,674766,Leased,PAN,1.61E+11,Domestic,1.24,29-09-2023,06-10-2023,10-10-2023,1097,Mahesh,Pending
+Arun Mehta,Male,New Delhi,Delhi,682932,Rented,PAN,1.56E+11,Domestic,5.56,01-03-2024,11-03-2024,12-03-2024,1086,Anjali,Approved
+Rahul Reddy,Male,New Delhi,Delhi,607929,Leased,Aadhaar,9.82E+11,Domestic,2.33,10-09-2023,15-09-2023,16-09-2023,1057,Sunita,Approved
+Arun Iyer,Male,Mysuru,Karnataka,685221,Owned,Voter ID,8.90E+11,Industrial,6.55,25-11-2023,03-12-2023,05-12-2023,1015,Sunita,Approved
+Lakshmi Sharma,Female,Chennai,Tamil Nadu,697104,Owned,PAN,4.71E+11,Domestic,9.16,10-02-2024,23-02-2024,02-03-2024,1084,Anjali,Need Documents
+Divya Iyer,Female,Mumbai,Maharashtra,670037,Owned,Voter ID,1.27E+11,Domestic,7.52,08-04-2023,25-04-2023,25-04-2023,1088,Ramesh,Pending
+Pooja Kumar,Female,Salem,Tamil Nadu,639896,Rented,Voter ID,2.45E+11,Industrial,6.14,02-06-2023,09-06-2023,19-06-2023,1015,Sunita,Approved
+Karthik Kumar,Male,Madurai,Tamil Nadu,696191,Rented,PAN,2.69E+11,Industrial,4.67,27-09-2023,14-10-2023,23-10-2023,1019,Mahesh,Need Documents
+Ravi Das,Male,Mysuru,Karnataka,641996,Owned,Driving License,1.01E+11,Commercial,8.52,31-03-2023,30-04-2023,07-05-2023,1011,Ramesh,Pending
+Karthik Sharma,Male,Nagpur,Maharashtra,686491,Rented,Aadhaar,8.61E+11,Domestic,7.5,14-01-2023,26-01-2023,01-02-2023,1079,Anjali,Need Documents
+Vijay Singh,Male,Coimbatore,Tamil Nadu,633965,Rented,Driving License,5.06E+11,Domestic,7.23,26-04-2023,21-05-2023,24-05-2023,1084,Ramesh,Pending
+Neha Mehta,Female,Kozhikode,Kerala,623069,Leased,Voter ID,8.93E+11,Commercial,9.46,03-05-2024,28-05-2024,31-05-2024,1024,Mahesh,Approved
+Priya Patel,Female,Kochi,Kerala,609035,Leased,Aadhaar,6.48E+11,Domestic,7.14,03-04-2024,02-05-2024,02-05-2024,1012,Anjali,Need Documents
+Neha Sharma,Female,Mangaluru,Karnataka,671967,Owned,Voter ID,3.27E+11,Commercial,8.75,21-02-2024,18-03-2024,28-03-2024,1005,Sunita,Pending
+Pooja Iyer,Female,Coimbatore,Tamil Nadu,669121,Owned,PAN,6.96E+11,Industrial,3.92,07-03-2024,04-04-2024,04-04-2024,1055,Anjali,Pending
+Kavya Reddy,Female,Mangaluru,Karnataka,677360,Owned,Aadhaar,4.25E+11,Industrial,5.26,22-08-2023,18-09-2023,20-09-2023,1090,Mahesh,Pending
+Anita Das,Female,Madurai,Tamil Nadu,644334,Rented,Aadhaar,6.34E+11,Industrial,6,12-01-2024,24-01-2024,02-02-2024,1021,Anjali,Need Documents
+Kavya Reddy,Female,Kozhikode,Kerala,678820,Leased,Aadhaar,2.12E+11,Domestic,4.28,25-01-2023,15-02-2023,17-02-2023,1018,Sunita,Need Documents
+Ravi Iyer,Male,New Delhi,Delhi,629308,Rented,Driving License,9.20E+11,Domestic,1.32,01-06-2023,26-06-2023,27-06-2023,1098,Mahesh,Need Documents
+Arun Sharma,Male,New Delhi,Delhi,647988,Leased,Driving License,7.90E+11,Industrial,7.58,26-01-2023,14-02-2023,23-02-2023,1027,Sunita,Need Documents
+Kavya Das,Female,Kochi,Kerala,617624,Leased,Driving License,5.24E+11,Commercial,9.51,27-01-2023,04-02-2023,05-02-2023,1014,Anjali,Pending
+Vijay Singh,Male,New Delhi,Delhi,686717,Rented,Aadhaar,8.65E+11,Commercial,3.69,06-03-2024,20-03-2024,26-03-2024,1072,Anjali,Need Documents
+Karthik Kumar,Male,New Delhi,Delhi,612754,Leased,Voter ID,7.40E+11,Commercial,7.63,27-09-2023,12-10-2023,18-10-2023,1091,Sunita,Approved
+Ravi Mehta,Male,Kozhikode,Kerala,682965,Owned,PAN,4.44E+11,Domestic,3.63,30-01-2023,20-02-2023,26-02-2023,1084,Ramesh,Pending
+Lakshmi Patel,Female,Thiruvananthapuram,Kerala,653573,Owned,Aadhaar,7.82E+11,Industrial,3.12,17-08-2023,06-09-2023,14-09-2023,1097,Ramesh,Need Documents
+Divya Das,Female,Mysuru,Karnataka,611135,Leased,Voter ID,2.07E+11,Domestic,1.06,03-07-2023,21-07-2023,21-07-2023,1097,Sunita,Need Documents
+Amit Singh,Male,Coimbatore,Tamil Nadu,692790,Rented,PAN,9.02E+11,Commercial,1.02,02-02-2024,15-02-2024,23-02-2024,1068,Sunita,Pending
+Ravi Iyer,Male,New Delhi,Delhi,616623,Owned,Voter ID,5.60E+11,Domestic,8.74,28-04-2024,23-05-2024,26-05-2024,1055,Sunita,Pending
+Karthik Iyer,Male,Bengaluru,Karnataka,604501,Leased,Aadhaar,5.17E+11,Commercial,9.3,14-03-2023,04-04-2023,09-04-2023,1033,Mahesh,Need Documents
+Meena Mehta,Female,Coimbatore,Tamil Nadu,634913,Rented,Voter ID,1.18E+11,Industrial,6.68,17-01-2024,29-01-2024,29-01-2024,1044,Ramesh,Pending
+Priya Patel,Female,Kozhikode,Kerala,695795,Rented,PAN,5.95E+11,Commercial,2.34,01-04-2023,25-04-2023,25-04-2023,1098,Sunita,Approved
+Kavya Patel,Female,Salem,Tamil Nadu,671569,Owned,Driving License,2.25E+11,Commercial,1.11,14-12-2023,22-12-2023,28-12-2023,1069,Ramesh,Need Documents
+Suresh Iyer,Male,Nagpur,Maharashtra,625523,Rented,Driving License,5.42E+11,Domestic,7.33,03-04-2024,21-04-2024,01-05-2024,1073,Ramesh,Pending
+Meena Iyer,Female,Pune,Maharashtra,696586,Leased,Driving License,7.14E+11,Commercial,5.47,24-05-2023,12-06-2023,18-06-2023,1098,Mahesh,Pending
+Manoj Kumar,Male,Salem,Tamil Nadu,630936,Leased,Voter ID,6.35E+11,Commercial,3.26,03-11-2023,25-11-2023,04-12-2023,1095,Anjali,Need Documents
+Ravi Kumar,Male,Mangaluru,Karnataka,676389,Rented,Aadhaar,7.36E+11,Domestic,1.97,07-05-2023,04-06-2023,12-06-2023,1088,Ramesh,Need Documents
+Neha Sharma,Female,New Delhi,Delhi,672982,Leased,PAN,7.63E+11,Commercial,4.17,30-06-2023,08-07-2023,10-07-2023,1097,Sunita,Approved
+Karthik Mehta,Male,Kochi,Kerala,674910,Owned,Voter ID,1.91E+11,Industrial,5.24,15-03-2024,24-03-2024,01-04-2024,1020,Ramesh,Approved
+Manoj Iyer,Male,New Delhi,Delhi,658920,Leased,Driving License,8.17E+11,Industrial,8.44,13-12-2023,21-12-2023,27-12-2023,1010,Sunita,Approved
+Ravi Das,Male,Mangaluru,Karnataka,615703,Owned,PAN,6.67E+11,Domestic,6,18-07-2023,10-08-2023,14-08-2023,1086,Sunita,Approved
+Divya Singh,Female,New Delhi,Delhi,648587,Owned,Driving License,8.99E+11,Commercial,7.28,07-03-2024,25-03-2024,02-04-2024,1052,Sunita,Approved
+Priya Singh,Female,Mumbai,Maharashtra,670259,Leased,Voter ID,2.12E+11,Domestic,6.03,12-07-2023,10-08-2023,14-08-2023,1014,Mahesh,Need Documents
+Ravi Reddy,Male,Bengaluru,Karnataka,602181,Owned,PAN,8.55E+11,Commercial,8.94,13-10-2023,05-11-2023,13-11-2023,1007,Ramesh,Need Documents
+Suresh Kumar,Male,Kozhikode,Kerala,635601,Owned,Aadhaar,1.68E+11,Commercial,6.31,04-10-2023,25-10-2023,02-11-2023,1029,Ramesh,Approved
+Arun Das,Male,Kozhikode,Kerala,669715,Owned,Aadhaar,3.21E+11,Domestic,9.91,05-06-2023,25-06-2023,04-07-2023,1028,Mahesh,Approved
+Lakshmi Iyer,Female,Madurai,Tamil Nadu,622499,Owned,PAN,9.59E+11,Commercial,4.47,11-02-2024,28-02-2024,01-03-2024,1013,Mahesh,Approved
+Amit Sharma,Male,Mumbai,Maharashtra,623937,Rented,Voter ID,8.77E+11,Commercial,2.73,11-01-2024,03-02-2024,05-02-2024,1095,Sunita,Approved
+Amit Singh,Male,Mangaluru,Karnataka,694760,Rented,Aadhaar,3.98E+11,Industrial,6.9,26-03-2023,25-04-2023,03-05-2023,1093,Ramesh,Need Documents
+Meena Patel,Female,New Delhi,Delhi,692528,Leased,Driving License,9.62E+11,Commercial,2.53,25-12-2023,09-01-2024,12-01-2024,1069,Mahesh,Need Documents
+Vijay Patel,Male,Chennai,Tamil Nadu,662702,Leased,Voter ID,5.43E+11,Industrial,0.66,10-05-2024,03-06-2024,12-06-2024,1077,Anjali,Approved
+Kavya Singh,Female,Pune,Maharashtra,622857,Leased,Aadhaar,7.84E+11,Industrial,2.56,24-12-2023,22-01-2024,28-01-2024,1098,Anjali,Need Documents
+Meena Iyer,Female,Mumbai,Maharashtra,683835,Leased,PAN,6.42E+11,Commercial,1.64,24-11-2023,01-12-2023,07-12-2023,1011,Mahesh,Need Documents
+Priya Iyer,Female,Bengaluru,Karnataka,677863,Leased,Aadhaar,5.51E+11,Domestic,8.99,30-01-2024,26-02-2024,06-03-2024,1020,Anjali,Pending
+Amit Sharma,Male,Chennai,Tamil Nadu,693466,Owned,PAN,9.58E+11,Domestic,5.55,03-03-2024,24-03-2024,24-03-2024,1087,Mahesh,Need Documents
+Amit Sharma,Male,Chennai,Tamil Nadu,652486,Owned,Driving License,4.29E+11,Industrial,9.08,28-02-2024,22-03-2024,01-04-2024,1095,Ramesh,Pending
+Neha Singh,Female,Kochi,Kerala,614146,Rented,PAN,6.25E+11,Domestic,4,27-06-2023,03-07-2023,08-07-2023,1089,Mahesh,Need Documents
+Amit Singh,Male,Mumbai,Maharashtra,695974,Leased,PAN,3.17E+11,Domestic,8.63,05-10-2023,30-10-2023,08-11-2023,1039,Ramesh,Approved
+Pooja Sharma,Female,Nagpur,Maharashtra,620428,Leased,Driving License,1.69E+11,Commercial,8.43,28-03-2024,24-04-2024,26-04-2024,1011,Ramesh,Need Documents
+Anita Singh,Female,Mangaluru,Karnataka,602474,Leased,Voter ID,8.35E+11,Commercial,5.27,15-02-2023,05-03-2023,13-03-2023,1011,Mahesh,Pending
+Rahul Singh,Male,Mangaluru,Karnataka,670623,Leased,Aadhaar,2.98E+11,Domestic,6.5,15-04-2023,14-05-2023,16-05-2023,1094,Mahesh,Approved
+Neha Sharma,Female,New Delhi,Delhi,625656,Leased,PAN,4.04E+11,Industrial,5.57,28-02-2023,18-03-2023,26-03-2023,1082,Anjali,Need Documents
+Arun Singh,Male,Kochi,Kerala,644478,Owned,Aadhaar,5.48E+11,Commercial,3.65,29-04-2023,13-05-2023,18-05-2023,1047,Mahesh,Pending
+Meena Reddy,Female,Mumbai,Maharashtra,612297,Owned,Aadhaar,4.43E+11,Domestic,1.88,06-08-2023,30-08-2023,31-08-2023,1003,Ramesh,Approved
+Divya Das,Female,Mangaluru,Karnataka,619243,Rented,PAN,6.99E+11,Commercial,4.04,20-09-2023,27-09-2023,01-10-2023,1045,Sunita,Need Documents
+Neha Singh,Female,New Delhi,Delhi,689930,Owned,PAN,5.43E+11,Industrial,9.95,03-04-2024,12-04-2024,21-04-2024,1032,Anjali,Pending
+Rahul Kumar,Male,Kochi,Kerala,605606,Owned,PAN,4.79E+11,Domestic,7.68,25-03-2024,13-04-2024,16-04-2024,1097,Ramesh,Pending
+Meena Kumar,Female,Madurai,Tamil Nadu,686102,Owned,Voter ID,4.91E+11,Industrial,8.78,04-01-2023,15-01-2023,18-01-2023,1034,Anjali,Approved
+Lakshmi Singh,Female,Coimbatore,Tamil Nadu,621691,Leased,Driving License,5.39E+11,Commercial,5.9,07-03-2024,24-03-2024,02-04-2024,1060,Mahesh,Approved
+Lakshmi Sharma,Female,Chennai,Tamil Nadu,651434,Rented,Voter ID,9.42E+11,Domestic,9.82,26-09-2023,21-10-2023,23-10-2023,1059,Mahesh,Need Documents
+Divya Mehta,Female,Mangaluru,Karnataka,695564,Rented,Aadhaar,2.56E+11,Commercial,6.31,26-02-2023,11-03-2023,18-03-2023,1017,Anjali,Approved
+Arun Patel,Male,Mangaluru,Karnataka,634200,Leased,Voter ID,8.65E+11,Domestic,4.46,07-05-2024,06-06-2024,15-06-2024,1049,Sunita,Need Documents
+Pooja Mehta,Female,Thiruvananthapuram,Kerala,624004,Leased,Aadhaar,3.70E+11,Commercial,8.96,12-09-2023,09-10-2023,11-10-2023,1060,Mahesh,Need Documents
+Manoj Das,Male,Bengaluru,Karnataka,640394,Leased,Aadhaar,2.95E+11,Industrial,9.87,08-12-2023,21-12-2023,30-12-2023,1065,Sunita,Pending
+Divya Sharma,Female,Madurai,Tamil Nadu,694217,Leased,Aadhaar,3.25E+11,Domestic,4.27,29-09-2023,26-10-2023,26-10-2023,1035,Mahesh,Need Documents
+Karthik Iyer,Male,Pune,Maharashtra,685647,Leased,Aadhaar,1.41E+11,Domestic,2.24,18-11-2023,08-12-2023,13-12-2023,1058,Mahesh,Need Documents
+Suresh Patel,Male,Coimbatore,Tamil Nadu,665626,Leased,PAN,3.59E+11,Commercial,0.55,08-11-2023,03-12-2023,07-12-2023,1039,Ramesh,Pending
+Ravi Mehta,Male,Coimbatore,Tamil Nadu,653779,Leased,PAN,5.07E+11,Industrial,4.57,21-08-2023,13-09-2023,23-09-2023,1006,Anjali,Pending
+Lakshmi Kumar,Female,Nagpur,Maharashtra,698304,Rented,Voter ID,8.51E+11,Industrial,6.36,12-07-2023,30-07-2023,02-08-2023,1021,Ramesh,Need Documents
+Kavya Das,Female,Kozhikode,Kerala,686648,Owned,Voter ID,2.99E+11,Domestic,9,24-05-2023,15-06-2023,17-06-2023,1021,Anjali,Approved
+Priya Patel,Female,Kochi,Kerala,652856,Rented,PAN,6.41E+11,Industrial,2.27,18-05-2023,24-05-2023,01-06-2023,1013,Ramesh,Pending
+Rahul Singh,Male,Kozhikode,Kerala,653356,Owned,Voter ID,7.26E+11,Industrial,9.18,08-07-2023,30-07-2023,02-08-2023,1077,Anjali,Need Documents
+Rahul Iyer,Male,New Delhi,Delhi,635746,Owned,Voter ID,7.77E+11,Industrial,4.89,09-10-2023,29-10-2023,02-11-2023,1091,Anjali,Approved
+Amit Iyer,Male,Mangaluru,Karnataka,616487,Owned,Aadhaar,4.03E+11,Commercial,8.48,26-03-2023,01-04-2023,04-04-2023,1012,Sunita,Need Documents
+Karthik Sharma,Male,Mangaluru,Karnataka,692989,Rented,Driving License,5.48E+11,Commercial,8.16,25-11-2023,10-12-2023,15-12-2023,1035,Mahesh,Need Documents
+Pooja Sharma,Female,New Delhi,Delhi,646067,Leased,Aadhaar,1.59E+11,Industrial,6.23,29-04-2024,15-05-2024,24-05-2024,1046,Anjali,Pending
+Lakshmi Patel,Female,New Delhi,Delhi,638912,Rented,Aadhaar,1.59E+11,Industrial,2.51,18-04-2024,17-05-2024,19-05-2024,1079,Sunita,Pending
+Suresh Mehta,Male,Thiruvananthapuram,Kerala,633611,Rented,Voter ID,4.93E+11,Industrial,5.76,01-02-2024,18-02-2024,18-02-2024,1076,Mahesh,Need Documents
+Vijay Kumar,Male,Thiruvananthapuram,Kerala,628220,Owned,Aadhaar,7.08E+11,Industrial,0.95,27-02-2023,24-03-2023,25-03-2023,1073,Anjali,Pending
+Rahul Iyer,Male,Thiruvananthapuram,Kerala,655047,Leased,Driving License,7.51E+11,Domestic,2.67,31-01-2023,02-03-2023,11-03-2023,1044,Mahesh,Pending
+Manoj Iyer,Male,Mangaluru,Karnataka,631424,Rented,Voter ID,6.27E+11,Commercial,7.55,18-02-2023,25-02-2023,02-03-2023,1098,Anjali,Pending
+Pooja Reddy,Female,New Delhi,Delhi,634596,Rented,PAN,9.58E+11,Domestic,7.72,19-04-2024,15-05-2024,25-05-2024,1043,Ramesh,Pending
+Pooja Sharma,Female,Kochi,Kerala,635135,Owned,PAN,7.15E+11,Industrial,4.93,02-03-2024,26-03-2024,30-03-2024,1085,Ramesh,Need Documents
+Amit Iyer,Male,Mangaluru,Karnataka,646239,Owned,PAN,1.60E+11,Commercial,2.9,20-08-2023,12-09-2023,22-09-2023,1073,Mahesh,Pending
+Arun Patel,Male,Madurai,Tamil Nadu,691906,Rented,PAN,3.12E+11,Domestic,2.86,11-02-2023,03-03-2023,04-03-2023,1074,Sunita,Need Documents
+Kavya Mehta,Female,New Delhi,Delhi,691020,Leased,Voter ID,3.11E+11,Industrial,4.92,02-12-2023,31-12-2023,02-01-2024,1020,Ramesh,Pending
+Manoj Reddy,Male,Thiruvananthapuram,Kerala,622297,Leased,Driving License,2.49E+11,Domestic,1.81,01-04-2024,08-04-2024,13-04-2024,1013,Sunita,Approved
+Vijay Kumar,Male,Mangaluru,Karnataka,681430,Owned,Voter ID,5.48E+11,Industrial,7.05,26-01-2024,10-02-2024,20-02-2024,1049,Ramesh,Approved
+Meena Reddy,Female,Kochi,Kerala,669897,Leased,Voter ID,1.91E+11,Commercial,1.13,13-09-2023,09-10-2023,10-10-2023,1065,Ramesh,Need Documents
+Ravi Iyer,Male,New Delhi,Delhi,678091,Leased,Aadhaar,3.67E+11,Commercial,3.93,08-05-2024,27-05-2024,06-06-2024,1006,Ramesh,Need Documents
+Amit Das,Male,Thiruvananthapuram,Kerala,669823,Owned,PAN,8.48E+11,Commercial,2.59,15-01-2023,09-02-2023,18-02-2023,1092,Sunita,Approved
+Anita Iyer,Female,New Delhi,Delhi,607098,Rented,Aadhaar,3.45E+11,Domestic,3.14,02-05-2024,21-05-2024,31-05-2024,1091,Anjali,Need Documents
+Meena Iyer,Female,Salem,Tamil Nadu,654720,Owned,Voter ID,5.43E+11,Commercial,1.01,17-10-2023,12-11-2023,19-11-2023,1021,Sunita,Need Documents
+Vijay Das,Male,Mysuru,Karnataka,699140,Rented,PAN,5.52E+11,Commercial,9.95,05-01-2023,24-01-2023,01-02-2023,1092,Sunita,Need Documents
+Priya Sharma,Female,Madurai,Tamil Nadu,672615,Owned,Voter ID,8.36E+11,Industrial,9.95,18-11-2023,06-12-2023,11-12-2023,1009,Ramesh,Approved
+Divya Singh,Female,New Delhi,Delhi,644448,Leased,Aadhaar,6.41E+11,Commercial,6.75,28-11-2023,14-12-2023,20-12-2023,1081,Ramesh,Need Documents
+Neha Singh,Female,Bengaluru,Karnataka,644944,Owned,Voter ID,1.20E+11,Domestic,5.92,06-09-2023,04-10-2023,13-10-2023,1083,Sunita,Need Documents
+Manoj Mehta,Male,New Delhi,Delhi,669710,Rented,Aadhaar,2.14E+11,Commercial,7.37,26-01-2024,11-02-2024,15-02-2024,1003,Ramesh,Need Documents
+Arun Iyer,Male,Mysuru,Karnataka,624211,Rented,PAN,8.39E+11,Industrial,3.49,28-01-2023,19-02-2023,21-02-2023,1081,Ramesh,Approved
+Amit Patel,Male,Madurai,Tamil Nadu,638282,Rented,Aadhaar,3.83E+11,Commercial,0.52,23-07-2023,05-08-2023,13-08-2023,1014,Ramesh,Approved
+Ravi Patel,Male,Nagpur,Maharashtra,601801,Leased,PAN,5.10E+11,Industrial,0.55,13-01-2023,04-02-2023,12-02-2023,1071,Mahesh,Need Documents
+Vijay Sharma,Male,Kochi,Kerala,636284,Leased,Driving License,1.57E+11,Industrial,7.48,14-08-2023,27-08-2023,01-09-2023,1079,Sunita,Approved
+Suresh Das,Male,Chennai,Tamil Nadu,612499,Leased,PAN,2.60E+11,Commercial,4.83,27-06-2023,13-07-2023,13-07-2023,1021,Ramesh,Approved
+Vijay Singh,Male,Mangaluru,Karnataka,663296,Owned,Aadhaar,1.87E+11,Industrial,2.28,06-03-2023,22-03-2023,29-03-2023,1058,Mahesh,Need Documents
+Arun Das,Male,Mangaluru,Karnataka,659250,Leased,Voter ID,1.46E+11,Domestic,0.71,31-12-2023,14-01-2024,24-01-2024,1029,Sunita,Need Documents
+Arun Mehta,Male,Salem,Tamil Nadu,654003,Leased,Voter ID,6.39E+11,Commercial,4.94,22-05-2023,16-06-2023,26-06-2023,1044,Mahesh,Approved
+Pooja Reddy,Female,New Delhi,Delhi,670421,Rented,PAN,7.29E+11,Domestic,8.71,28-02-2023,09-03-2023,13-03-2023,1098,Sunita,Approved
+Kavya Singh,Female,Mysuru,Karnataka,628119,Rented,Voter ID,9.62E+11,Domestic,8.52,12-02-2023,03-03-2023,09-03-2023,1091,Mahesh,Need Documents
+Ravi Patel,Male,Chennai,Tamil Nadu,684736,Leased,Voter ID,1.40E+11,Commercial,9.05,20-08-2023,09-09-2023,19-09-2023,1049,Anjali,Need Documents
+Ravi Das,Male,Coimbatore,Tamil Nadu,696535,Leased,Aadhaar,4.21E+11,Industrial,2.97,14-07-2023,20-07-2023,30-07-2023,1017,Sunita,Pending
+Meena Mehta,Female,Pune,Maharashtra,660757,Owned,Aadhaar,6.96E+11,Industrial,7.5,26-01-2024,23-02-2024,03-03-2024,1035,Ramesh,Approved
+Vijay Sharma,Male,Chennai,Tamil Nadu,663271,Owned,Driving License,1.09E+11,Domestic,1.38,14-02-2024,23-02-2024,02-03-2024,1092,Ramesh,Approved
+Arun Iyer,Male,Madurai,Tamil Nadu,615917,Rented,Driving License,1.83E+11,Commercial,7.05,20-01-2024,02-02-2024,04-02-2024,1089,Ramesh,Need Documents
+Ravi Reddy,Male,Mumbai,Maharashtra,669484,Rented,Driving License,8.58E+11,Domestic,1.51,03-02-2024,16-02-2024,20-02-2024,1095,Ramesh,Pending
+Meena Reddy,Female,Coimbatore,Tamil Nadu,628113,Owned,Aadhaar,9.86E+11,Commercial,6.47,07-08-2023,17-08-2023,23-08-2023,1091,Sunita,Pending
+Suresh Das,Male,Mysuru,Karnataka,692728,Leased,Voter ID,5.87E+11,Domestic,6.83,23-09-2023,13-10-2023,14-10-2023,1026,Ramesh,Approved
+Meena Das,Female,Mysuru,Karnataka,675208,Leased,Driving License,7.74E+11,Domestic,3.13,06-03-2024,04-04-2024,07-04-2024,1047,Sunita,Pending
+Manoj Singh,Male,Coimbatore,Tamil Nadu,606636,Rented,PAN,5.06E+11,Industrial,1.96,19-02-2023,10-03-2023,16-03-2023,1047,Anjali,Need Documents
+Ravi Iyer,Male,Pune,Maharashtra,640099,Owned,PAN,4.94E+11,Commercial,4.41,24-02-2023,21-03-2023,28-03-2023,1044,Mahesh,Approved
+Suresh Iyer,Male,Mysuru,Karnataka,639907,Rented,Aadhaar,9.59E+11,Domestic,4.78,21-08-2023,11-09-2023,15-09-2023,1074,Anjali,Need Documents
+Vijay Mehta,Male,Madurai,Tamil Nadu,625416,Owned,Voter ID,4.87E+11,Commercial,1.98,17-09-2023,05-10-2023,15-10-2023,1002,Ramesh,Pending
+Neha Kumar,Female,Pune,Maharashtra,610111,Leased,Driving License,7.82E+11,Commercial,3.93,30-09-2023,15-10-2023,18-10-2023,1046,Ramesh,Pending
+Neha Iyer,Female,Kochi,Kerala,694392,Rented,Aadhaar,7.31E+11,Commercial,9.75,20-04-2024,03-05-2024,09-05-2024,1065,Sunita,Need Documents
+Manoj Sharma,Male,Bengaluru,Karnataka,624417,Owned,Driving License,7.50E+11,Industrial,0.94,20-11-2023,30-11-2023,08-12-2023,1083,Anjali,Approved
+Karthik Singh,Male,Madurai,Tamil Nadu,661621,Rented,PAN,6.73E+11,Commercial,9.97,16-09-2023,11-10-2023,15-10-2023,1098,Mahesh,Pending
+Karthik Reddy,Male,Kochi,Kerala,626975,Owned,Voter ID,8.09E+11,Industrial,2.66,01-03-2023,14-03-2023,18-03-2023,1042,Mahesh,Pending
+Priya Singh,Female,Salem,Tamil Nadu,649897,Owned,Aadhaar,5.85E+11,Industrial,9.73,18-10-2023,29-10-2023,29-10-2023,1006,Mahesh,Need Documents
+Karthik Iyer,Male,Kochi,Kerala,612267,Owned,Aadhaar,3.24E+11,Commercial,2.44,24-04-2023,11-05-2023,19-05-2023,1043,Ramesh,Need Documents
+Amit Patel,Male,New Delhi,Delhi,611444,Owned,Aadhaar,5.70E+11,Commercial,9.64,16-05-2023,02-06-2023,05-06-2023,1029,Anjali,Need Documents
+Amit Patel,Male,Mangaluru,Karnataka,630163,Leased,PAN,8.49E+11,Domestic,1.78,22-03-2024,01-04-2024,02-04-2024,1077,Mahesh,Pending
+Rahul Singh,Male,Kozhikode,Kerala,622080,Leased,Voter ID,1.84E+11,Domestic,2.18,26-04-2023,05-05-2023,15-05-2023,1070,Mahesh,Approved
+Divya Iyer,Female,New Delhi,Delhi,658527,Owned,Aadhaar,3.88E+11,Commercial,7.95,19-10-2023,01-11-2023,10-11-2023,1089,Anjali,Pending
+Rahul Reddy,Male,Bengaluru,Karnataka,671825,Owned,Driving License,1.67E+11,Industrial,8.74,16-08-2023,30-08-2023,07-09-2023,1047,Anjali,Pending
+Divya Kumar,Female,Nagpur,Maharashtra,609203,Leased,PAN,8.46E+11,Industrial,1.96,07-09-2023,16-09-2023,16-09-2023,1052,Mahesh,Pending
+Priya Patel,Female,Chennai,Tamil Nadu,662542,Leased,PAN,6.22E+11,Commercial,2.47,24-12-2023,04-01-2024,13-01-2024,1019,Sunita,Pending
+Vijay Mehta,Male,Mysuru,Karnataka,657945,Leased,PAN,5.94E+11,Industrial,8.12,21-03-2023,13-04-2023,14-04-2023,1002,Ramesh,Need Documents
+Divya Sharma,Female,Bengaluru,Karnataka,653517,Owned,Aadhaar,1.71E+11,Industrial,6.12,11-09-2023,23-09-2023,24-09-2023,1058,Ramesh,Need Documents
+Rahul Singh,Male,Pune,Maharashtra,608994,Rented,Voter ID,6.83E+11,Industrial,9.32,26-08-2023,21-09-2023,28-09-2023,1037,Anjali,Need Documents
+Karthik Mehta,Male,Bengaluru,Karnataka,639456,Leased,Driving License,5.11E+11,Industrial,5,24-06-2023,19-07-2023,21-07-2023,1035,Anjali,Need Documents
+Neha Mehta,Female,Thiruvananthapuram,Kerala,665365,Leased,PAN,3.04E+11,Industrial,4.63,23-02-2024,20-03-2024,30-03-2024,1004,Ramesh,Need Documents
+Priya Reddy,Female,Bengaluru,Karnataka,686967,Leased,PAN,7.10E+11,Industrial,4.62,22-11-2023,15-12-2023,17-12-2023,1048,Anjali,Pending
+Lakshmi Das,Female,Nagpur,Maharashtra,641542,Rented,Aadhaar,3.16E+11,Industrial,2.54,01-04-2023,11-04-2023,18-04-2023,1079,Sunita,Pending
+Lakshmi Reddy,Female,Kozhikode,Kerala,655987,Owned,Voter ID,4.08E+11,Domestic,4.67,09-05-2024,26-05-2024,26-05-2024,1064,Ramesh,Approved
+Neha Kumar,Female,Thiruvananthapuram,Kerala,681482,Leased,PAN,5.12E+11,Commercial,9.91,23-08-2023,04-09-2023,10-09-2023,1098,Ramesh,Need Documents
+Arun Das,Male,New Delhi,Delhi,660287,Rented,PAN,1.10E+11,Industrial,1.21,12-03-2024,07-04-2024,14-04-2024,1039,Ramesh,Need Documents
+Manoj Iyer,Male,Mangaluru,Karnataka,641699,Leased,Voter ID,8.89E+11,Domestic,6.41,11-09-2023,01-10-2023,04-10-2023,1090,Mahesh,Pending
+Karthik Das,Male,Mangaluru,Karnataka,665058,Leased,Aadhaar,7.54E+11,Domestic,9.87,15-08-2023,12-09-2023,15-09-2023,1033,Sunita,Pending
+Lakshmi Mehta,Female,Nagpur,Maharashtra,637431,Owned,Voter ID,6.29E+11,Commercial,5.5,05-07-2023,01-08-2023,08-08-2023,1047,Ramesh,Approved
+Neha Iyer,Female,Mangaluru,Karnataka,653691,Rented,PAN,6.08E+11,Industrial,4.83,08-09-2023,23-09-2023,24-09-2023,1056,Mahesh,Pending
+Priya Sharma,Female,Mysuru,Karnataka,668526,Owned,PAN,7.71E+11,Commercial,8.14,23-01-2024,29-01-2024,07-02-2024,1010,Ramesh,Pending
+Amit Patel,Male,Salem,Tamil Nadu,671234,Rented,Aadhaar,9.22E+11,Industrial,9.06,17-02-2024,28-02-2024,09-03-2024,1042,Ramesh,Pending
+Anita Singh,Female,New Delhi,Delhi,605950,Leased,Aadhaar,8.52E+11,Domestic,6.52,03-08-2023,08-08-2023,18-08-2023,1003,Anjali,Need Documents
+Anita Singh,Female,Thiruvananthapuram,Kerala,666695,Owned,Aadhaar,5.18E+11,Commercial,1.83,02-05-2023,18-05-2023,26-05-2023,1089,Ramesh,Need Documents
+Priya Sharma,Female,Thiruvananthapuram,Kerala,665579,Leased,PAN,5.62E+11,Commercial,6.4,17-09-2023,06-10-2023,12-10-2023,1088,Ramesh,Need Documents
+Ravi Singh,Male,Mumbai,Maharashtra,600675,Rented,Driving License,4.66E+11,Commercial,9.62,02-12-2023,30-12-2023,04-01-2024,1019,Mahesh,Need Documents
+Anita Patel,Female,Mysuru,Karnataka,666347,Rented,Driving License,5.45E+11,Commercial,9.03,09-01-2023,19-01-2023,23-01-2023,1031,Mahesh,Need Documents
+Anita Singh,Female,New Delhi,Delhi,678117,Leased,Driving License,5.09E+11,Industrial,3.49,18-04-2023,10-05-2023,19-05-2023,1068,Anjali,Need Documents
+Meena Sharma,Female,Salem,Tamil Nadu,627851,Leased,Driving License,4.12E+11,Commercial,8.3,06-02-2023,20-02-2023,26-02-2023,1098,Anjali,Need Documents
+Divya Iyer,Female,Madurai,Tamil Nadu,674473,Owned,Voter ID,3.70E+11,Industrial,3.48,15-06-2023,20-06-2023,21-06-2023,1023,Ramesh,Approved
+Lakshmi Singh,Female,Nagpur,Maharashtra,653225,Owned,Voter ID,7.39E+11,Industrial,6.19,05-11-2023,19-11-2023,29-11-2023,1010,Ramesh,Need Documents
+Vijay Kumar,Male,Coimbatore,Tamil Nadu,604678,Rented,Voter ID,9.99E+11,Domestic,5.7,18-12-2023,26-12-2023,02-01-2024,1074,Sunita,Need Documents
+Suresh Das,Male,Madurai,Tamil Nadu,662997,Rented,PAN,1.03E+11,Domestic,8.91,14-01-2023,09-02-2023,19-02-2023,1043,Mahesh,Need Documents
+Vijay Patel,Male,Mysuru,Karnataka,674607,Owned,PAN,2.48E+11,Industrial,4.35,04-11-2023,15-11-2023,24-11-2023,1007,Mahesh,Need Documents
+Pooja Mehta,Female,New Delhi,Delhi,648108,Leased,PAN,1.01E+11,Domestic,3.21,07-05-2023,03-06-2023,06-06-2023,1030,Ramesh,Need Documents
+Suresh Singh,Male,Kochi,Kerala,604914,Owned,Aadhaar,7.35E+11,Commercial,5.54,25-02-2024,25-03-2024,27-03-2024,1058,Mahesh,Need Documents
+Amit Mehta,Male,Chennai,Tamil Nadu,676269,Rented,Voter ID,7.59E+11,Commercial,2.42,24-07-2023,11-08-2023,19-08-2023,1089,Ramesh,Pending
