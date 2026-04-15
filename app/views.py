@@ -12,7 +12,7 @@ from django.views.decorators.csrf import csrf_exempt
 from django.utils.dateparse import parse_date
 from django.db.models import Count
 from django.db.models.functions import TruncMonth
-from django.contrib.auth import authenticate, login, logout
+from django.contrib.auth import authenticate, login as auth_login, logout
 def index(request):
     return render(request, "index.html")
 
@@ -20,6 +20,9 @@ def index(request):
 def login(request):
     return render(request, "login.html")
 
+def handlelogout(request):
+    logout(request)
+    return JsonResponse({'message': 'Logged out successfully'})
 
 def uploaddata(request):
     try:
@@ -253,19 +256,25 @@ def connectionrequestdata(request):
 
 @csrf_exempt
 def handlelogin(request):
-    if request.method =='POST':
-        data=json.loads(request.body)
-        username=data.get('username')
-        password=data.get('password')
-        
-        if username and password:
-            user = authenticate(request, username=username, password=password)
-            if user is not None:
-                login(request,user)
-                return JsonResponse({'user': user.username}, status=200)
-            else:
-                return JsonResponse({'error': 'Invalid credentials'}, status=400)
+    if request.method == 'POST':
+        data = json.loads(request.body)
+
+        print("DATA RECEIVED:", data)
+
+        username = data.get('username')
+        password = data.get('password')
+
+        print("USERNAME:", username)
+        print("PASSWORD:", password)
+
+        user = authenticate(request, username=username, password=password)
+
+        print("USER:", user)
+
+        if user is not None:
+            auth_login(request, user)
+            return JsonResponse({'user': user.username}, status=200)
         else:
-            return JsonResponse({'error': 'Username and password are required'}, status=400)
-    else:
-        return JsonResponse({'error':'Method not allowed'},Status=405)
+            return JsonResponse({'error': 'Invalid credentials'}, status=400)
+
+    return JsonResponse({'error': 'Method not allowed'}, status=405)

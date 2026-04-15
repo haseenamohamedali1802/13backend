@@ -10,5 +10,5 @@ urlpatterns = [
     path("connectionvisualization/",views.connectionvisualization,name="connectionvisualization"),
     path("connectionrequestdata/",views.connectionrequestdata,name="connectionrequestdata"),
     path('login/', views.handlelogin, name='handlelogin'),    
-
+    path('logout/', views.handlelogout),
 ]
