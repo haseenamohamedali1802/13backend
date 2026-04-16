@@ -54,7 +54,7 @@ class Connection(models.Model):
         ('KYC failed','KYC failed'),
     ]
     Applicant=models.ForeignKey(Applicant,on_delete=models.CASCADE)
-    Load_Applied=models.IntegerField()
+    Load_Applied=models.FloatField()
     Date_Of_Application=models.DateField()
     Date_of_Approval=models.DateField(null=True,blank=True)
     Modified_Date=models.DateField(null=True,blank=True)

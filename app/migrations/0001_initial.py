@@ -38,7 +38,7 @@ class Migration(migrations.Migration):
             name='Connection',
             fields=[
                 ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('Load_Applied', models.IntegerField()),
+                ('Load_Applied', models.FloatField()),
                 ('Date_Of_Application', models.DateField()),
                 ('Date_of_Approval', models.DateField(blank=True, null=True)),
                 ('Modified_Date', models.DateField(blank=True, null=True)),
