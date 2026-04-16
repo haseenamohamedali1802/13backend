@@ -1,5 +1,5 @@
 from django.shortcuts import render, HttpResponse
-import pandas as pd
+import csv
 from datetime import datetime
 from .models import Applicant, Connection, Status
 from django.views.generic import ListView
@@ -27,8 +27,7 @@ def handlelogout(request):
 def uploaddata(request):
     try:
         filepath = "applicant_data_records.csv"
-        df = pd.read_csv(filepath, encoding='latin-1')
-
+        
         status_list = [
             "Rejected",
             "Connection Released",
@@ -39,48 +38,50 @@ def uploaddata(request):
         for s in status_list:
             Status.objects.get_or_create(Status_Name=s)
 
-        for index, row in df.iterrows():
+        with open(filepath, 'r', encoding='latin-1') as file:
+            reader = csv.DictReader(file)
+            for row in reader:
 
-            applicant, created = Applicant.objects.get_or_create(
-                Applicant_Name=row["Applicant_Name"],
-                Gender=row["Gender"],
-                Districts=row["District"],
-                State=row["State"],
-                Pincode=int(row["Pincode"]),
-                Ownership=row["Ownership"],
-                GotId_Type=row["GovtId_Type"],
-                Id_Number=str(row["ID_Number"]),
-                Category=row["Category"],
-            )
+                applicant, created = Applicant.objects.get_or_create(
+                    Applicant_Name=row["Applicant_Name"],
+                    Gender=row["Gender"],
+                    Districts=row["District"],
+                    State=row["State"],
+                    Pincode=int(row["Pincode"]),
+                    Ownership=row["Ownership"],
+                    GotId_Type=row["GovtId_Type"],
+                    Id_Number=str(row["ID_Number"]),
+                    Category=row["Category"],
+                )
 
-            status_value = row.get("Status", "Pending")
-            status = Status.objects.get(Status_Name=status_value)
+                status_value = row.get("Status", "Pending") or "Pending"
+                status = Status.objects.get(Status_Name=status_value)
 
-            Date_Of_Application = datetime.strptime(
-                str(row["Date_Of_Application"]), "%d-%m-%Y"
-            ).strftime("%Y-%m-%d")
-
-            Date_of_Approval = None
-            if not pd.isna(row["Date_of_Approval"]):
-                Date_of_Approval = datetime.strptime(
-                    str(row["Date_of_Approval"]), "%d-%m-%Y"
+                Date_Of_Application = datetime.strptime(
+                    str(row["Date_Of_Application"]), "%d-%m-%Y"
                 ).strftime("%Y-%m-%d")
 
-            Modified_Date = datetime.strptime(
-                str(row["Modified_Date"]), "%d-%m-%Y"
-            ).strftime("%Y-%m-%d")
+                Date_of_Approval = None
+                if row["Date_of_Approval"] and row["Date_of_Approval"].strip():
+                    Date_of_Approval = datetime.strptime(
+                        str(row["Date_of_Approval"]), "%d-%m-%Y"
+                    ).strftime("%Y-%m-%d")
 
-            Connection.objects.get_or_create(
-                Applicant=applicant,
-                Status=status,
-                Load_Applied=row["Load_Applied"],
-                Date_Of_Application=Date_Of_Application,
-                Date_of_Approval=Date_of_Approval,
-                Modified_Date=Modified_Date,
-                Reviewer_Id=row["Reviewer_Id"],
-                Reviewer_Name=row["Reviewer_Name"],
-                Reviewer_Comment=row["Reviewer_Comment"],
-            )
+                Modified_Date = datetime.strptime(
+                    str(row["Modified_Date"]), "%d-%m-%Y"
+                ).strftime("%Y-%m-%d")
+
+                Connection.objects.get_or_create(
+                    Applicant=applicant,
+                    Status=status,
+                    Load_Applied=row["Load_Applied"],
+                    Date_Of_Application=Date_Of_Application,
+                    Date_of_Approval=Date_of_Approval,
+                    Modified_Date=Modified_Date,
+                    Reviewer_Id=row["Reviewer_Id"],
+                    Reviewer_Name=row["Reviewer_Name"],
+                    Reviewer_Comment=row["Reviewer_Comment"],
+                )
 
         return HttpResponse("File uploaded successfully")
 
