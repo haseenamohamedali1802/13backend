@@ -1,5 +1,6 @@
 from django.shortcuts import render, HttpResponse
 import csv
+import os
 from datetime import datetime
 from .models import Applicant, Connection, Status
 from django.views.generic import ListView
@@ -13,6 +14,7 @@ from django.utils.dateparse import parse_date
 from django.db.models import Count
 from django.db.models.functions import TruncMonth
 from django.contrib.auth import authenticate, login as auth_login, logout
+from django.conf import settings
 def index(request):
     return render(request, "index.html")
 
@@ -26,7 +28,8 @@ def handlelogout(request):
 
 def uploaddata(request):
     try:
-        filepath = "applicant_data_records.csv"
+        # Use absolute path based on BASE_DIR
+        filepath = os.path.join(settings.BASE_DIR, "applicant_data_records.csv")
         
         status_list = [
             "Rejected",
