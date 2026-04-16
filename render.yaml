@@ -2,11 +2,12 @@ services:
   - type: web
     name: 13backend
     runtime: python
+    pythonVersion: "3.11.9"
     buildCommand: "./build.sh"
     startCommand: "gunicorn project.wsgi:application"
     envVars:
       - key: PYTHON_VERSION
-        value: "3.11.4"
+        value: "3.11.9"
       - key: SECRET_KEY
         generateValue: true
       - key: DEBUG
